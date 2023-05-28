@@ -32,7 +32,7 @@ foreach ($files as $file) {
     $searchItems[] = '
     {
         title: "NixOS Package PRs for '.$package.'",
-        query: "NixOS/nixpkgs is:pr is:open in:title '.$package.'",
+        query: "repo:NixOS/nixpkgs is:pr is:open in:title '.$package.'",
         TYPE: "ISSUE",
         link: `${BASE_URL}/nixos-'.$package.'.json`,
     },
