@@ -4,6 +4,7 @@
     nativeBuildInputs = [
       pkgs.nodejs_18
       pkgs.yarn
+      pkgs.php82
     ];
 }
 
