@@ -20,9 +20,9 @@ export const SEARCH_ITEMS: RSSItem[] = [
         link: `${BASE_URL}/nixos-packages.json`,
     },
     {
-        title: "NixOS Packages PRs OR",
-        query: "NixOS/nixpkgs is:pr is:open (smartgithg OR qownnotes)",
+        title: "NixOS Packages PRs MORE",
+        query: "NixOS/nixpkgs (is:pr is:open in:title (smartgithg OR qownnotes OR qmarkdowntextedit))",
         TYPE: "ISSUE",
-        link: `${BASE_URL}/nixos-packages-or.json`,
+        link: `${BASE_URL}/nixos-packages-more.json`,
     },
 ];
