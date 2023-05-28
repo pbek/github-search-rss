@@ -1,8 +1,8 @@
 name: rss
 on:
-  push:
-    branches:
-      - main  # Set a branch name to trigger deployment
+#  push:
+#    branches:
+#      - main  # Set a branch name to trigger deployment
   schedule:
     # every 1 hour
     - cron: '0 * * * *'
