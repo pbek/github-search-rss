@@ -29,18 +29,20 @@ foreach ($files as $file) {
 //        TYPE: "ISSUE",
 //        link: `${BASE_URL}/nixos-smartgithg.json`,
 //    },
-    $searchItems[] = [
-        'title' => 'NixOS Packages PRs for '.$package,
-        'query' => 'NixOS/nixpkgs is:pr is:open in:title '.$package,
-        'TYPE' => 'ISSUE',
-        'link' => '${BASE_URL}/nixos-'.$package.'.json',
-    ];
+    $searchItems[] = '
+    {
+        title: "NixOS Package PRs for '.$package.'",
+        query: "NixOS/nixpkgs is:pr is:open '.$package.'",
+        TYPE: "ISSUE",
+        link: `${BASE_URL}/nixos-'.$package.'.json`,
+    },
+    ';
 }
 
 print 'Found '.count($searchItems).' packages'.PHP_EOL;
 
 $content = file_get_contents(__DIR__.'/src/RSS.template.ts');
-$content = str_replace('X_SEARCH_ITEMS_X', json_encode($searchItems, JSON_PRETTY_PRINT), $content);
+$content = str_replace('X_SEARCH_ITEMS_X', implode('', $searchItems), $content);
 
 print 'Writing src/RSS.ts'.PHP_EOL;
 file_put_contents(__DIR__.'/src/RSS.ts', $content);

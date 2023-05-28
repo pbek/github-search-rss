@@ -11,4 +11,6 @@ export const BASE_URL = "https://pbek.github.io/github-search-rss";
 // https://docs.github.com/en/github/searching-for-information-on-github/about-searching-on-github
 // TYPE references
 // https://docs.github.com/en/graphql/reference/queries#searchresultitemconnection
-export const SEARCH_ITEMS: RSSItem[] = X_SEARCH_ITEMS_X;
+export const SEARCH_ITEMS: RSSItem[] = [
+    X_SEARCH_ITEMS_X
+];
