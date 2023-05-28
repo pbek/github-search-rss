@@ -15,7 +15,7 @@ $subPackages = [];
 $packageCount = 0;
 $subCount = 0;
 $fileCount = count($files);
-$packageBlacklist = ['systemd'];
+$packageBlacklist = ['systemd', 'python', 'perl', 'php', 'patch', 'time', 'file', 'vscode', 'chromium', 'firefox', 'sudo', 'nix', 'tree'];
 
 foreach ($files as $fileKey => $file) {
     $basename = basename($file);
