@@ -1,8 +1,8 @@
 {
     "version": "https://jsonfeed.org/version/1",
-    "title": "NixOS Package PRs for kcmutils-5.106.0, grantlee, grantleetheme, kemoticons-5.106.0, kparts-5.106.0, kcalutils packages",
+    "title": "NixOS Package PRs for grantlee, grantleetheme, kemoticons-5.106.0, kparts-5.106.0, kcalutils, korganizer packages",
     "home_page_url": "https://pbek.github.io/github-search-rss/nixos-packages-8.json",
     "feed_url": "https://pbek.github.io/github-search-rss/nixos-packages-8.json",
-    "description": "NixOS Package PRs for kcmutils-5.106.0, grantlee, grantleetheme, kemoticons-5.106.0, kparts-5.106.0, kcalutils packages on GitHub",
+    "description": "NixOS Package PRs for grantlee, grantleetheme, kemoticons-5.106.0, kparts-5.106.0, kcalutils, korganizer packages on GitHub",
     "items": []
 }

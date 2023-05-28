@@ -1,8 +1,8 @@
 {
     "version": "https://jsonfeed.org/version/1",
-    "title": "NixOS Package PRs for kauth, kwidgetsaddons, kguiaddons, kconfigwidgets, breeze-icons, kdoctools packages",
+    "title": "NixOS Package PRs for kwidgetsaddons, kguiaddons, kconfigwidgets, breeze-icons, kdoctools, kiconthemes-5.106.0 packages",
     "home_page_url": "https://pbek.github.io/github-search-rss/nixos-packages-3.json",
     "feed_url": "https://pbek.github.io/github-search-rss/nixos-packages-3.json",
-    "description": "NixOS Package PRs for kauth, kwidgetsaddons, kguiaddons, kconfigwidgets, breeze-icons, kdoctools packages on GitHub",
+    "description": "NixOS Package PRs for kwidgetsaddons, kguiaddons, kconfigwidgets, breeze-icons, kdoctools, kiconthemes-5.106.0 packages on GitHub",
     "items": []
 }
