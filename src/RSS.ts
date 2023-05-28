@@ -22,7 +22,7 @@ export const SEARCH_ITEMS: RSSItem[] = [
     },
     {
         title: "NixOS Packages PRs OR",
-        query: "NixOS/nixpkgs is:pr is:open smartgithg OR qownnotes",
+        query: "NixOS/nixpkgs is:pr is:open (smartgithg OR qownnotes)",
         TYPE: "ISSUE",
         link: `${BASE_URL}/nixos-packages.json`,
         homepage: "https://github.com/NixOS/nixpkgs/pulls?q=is%3Apr+is%3Aopen+smartgithg+OR+qownnotes+OR+qmarkdowntextedit"
