@@ -14,7 +14,7 @@ export const BASE_URL = "https://pbek.github.io/github-search-rss";
 export const SEARCH_ITEMS: RSSItem[] = [
     {
         title: "NixOS Package PRs for qownnotes",
-        query: "repo:NixOS/nixpkgs is:pr is:open in:title (qownnotes OR loganalzer OR qmarkdowntextedit)",
+        query: "repo:NixOS/nixpkgs is:pr is:open in:title (qownnotes OR loganalyzer OR qmarkdowntextedit)",
         TYPE: "ISSUE",
         link: `${BASE_URL}/nixos-qownnotes.json`,
     },
