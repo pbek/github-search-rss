@@ -15,6 +15,7 @@ $subPackages = [];
 $packageCount = 0;
 $subCount = 0;
 $fileCount = count($files);
+$packageBlacklist = ['systemd'];
 
 foreach ($files as $fileKey => $file) {
     $basename = basename($file);
@@ -29,8 +30,10 @@ foreach ($files as $fileKey => $file) {
 
     $package = implode('-', $parts);
 
-    var_dump($basename);
-    var_dump($package);
+    // Check if the package is blacklisted
+    if (in_array($package, $packageBlacklist)) {
+        continue;
+    }
 
     /*
     {
@@ -54,6 +57,7 @@ foreach ($files as $fileKey => $file) {
     $subPackages[] = $package;
     $packages[] = $package;
 
+    // Create a new item if we have enough packages or if we are at the end of the list
     if ($subCount === $packagesPerItem || $fileKey == ($fileCount - 1)) {
         $searchItems[] = '
         {
