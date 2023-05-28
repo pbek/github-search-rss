@@ -1,8 +1,0 @@
-{
-    "version": "https://jsonfeed.org/version/1",
-    "title": "NixOS Package PRs for xlsclients",
-    "home_page_url": "https://pbek.github.io/github-search-rss/nixos-xlsclients.json",
-    "feed_url": "https://pbek.github.io/github-search-rss/nixos-xlsclients.json",
-    "description": "NixOS Package PRs for xlsclients on GitHub",
-    "items": []
-}

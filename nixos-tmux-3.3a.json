@@ -1,8 +1,0 @@
-{
-    "version": "https://jsonfeed.org/version/1",
-    "title": "NixOS Package PRs for tmux-3.3a",
-    "home_page_url": "https://pbek.github.io/github-search-rss/nixos-tmux-3.3a.json",
-    "feed_url": "https://pbek.github.io/github-search-rss/nixos-tmux-3.3a.json",
-    "description": "NixOS Package PRs for tmux-3.3a on GitHub",
-    "items": []
-}

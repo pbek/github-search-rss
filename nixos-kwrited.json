@@ -1,8 +1,0 @@
-{
-    "version": "https://jsonfeed.org/version/1",
-    "title": "NixOS Package PRs for kwrited",
-    "home_page_url": "https://pbek.github.io/github-search-rss/nixos-kwrited.json",
-    "feed_url": "https://pbek.github.io/github-search-rss/nixos-kwrited.json",
-    "description": "NixOS Package PRs for kwrited on GitHub",
-    "items": []
-}

@@ -1,8 +1,0 @@
-{
-    "version": "https://jsonfeed.org/version/1",
-    "title": "NixOS Package PRs for glibc-locales-2.37",
-    "home_page_url": "https://pbek.github.io/github-search-rss/nixos-glibc-locales-2.37.json",
-    "feed_url": "https://pbek.github.io/github-search-rss/nixos-glibc-locales-2.37.json",
-    "description": "NixOS Package PRs for glibc-locales-2.37 on GitHub",
-    "items": []
-}

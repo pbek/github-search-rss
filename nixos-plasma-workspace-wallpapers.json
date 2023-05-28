@@ -1,8 +1,0 @@
-{
-    "version": "https://jsonfeed.org/version/1",
-    "title": "NixOS Package PRs for plasma-workspace-wallpapers",
-    "home_page_url": "https://pbek.github.io/github-search-rss/nixos-plasma-workspace-wallpapers.json",
-    "feed_url": "https://pbek.github.io/github-search-rss/nixos-plasma-workspace-wallpapers.json",
-    "description": "NixOS Package PRs for plasma-workspace-wallpapers on GitHub",
-    "items": []
-}

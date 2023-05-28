@@ -1,8 +1,0 @@
-{
-    "version": "https://jsonfeed.org/version/1",
-    "title": "NixOS Package PRs for bind-9.18.14",
-    "home_page_url": "https://pbek.github.io/github-search-rss/nixos-bind-9.18.14.json",
-    "feed_url": "https://pbek.github.io/github-search-rss/nixos-bind-9.18.14.json",
-    "description": "NixOS Package PRs for bind-9.18.14 on GitHub",
-    "items": []
-}

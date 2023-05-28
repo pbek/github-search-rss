@@ -1,8 +1,0 @@
-{
-    "version": "https://jsonfeed.org/version/1",
-    "title": "NixOS Package PRs for e2fsprogs-1.46.6",
-    "home_page_url": "https://pbek.github.io/github-search-rss/nixos-e2fsprogs-1.46.6.json",
-    "feed_url": "https://pbek.github.io/github-search-rss/nixos-e2fsprogs-1.46.6.json",
-    "description": "NixOS Package PRs for e2fsprogs-1.46.6 on GitHub",
-    "items": []
-}

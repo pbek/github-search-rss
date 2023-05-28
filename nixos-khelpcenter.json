@@ -1,8 +1,0 @@
-{
-    "version": "https://jsonfeed.org/version/1",
-    "title": "NixOS Package PRs for khelpcenter",
-    "home_page_url": "https://pbek.github.io/github-search-rss/nixos-khelpcenter.json",
-    "feed_url": "https://pbek.github.io/github-search-rss/nixos-khelpcenter.json",
-    "description": "NixOS Package PRs for khelpcenter on GitHub",
-    "items": []
-}

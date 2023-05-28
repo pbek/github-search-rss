@@ -1,8 +1,0 @@
-{
-    "version": "https://jsonfeed.org/version/1",
-    "title": "NixOS Package PRs for xset",
-    "home_page_url": "https://pbek.github.io/github-search-rss/nixos-xset.json",
-    "feed_url": "https://pbek.github.io/github-search-rss/nixos-xset.json",
-    "description": "NixOS Package PRs for xset on GitHub",
-    "items": []
-}

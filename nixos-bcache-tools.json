@@ -1,8 +1,0 @@
-{
-    "version": "https://jsonfeed.org/version/1",
-    "title": "NixOS Package PRs for bcache-tools",
-    "home_page_url": "https://pbek.github.io/github-search-rss/nixos-bcache-tools.json",
-    "feed_url": "https://pbek.github.io/github-search-rss/nixos-bcache-tools.json",
-    "description": "NixOS Package PRs for bcache-tools on GitHub",
-    "items": []
-}

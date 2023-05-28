@@ -1,8 +1,0 @@
-{
-    "version": "https://jsonfeed.org/version/1",
-    "title": "NixOS Package PRs for libressl-3.7.2",
-    "home_page_url": "https://pbek.github.io/github-search-rss/nixos-libressl-3.7.2.json",
-    "feed_url": "https://pbek.github.io/github-search-rss/nixos-libressl-3.7.2.json",
-    "description": "NixOS Package PRs for libressl-3.7.2 on GitHub",
-    "items": []
-}

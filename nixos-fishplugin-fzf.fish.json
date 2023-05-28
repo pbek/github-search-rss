@@ -1,8 +1,0 @@
-{
-    "version": "https://jsonfeed.org/version/1",
-    "title": "NixOS Package PRs for fishplugin-fzf.fish",
-    "home_page_url": "https://pbek.github.io/github-search-rss/nixos-fishplugin-fzf.fish.json",
-    "feed_url": "https://pbek.github.io/github-search-rss/nixos-fishplugin-fzf.fish.json",
-    "description": "NixOS Package PRs for fishplugin-fzf.fish on GitHub",
-    "items": []
-}

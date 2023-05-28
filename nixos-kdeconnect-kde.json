@@ -1,8 +1,0 @@
-{
-    "version": "https://jsonfeed.org/version/1",
-    "title": "NixOS Package PRs for kdeconnect-kde",
-    "home_page_url": "https://pbek.github.io/github-search-rss/nixos-kdeconnect-kde.json",
-    "feed_url": "https://pbek.github.io/github-search-rss/nixos-kdeconnect-kde.json",
-    "description": "NixOS Package PRs for kdeconnect-kde on GitHub",
-    "items": []
-}

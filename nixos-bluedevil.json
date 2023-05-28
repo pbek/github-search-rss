@@ -1,8 +1,0 @@
-{
-    "version": "https://jsonfeed.org/version/1",
-    "title": "NixOS Package PRs for bluedevil",
-    "home_page_url": "https://pbek.github.io/github-search-rss/nixos-bluedevil.json",
-    "feed_url": "https://pbek.github.io/github-search-rss/nixos-bluedevil.json",
-    "description": "NixOS Package PRs for bluedevil on GitHub",
-    "items": []
-}
