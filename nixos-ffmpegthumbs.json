@@ -1,8 +1,8 @@
 {
     "version": "https://jsonfeed.org/version/1",
-    "title": "NixOS Packages PRs for ffmpegthumbs",
-    "home_page_url": "${BASE_URL}/nixos-ffmpegthumbs.json",
-    "feed_url": "${BASE_URL}/nixos-ffmpegthumbs.json",
-    "description": "NixOS Packages PRs for ffmpegthumbs on GitHub",
+    "title": "NixOS Package PRs for ffmpegthumbs",
+    "home_page_url": "https://pbek.github.io/github-search-rss/nixos-ffmpegthumbs.json",
+    "feed_url": "https://pbek.github.io/github-search-rss/nixos-ffmpegthumbs.json",
+    "description": "NixOS Package PRs for ffmpegthumbs on GitHub",
     "items": []
 }

@@ -1,8 +1,20 @@
 {
     "version": "https://jsonfeed.org/version/1",
-    "title": "NixOS Packages PRs for NetworkManager-vpnc",
-    "home_page_url": "${BASE_URL}/nixos-NetworkManager-vpnc.json",
-    "feed_url": "${BASE_URL}/nixos-NetworkManager-vpnc.json",
-    "description": "NixOS Packages PRs for NetworkManager-vpnc on GitHub",
-    "items": []
+    "title": "NixOS Package PRs for NetworkManager-vpnc",
+    "home_page_url": "https://pbek.github.io/github-search-rss/nixos-NetworkManager-vpnc.json",
+    "feed_url": "https://pbek.github.io/github-search-rss/nixos-NetworkManager-vpnc.json",
+    "description": "NixOS Package PRs for NetworkManager-vpnc on GitHub",
+    "items": [
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/2189609?u=cfde4091c46cd2f5dd706a9b95673e8a915059ae&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/>\n<h6 dir=\"auto\">Motivation for this change</h6>\n<p dir=\"auto\">The ISC DHCP source contains a tarball of BIND 9.11.14 which the Makefile will untar and build. The autoconf config files in the tarball (config.guess, config.sub) are outdated, preventing compilation on newer platforms (riscv64).</p>\n<p dir=\"auto\">There is an option to use our own libbind (<code class=\"notranslate\">--with-libbind</code>), but the API has changed and the version we are shipping is no longer compatible (I've tried). Resistance is futile - Just accept the ancient tarball of BIND that is also sitting <a href=\"https://gitlab.isc.org/isc-projects/dhcp/-/tree/master/bind\" rel=\"nofollow\">right in their git repo</a> <g-emoji class=\"g-emoji\" alias=\"vomiting_face\" fallback-src=\"https://github.githubassets.com/images/icons/emoji/unicode/1f92e.png\">🤮</g-emoji> I never knew this was a thing, and now I can't unsee it.</p>\n<p dir=\"auto\">Tested to build on riscv64 and x86-64.</p>\n<h6 dir=\"auto\">Things done</h6>\n\n<ul class=\"contains-task-list\">\n<li class=\"task-list-item\"><input type=\"checkbox\" id=\"\" disabled=\"\" class=\"task-list-item-checkbox\" checked=\"\"> Tested using sandboxing (<a href=\"https://nixos.org/nixos/manual/options.html#opt-nix.useSandbox\" rel=\"nofollow\">nix.useSandbox</a> on NixOS, or option <code class=\"notranslate\">sandbox</code> in <a href=\"https://nixos.org/nix/manual/#sec-conf-file\" rel=\"nofollow\"><code class=\"notranslate\">nix.conf</code></a> on non-NixOS linux)</li>\n<li>Built on platform(s)\n<ul class=\"contains-task-list\">\n<li class=\"task-list-item\"><input type=\"checkbox\" id=\"\" disabled=\"\" class=\"task-list-item-checkbox\" checked=\"\"> NixOS</li>\n<li class=\"task-list-item\"><input type=\"checkbox\" id=\"\" disabled=\"\" class=\"task-list-item-checkbox\"> macOS</li>\n<li class=\"task-list-item\"><input type=\"checkbox\" id=\"\" disabled=\"\" class=\"task-list-item-checkbox\"> other Linux distributions</li>\n</ul>\n</li>\n<li class=\"task-list-item\"><input type=\"checkbox\" id=\"\" disabled=\"\" class=\"task-list-item-checkbox\"> Tested via one or more NixOS test(s) if existing and applicable for the change (look inside <a href=\"https://github.com/NixOS/nixpkgs/blob/master/nixos/tests\">nixos/tests</a>)</li>\n<li class=\"task-list-item\"><input type=\"checkbox\" id=\"\" disabled=\"\" class=\"task-list-item-checkbox\"> Tested compilation of all pkgs that depend on this change using <code class=\"notranslate\">nix-shell -p nixpkgs-review --run \"nixpkgs-review wip\"</code></li>\n<li class=\"task-list-item\"><input type=\"checkbox\" id=\"\" disabled=\"\" class=\"task-list-item-checkbox\" checked=\"\"> Tested execution of all binary files (usually in <code class=\"notranslate\">./result/bin/</code>)</li>\n<li><a href=\"https://github.com/NixOS/nixpkgs/blob/master/.github/CONTRIBUTING.md#generating-2111-release-notes\">21.11 Release Notes</a>\n<ul class=\"contains-task-list\">\n<li class=\"task-list-item\"><input type=\"checkbox\" id=\"\" disabled=\"\" class=\"task-list-item-checkbox\"> (Package updates) Added a release notes entry if the change is major or breaking</li>\n<li class=\"task-list-item\"><input type=\"checkbox\" id=\"\" disabled=\"\" class=\"task-list-item-checkbox\"> (Module updates) Added a release notes entry if the change is significant</li>\n<li class=\"task-list-item\"><input type=\"checkbox\" id=\"\" disabled=\"\" class=\"task-list-item-checkbox\"> (Module addition) Added a release notes entry if adding a new NixOS module</li>\n</ul>\n</li>\n<li class=\"task-list-item\"><input type=\"checkbox\" id=\"\" disabled=\"\" class=\"task-list-item-checkbox\" checked=\"\"> Fits <a href=\"https://github.com/NixOS/nixpkgs/blob/master/.github/CONTRIBUTING.md\">CONTRIBUTING.md</a>.</li>\n</ul>",
+            "url": "https://github.com/NixOS/nixpkgs/pull/126434",
+            "title": "dhcp: Update config.guess in bundled BIND source tree",
+            "date_modified": "2023-04-04T11:32:58.000Z",
+            "date_published": "2021-06-10T02:17:24.000Z",
+            "author": {
+                "name": "zhaofengli",
+                "url": "https://github.com/zhaofengli"
+            }
+        }
+    ]
 }

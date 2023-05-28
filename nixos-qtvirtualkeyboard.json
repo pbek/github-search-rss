@@ -1,8 +1,8 @@
 {
     "version": "https://jsonfeed.org/version/1",
-    "title": "NixOS Packages PRs for qtvirtualkeyboard",
-    "home_page_url": "${BASE_URL}/nixos-qtvirtualkeyboard.json",
-    "feed_url": "${BASE_URL}/nixos-qtvirtualkeyboard.json",
-    "description": "NixOS Packages PRs for qtvirtualkeyboard on GitHub",
+    "title": "NixOS Package PRs for qtvirtualkeyboard",
+    "home_page_url": "https://pbek.github.io/github-search-rss/nixos-qtvirtualkeyboard.json",
+    "feed_url": "https://pbek.github.io/github-search-rss/nixos-qtvirtualkeyboard.json",
+    "description": "NixOS Package PRs for qtvirtualkeyboard on GitHub",
     "items": []
 }

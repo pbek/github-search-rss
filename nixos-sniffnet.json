@@ -1,8 +1,8 @@
 {
     "version": "https://jsonfeed.org/version/1",
-    "title": "NixOS Packages PRs for sniffnet",
-    "home_page_url": "${BASE_URL}/nixos-sniffnet.json",
-    "feed_url": "${BASE_URL}/nixos-sniffnet.json",
-    "description": "NixOS Packages PRs for sniffnet on GitHub",
+    "title": "NixOS Package PRs for sniffnet",
+    "home_page_url": "https://pbek.github.io/github-search-rss/nixos-sniffnet.json",
+    "feed_url": "https://pbek.github.io/github-search-rss/nixos-sniffnet.json",
+    "description": "NixOS Package PRs for sniffnet on GitHub",
     "items": []
 }

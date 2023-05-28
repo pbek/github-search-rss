@@ -1,8 +1,8 @@
 {
     "version": "https://jsonfeed.org/version/1",
-    "title": "NixOS Packages PRs for curl-8.0.1",
-    "home_page_url": "${BASE_URL}/nixos-curl-8.0.1.json",
-    "feed_url": "${BASE_URL}/nixos-curl-8.0.1.json",
-    "description": "NixOS Packages PRs for curl-8.0.1 on GitHub",
+    "title": "NixOS Package PRs for curl-8.0.1",
+    "home_page_url": "https://pbek.github.io/github-search-rss/nixos-curl-8.0.1.json",
+    "feed_url": "https://pbek.github.io/github-search-rss/nixos-curl-8.0.1.json",
+    "description": "NixOS Package PRs for curl-8.0.1 on GitHub",
     "items": []
 }

@@ -1,8 +1,8 @@
 {
     "version": "https://jsonfeed.org/version/1",
-    "title": "NixOS Packages PRs for kipi-plugins",
-    "home_page_url": "${BASE_URL}/nixos-kipi-plugins.json",
-    "feed_url": "${BASE_URL}/nixos-kipi-plugins.json",
-    "description": "NixOS Packages PRs for kipi-plugins on GitHub",
+    "title": "NixOS Package PRs for kipi-plugins",
+    "home_page_url": "https://pbek.github.io/github-search-rss/nixos-kipi-plugins.json",
+    "feed_url": "https://pbek.github.io/github-search-rss/nixos-kipi-plugins.json",
+    "description": "NixOS Package PRs for kipi-plugins on GitHub",
     "items": []
 }

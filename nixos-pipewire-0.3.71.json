@@ -1,8 +1,8 @@
 {
     "version": "https://jsonfeed.org/version/1",
-    "title": "NixOS Packages PRs for pipewire-0.3.71",
-    "home_page_url": "${BASE_URL}/nixos-pipewire-0.3.71.json",
-    "feed_url": "${BASE_URL}/nixos-pipewire-0.3.71.json",
-    "description": "NixOS Packages PRs for pipewire-0.3.71 on GitHub",
+    "title": "NixOS Package PRs for pipewire-0.3.71",
+    "home_page_url": "https://pbek.github.io/github-search-rss/nixos-pipewire-0.3.71.json",
+    "feed_url": "https://pbek.github.io/github-search-rss/nixos-pipewire-0.3.71.json",
+    "description": "NixOS Package PRs for pipewire-0.3.71 on GitHub",
     "items": []
 }

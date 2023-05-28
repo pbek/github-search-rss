@@ -1,8 +1,8 @@
 {
     "version": "https://jsonfeed.org/version/1",
-    "title": "NixOS Packages PRs for xf86-input-evdev",
-    "home_page_url": "${BASE_URL}/nixos-xf86-input-evdev.json",
-    "feed_url": "${BASE_URL}/nixos-xf86-input-evdev.json",
-    "description": "NixOS Packages PRs for xf86-input-evdev on GitHub",
+    "title": "NixOS Package PRs for xf86-input-evdev",
+    "home_page_url": "https://pbek.github.io/github-search-rss/nixos-xf86-input-evdev.json",
+    "feed_url": "https://pbek.github.io/github-search-rss/nixos-xf86-input-evdev.json",
+    "description": "NixOS Package PRs for xf86-input-evdev on GitHub",
     "items": []
 }

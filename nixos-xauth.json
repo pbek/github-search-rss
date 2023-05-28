@@ -1,8 +1,8 @@
 {
     "version": "https://jsonfeed.org/version/1",
-    "title": "NixOS Packages PRs for xauth",
-    "home_page_url": "${BASE_URL}/nixos-xauth.json",
-    "feed_url": "${BASE_URL}/nixos-xauth.json",
-    "description": "NixOS Packages PRs for xauth on GitHub",
+    "title": "NixOS Package PRs for xauth",
+    "home_page_url": "https://pbek.github.io/github-search-rss/nixos-xauth.json",
+    "feed_url": "https://pbek.github.io/github-search-rss/nixos-xauth.json",
+    "description": "NixOS Package PRs for xauth on GitHub",
     "items": []
 }

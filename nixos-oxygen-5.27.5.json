@@ -1,8 +1,8 @@
 {
     "version": "https://jsonfeed.org/version/1",
-    "title": "NixOS Packages PRs for oxygen-5.27.5",
-    "home_page_url": "${BASE_URL}/nixos-oxygen-5.27.5.json",
-    "feed_url": "${BASE_URL}/nixos-oxygen-5.27.5.json",
-    "description": "NixOS Packages PRs for oxygen-5.27.5 on GitHub",
+    "title": "NixOS Package PRs for oxygen-5.27.5",
+    "home_page_url": "https://pbek.github.io/github-search-rss/nixos-oxygen-5.27.5.json",
+    "feed_url": "https://pbek.github.io/github-search-rss/nixos-oxygen-5.27.5.json",
+    "description": "NixOS Package PRs for oxygen-5.27.5 on GitHub",
     "items": []
 }

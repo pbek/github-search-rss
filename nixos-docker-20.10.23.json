@@ -1,8 +1,8 @@
 {
     "version": "https://jsonfeed.org/version/1",
-    "title": "NixOS Packages PRs for docker-20.10.23",
-    "home_page_url": "${BASE_URL}/nixos-docker-20.10.23.json",
-    "feed_url": "${BASE_URL}/nixos-docker-20.10.23.json",
-    "description": "NixOS Packages PRs for docker-20.10.23 on GitHub",
+    "title": "NixOS Package PRs for docker-20.10.23",
+    "home_page_url": "https://pbek.github.io/github-search-rss/nixos-docker-20.10.23.json",
+    "feed_url": "https://pbek.github.io/github-search-rss/nixos-docker-20.10.23.json",
+    "description": "NixOS Package PRs for docker-20.10.23 on GitHub",
     "items": []
 }

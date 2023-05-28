@@ -1,8 +1,8 @@
 {
     "version": "https://jsonfeed.org/version/1",
-    "title": "NixOS Packages PRs for obexftp",
-    "home_page_url": "${BASE_URL}/nixos-obexftp.json",
-    "feed_url": "${BASE_URL}/nixos-obexftp.json",
-    "description": "NixOS Packages PRs for obexftp on GitHub",
+    "title": "NixOS Package PRs for obexftp",
+    "home_page_url": "https://pbek.github.io/github-search-rss/nixos-obexftp.json",
+    "feed_url": "https://pbek.github.io/github-search-rss/nixos-obexftp.json",
+    "description": "NixOS Package PRs for obexftp on GitHub",
     "items": []
 }

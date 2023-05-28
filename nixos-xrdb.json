@@ -1,8 +1,8 @@
 {
     "version": "https://jsonfeed.org/version/1",
-    "title": "NixOS Packages PRs for xrdb",
-    "home_page_url": "${BASE_URL}/nixos-xrdb.json",
-    "feed_url": "${BASE_URL}/nixos-xrdb.json",
-    "description": "NixOS Packages PRs for xrdb on GitHub",
+    "title": "NixOS Package PRs for xrdb",
+    "home_page_url": "https://pbek.github.io/github-search-rss/nixos-xrdb.json",
+    "feed_url": "https://pbek.github.io/github-search-rss/nixos-xrdb.json",
+    "description": "NixOS Package PRs for xrdb on GitHub",
     "items": []
 }
