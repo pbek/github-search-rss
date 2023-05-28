@@ -4,7 +4,8 @@
  **/
 import { RSSItem } from "./index";
 
-const BASE_URL = "https://pbek.github.io/github-search-rss";
+export const BASE_URL = "https://pbek.github.io/github-search-rss";
+
 // Query references
 // https://docs.github.com/en/github/searching-for-information-on-github/understanding-the-search-syntax
 // https://docs.github.com/en/github/searching-for-information-on-github/about-searching-on-github
@@ -13,10 +14,10 @@ const BASE_URL = "https://pbek.github.io/github-search-rss";
 export const SEARCH_ITEMS: RSSItem[] = [
     // Issue
     {
-        title: "microsoft/TypeScript Iteration Plan",
-        query: "NixOS/nixpkgs is:pr is:open smartgithg ",
+        title: "NixOS Packages PRs",
+        query: "NixOS/nixpkgs is:pr is:open smartgithg OR qownnotes",
         TYPE: "ISSUE",
-        link: `${BASE_URL}/nixos-smartgithg.json`,
+        link: `${BASE_URL}/nixos-packages.json`,
         homepage: "https://github.com/NixOS/nixpkgs/pulls?q=is%3Apr+is%3Aopen+smartgithg"
     },
 ];

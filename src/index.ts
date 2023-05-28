@@ -1,6 +1,6 @@
 import { Feed } from "feed";
 import dayjs from "dayjs";
-import { SEARCH_ITEMS } from "./RSS";
+import { SEARCH_ITEMS, BASE_URL } from "./RSS";
 import * as fs from "fs/promises";
 import path from "path";
 import { graphql } from "@octokit/graphql";
@@ -235,6 +235,8 @@ if (require.main === module) {
         await fs.mkdir(distDir, {
             recursive: true
         });
+
+        const allItems = [];
         for (const item of SEARCH_ITEMS) {
             const { query, TYPE, SIZE, ...options } = item;
             const items = await search({
@@ -253,7 +255,19 @@ if (require.main === module) {
             });
             const fileName = path.basename(item.link);
             await fs.writeFile(path.join(distDir, fileName), rss, "utf-8");
+
+            allItems.push(...items);
         }
+
+        // generate merged rss
+        const rss = generateRSS(allItems, {
+            title: "merged rss",
+            link: `${BASE_URL}/all.json`,
+            description: `merged rss on GitHub`,
+            updated: new Date()
+        });
+        await fs.writeFile(path.join(distDir, "all.json"), rss, "utf-8");
+
         const opml = convertJsonToOPML(SEARCH_ITEMS);
         await fs.writeFile(path.join(distDir, "index.opml"), opml, "utf-8");
         const links = SEARCH_ITEMS.map((feed) => {
