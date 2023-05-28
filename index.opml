@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?><opml version="2.0">
     <head>
     <title>GitHub Search Subscriptions</title>
-    <dateCreated>2023-05-28T10:54:41.242Z</dateCreated>
+    <dateCreated>2023-05-28T10:55:44.667Z</dateCreated>
 </head>
     <body>
     <outline title="Subscriptions">
         <outline>
             <outline type="rss" title="NixOS Packages PRs" htmlUrl="https://pbek.github.io/github-search-rss/nixos-packages.json" xmlUrl="https://pbek.github.io/github-search-rss/nixos-packages.json"/>
-            <outline type="rss" title="NixOS Packages PRs OR" htmlUrl="https://pbek.github.io/github-search-rss/nixos-packages.json" xmlUrl="https://pbek.github.io/github-search-rss/nixos-packages.json"/>
+            <outline type="rss" title="NixOS Packages PRs OR" htmlUrl="https://pbek.github.io/github-search-rss/nixos-packages-or.json" xmlUrl="https://pbek.github.io/github-search-rss/nixos-packages-or.json"/>
         </outline>
     </outline>
 </body>
