@@ -1,0 +1,8 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "NixOS Package PRs for kirigami2, plasma-framework-5.106.0, krunner-5.106.0, kaccounts-integration, akonadi, knewstuff-5.106.0 packages",
+    "home_page_url": "https://pbek.github.io/github-search-rss/nixos-packages-7.json",
+    "feed_url": "https://pbek.github.io/github-search-rss/nixos-packages-7.json",
+    "description": "NixOS Package PRs for kirigami2, plasma-framework-5.106.0, krunner-5.106.0, kaccounts-integration, akonadi, knewstuff-5.106.0 packages on GitHub",
+    "items": []
+}

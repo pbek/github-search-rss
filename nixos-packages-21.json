@@ -1,0 +1,8 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "NixOS Package PRs for gwenview, btop, print-manager, wireplumber, konsole, plasma-pa packages",
+    "home_page_url": "https://pbek.github.io/github-search-rss/nixos-packages-21.json",
+    "feed_url": "https://pbek.github.io/github-search-rss/nixos-packages-21.json",
+    "description": "NixOS Package PRs for gwenview, btop, print-manager, wireplumber, konsole, plasma-pa packages on GitHub",
+    "items": []
+}

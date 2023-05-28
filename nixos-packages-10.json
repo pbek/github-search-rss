@@ -1,0 +1,8 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "NixOS Package PRs for khelpcenter, frameworkintegration-5.106.0, kdecoration, breeze-qt5-5.27.5, plasma-integration, kdbusaddons-5.106.0 packages",
+    "home_page_url": "https://pbek.github.io/github-search-rss/nixos-packages-10.json",
+    "feed_url": "https://pbek.github.io/github-search-rss/nixos-packages-10.json",
+    "description": "NixOS Package PRs for khelpcenter, frameworkintegration-5.106.0, kdecoration, breeze-qt5-5.27.5, plasma-integration, kdbusaddons-5.106.0 packages on GitHub",
+    "items": []
+}
