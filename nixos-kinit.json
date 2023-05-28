@@ -1,0 +1,8 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "NixOS Packages PRs for kinit",
+    "home_page_url": "${BASE_URL}/nixos-kinit.json",
+    "feed_url": "${BASE_URL}/nixos-kinit.json",
+    "description": "NixOS Packages PRs for kinit on GitHub",
+    "items": []
+}

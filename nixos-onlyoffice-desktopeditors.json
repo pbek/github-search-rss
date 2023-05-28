@@ -1,0 +1,8 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "NixOS Packages PRs for onlyoffice-desktopeditors",
+    "home_page_url": "${BASE_URL}/nixos-onlyoffice-desktopeditors.json",
+    "feed_url": "${BASE_URL}/nixos-onlyoffice-desktopeditors.json",
+    "description": "NixOS Packages PRs for onlyoffice-desktopeditors on GitHub",
+    "items": []
+}

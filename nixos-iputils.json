@@ -1,0 +1,8 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "NixOS Packages PRs for iputils",
+    "home_page_url": "${BASE_URL}/nixos-iputils.json",
+    "feed_url": "${BASE_URL}/nixos-iputils.json",
+    "description": "NixOS Packages PRs for iputils on GitHub",
+    "items": []
+}

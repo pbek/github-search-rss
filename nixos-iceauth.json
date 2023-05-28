@@ -1,0 +1,8 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "NixOS Packages PRs for iceauth",
+    "home_page_url": "${BASE_URL}/nixos-iceauth.json",
+    "feed_url": "${BASE_URL}/nixos-iceauth.json",
+    "description": "NixOS Packages PRs for iceauth on GitHub",
+    "items": []
+}

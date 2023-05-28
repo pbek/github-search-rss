@@ -1,0 +1,8 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "NixOS Packages PRs for NetworkManager-vpnc",
+    "home_page_url": "${BASE_URL}/nixos-NetworkManager-vpnc.json",
+    "feed_url": "${BASE_URL}/nixos-NetworkManager-vpnc.json",
+    "description": "NixOS Packages PRs for NetworkManager-vpnc on GitHub",
+    "items": []
+}

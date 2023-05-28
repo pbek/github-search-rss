@@ -1,0 +1,8 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "NixOS Packages PRs for spice-gtk-0.42",
+    "home_page_url": "${BASE_URL}/nixos-spice-gtk-0.42.json",
+    "feed_url": "${BASE_URL}/nixos-spice-gtk-0.42.json",
+    "description": "NixOS Packages PRs for spice-gtk-0.42 on GitHub",
+    "items": []
+}

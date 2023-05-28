@@ -1,0 +1,8 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "NixOS Packages PRs for man-db",
+    "home_page_url": "${BASE_URL}/nixos-man-db.json",
+    "feed_url": "${BASE_URL}/nixos-man-db.json",
+    "description": "NixOS Packages PRs for man-db on GitHub",
+    "items": []
+}

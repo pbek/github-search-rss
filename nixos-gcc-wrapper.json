@@ -1,0 +1,8 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "NixOS Packages PRs for gcc-wrapper",
+    "home_page_url": "${BASE_URL}/nixos-gcc-wrapper.json",
+    "feed_url": "${BASE_URL}/nixos-gcc-wrapper.json",
+    "description": "NixOS Packages PRs for gcc-wrapper on GitHub",
+    "items": []
+}

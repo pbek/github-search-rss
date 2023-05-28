@@ -1,0 +1,8 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "NixOS Packages PRs for dbus-1.14.6",
+    "home_page_url": "${BASE_URL}/nixos-dbus-1.14.6.json",
+    "feed_url": "${BASE_URL}/nixos-dbus-1.14.6.json",
+    "description": "NixOS Packages PRs for dbus-1.14.6 on GitHub",
+    "items": []
+}

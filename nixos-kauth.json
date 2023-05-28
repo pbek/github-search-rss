@@ -1,0 +1,8 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "NixOS Packages PRs for kauth",
+    "home_page_url": "${BASE_URL}/nixos-kauth.json",
+    "feed_url": "${BASE_URL}/nixos-kauth.json",
+    "description": "NixOS Packages PRs for kauth on GitHub",
+    "items": []
+}

@@ -1,0 +1,8 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "NixOS Packages PRs for ksshaskpass",
+    "home_page_url": "${BASE_URL}/nixos-ksshaskpass.json",
+    "feed_url": "${BASE_URL}/nixos-ksshaskpass.json",
+    "description": "NixOS Packages PRs for ksshaskpass on GitHub",
+    "items": []
+}

@@ -1,0 +1,8 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "NixOS Packages PRs for kxmlrpcclient",
+    "home_page_url": "${BASE_URL}/nixos-kxmlrpcclient.json",
+    "feed_url": "${BASE_URL}/nixos-kxmlrpcclient.json",
+    "description": "NixOS Packages PRs for kxmlrpcclient on GitHub",
+    "items": []
+}

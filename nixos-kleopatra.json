@@ -1,0 +1,8 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "NixOS Packages PRs for kleopatra",
+    "home_page_url": "${BASE_URL}/nixos-kleopatra.json",
+    "feed_url": "${BASE_URL}/nixos-kleopatra.json",
+    "description": "NixOS Packages PRs for kleopatra on GitHub",
+    "items": []
+}

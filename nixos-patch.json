@@ -1,0 +1,8 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "NixOS Packages PRs for patch",
+    "home_page_url": "${BASE_URL}/nixos-patch.json",
+    "feed_url": "${BASE_URL}/nixos-patch.json",
+    "description": "NixOS Packages PRs for patch on GitHub",
+    "items": []
+}

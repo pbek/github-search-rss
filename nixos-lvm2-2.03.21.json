@@ -1,0 +1,8 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "NixOS Packages PRs for lvm2-2.03.21",
+    "home_page_url": "${BASE_URL}/nixos-lvm2-2.03.21.json",
+    "feed_url": "${BASE_URL}/nixos-lvm2-2.03.21.json",
+    "description": "NixOS Packages PRs for lvm2-2.03.21 on GitHub",
+    "items": []
+}

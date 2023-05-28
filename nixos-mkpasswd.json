@@ -1,0 +1,8 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "NixOS Packages PRs for mkpasswd",
+    "home_page_url": "${BASE_URL}/nixos-mkpasswd.json",
+    "feed_url": "${BASE_URL}/nixos-mkpasswd.json",
+    "description": "NixOS Packages PRs for mkpasswd on GitHub",
+    "items": []
+}

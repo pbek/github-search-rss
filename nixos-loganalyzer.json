@@ -1,0 +1,8 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "NixOS Packages PRs for loganalyzer",
+    "home_page_url": "${BASE_URL}/nixos-loganalyzer.json",
+    "feed_url": "${BASE_URL}/nixos-loganalyzer.json",
+    "description": "NixOS Packages PRs for loganalyzer on GitHub",
+    "items": []
+}

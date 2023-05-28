@@ -1,0 +1,8 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "NixOS Packages PRs for kactivitymanagerd",
+    "home_page_url": "${BASE_URL}/nixos-kactivitymanagerd.json",
+    "feed_url": "${BASE_URL}/nixos-kactivitymanagerd.json",
+    "description": "NixOS Packages PRs for kactivitymanagerd on GitHub",
+    "items": []
+}

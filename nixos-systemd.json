@@ -1,0 +1,8 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "NixOS Packages PRs for systemd",
+    "home_page_url": "${BASE_URL}/nixos-systemd.json",
+    "feed_url": "${BASE_URL}/nixos-systemd.json",
+    "description": "NixOS Packages PRs for systemd on GitHub",
+    "items": []
+}

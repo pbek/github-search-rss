@@ -1,0 +1,8 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "NixOS Packages PRs for kdoctools",
+    "home_page_url": "${BASE_URL}/nixos-kdoctools.json",
+    "feed_url": "${BASE_URL}/nixos-kdoctools.json",
+    "description": "NixOS Packages PRs for kdoctools on GitHub",
+    "items": []
+}

@@ -1,0 +1,8 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "NixOS Packages PRs for gnutar",
+    "home_page_url": "${BASE_URL}/nixos-gnutar.json",
+    "feed_url": "${BASE_URL}/nixos-gnutar.json",
+    "description": "NixOS Packages PRs for gnutar on GitHub",
+    "items": []
+}

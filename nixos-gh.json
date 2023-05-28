@@ -1,0 +1,8 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "NixOS Packages PRs for gh",
+    "home_page_url": "${BASE_URL}/nixos-gh.json",
+    "feed_url": "${BASE_URL}/nixos-gh.json",
+    "description": "NixOS Packages PRs for gh on GitHub",
+    "items": []
+}

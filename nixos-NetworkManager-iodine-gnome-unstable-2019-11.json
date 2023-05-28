@@ -1,0 +1,8 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "NixOS Packages PRs for NetworkManager-iodine-gnome-unstable-2019-11",
+    "home_page_url": "${BASE_URL}/nixos-NetworkManager-iodine-gnome-unstable-2019-11.json",
+    "feed_url": "${BASE_URL}/nixos-NetworkManager-iodine-gnome-unstable-2019-11.json",
+    "description": "NixOS Packages PRs for NetworkManager-iodine-gnome-unstable-2019-11 on GitHub",
+    "items": []
+}

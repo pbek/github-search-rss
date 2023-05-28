@@ -1,0 +1,8 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "NixOS Packages PRs for modemmanager",
+    "home_page_url": "${BASE_URL}/nixos-modemmanager.json",
+    "feed_url": "${BASE_URL}/nixos-modemmanager.json",
+    "description": "NixOS Packages PRs for modemmanager on GitHub",
+    "items": []
+}

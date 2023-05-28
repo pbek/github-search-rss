@@ -1,0 +1,8 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "NixOS Packages PRs for akonadiconsole",
+    "home_page_url": "${BASE_URL}/nixos-akonadiconsole.json",
+    "feed_url": "${BASE_URL}/nixos-akonadiconsole.json",
+    "description": "NixOS Packages PRs for akonadiconsole on GitHub",
+    "items": []
+}

@@ -1,0 +1,8 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "NixOS Packages PRs for korganizer",
+    "home_page_url": "${BASE_URL}/nixos-korganizer.json",
+    "feed_url": "${BASE_URL}/nixos-korganizer.json",
+    "description": "NixOS Packages PRs for korganizer on GitHub",
+    "items": []
+}

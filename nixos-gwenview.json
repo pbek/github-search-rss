@@ -1,0 +1,8 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "NixOS Packages PRs for gwenview",
+    "home_page_url": "${BASE_URL}/nixos-gwenview.json",
+    "feed_url": "${BASE_URL}/nixos-gwenview.json",
+    "description": "NixOS Packages PRs for gwenview on GitHub",
+    "items": []
+}

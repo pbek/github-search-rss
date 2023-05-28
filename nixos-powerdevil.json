@@ -1,0 +1,8 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "NixOS Packages PRs for powerdevil",
+    "home_page_url": "${BASE_URL}/nixos-powerdevil.json",
+    "feed_url": "${BASE_URL}/nixos-powerdevil.json",
+    "description": "NixOS Packages PRs for powerdevil on GitHub",
+    "items": []
+}

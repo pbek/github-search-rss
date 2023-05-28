@@ -1,0 +1,8 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "NixOS Packages PRs for xf86-input-libinput",
+    "home_page_url": "${BASE_URL}/nixos-xf86-input-libinput.json",
+    "feed_url": "${BASE_URL}/nixos-xf86-input-libinput.json",
+    "description": "NixOS Packages PRs for xf86-input-libinput on GitHub",
+    "items": []
+}

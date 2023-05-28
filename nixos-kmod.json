@@ -1,0 +1,8 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "NixOS Packages PRs for kmod",
+    "home_page_url": "${BASE_URL}/nixos-kmod.json",
+    "feed_url": "${BASE_URL}/nixos-kmod.json",
+    "description": "NixOS Packages PRs for kmod on GitHub",
+    "items": []
+}

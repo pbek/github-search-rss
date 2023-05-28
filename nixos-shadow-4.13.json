@@ -1,0 +1,8 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "NixOS Packages PRs for shadow-4.13",
+    "home_page_url": "${BASE_URL}/nixos-shadow-4.13.json",
+    "feed_url": "${BASE_URL}/nixos-shadow-4.13.json",
+    "description": "NixOS Packages PRs for shadow-4.13 on GitHub",
+    "items": []
+}

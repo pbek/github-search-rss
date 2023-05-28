@@ -1,0 +1,8 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "NixOS Packages PRs for kwidgetsaddons",
+    "home_page_url": "${BASE_URL}/nixos-kwidgetsaddons.json",
+    "feed_url": "${BASE_URL}/nixos-kwidgetsaddons.json",
+    "description": "NixOS Packages PRs for kwidgetsaddons on GitHub",
+    "items": []
+}

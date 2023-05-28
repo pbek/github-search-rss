@@ -1,0 +1,8 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "NixOS Packages PRs for firefox",
+    "home_page_url": "${BASE_URL}/nixos-firefox.json",
+    "feed_url": "${BASE_URL}/nixos-firefox.json",
+    "description": "NixOS Packages PRs for firefox on GitHub",
+    "items": []
+}

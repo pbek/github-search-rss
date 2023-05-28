@@ -1,0 +1,8 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "NixOS Packages PRs for libkipi",
+    "home_page_url": "${BASE_URL}/nixos-libkipi.json",
+    "feed_url": "${BASE_URL}/nixos-libkipi.json",
+    "description": "NixOS Packages PRs for libkipi on GitHub",
+    "items": []
+}

@@ -1,0 +1,8 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "NixOS Packages PRs for konsole",
+    "home_page_url": "${BASE_URL}/nixos-konsole.json",
+    "feed_url": "${BASE_URL}/nixos-konsole.json",
+    "description": "NixOS Packages PRs for konsole on GitHub",
+    "items": []
+}

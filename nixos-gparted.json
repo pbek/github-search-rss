@@ -1,0 +1,8 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "NixOS Packages PRs for gparted",
+    "home_page_url": "${BASE_URL}/nixos-gparted.json",
+    "feed_url": "${BASE_URL}/nixos-gparted.json",
+    "description": "NixOS Packages PRs for gparted on GitHub",
+    "items": []
+}

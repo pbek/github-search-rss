@@ -1,0 +1,8 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "NixOS Packages PRs for gawk",
+    "home_page_url": "${BASE_URL}/nixos-gawk.json",
+    "feed_url": "${BASE_URL}/nixos-gawk.json",
+    "description": "NixOS Packages PRs for gawk on GitHub",
+    "items": []
+}

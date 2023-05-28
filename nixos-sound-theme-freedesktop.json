@@ -1,0 +1,8 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "NixOS Packages PRs for sound-theme-freedesktop",
+    "home_page_url": "${BASE_URL}/nixos-sound-theme-freedesktop.json",
+    "feed_url": "${BASE_URL}/nixos-sound-theme-freedesktop.json",
+    "description": "NixOS Packages PRs for sound-theme-freedesktop on GitHub",
+    "items": []
+}

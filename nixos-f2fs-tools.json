@@ -1,0 +1,8 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "NixOS Packages PRs for f2fs-tools",
+    "home_page_url": "${BASE_URL}/nixos-f2fs-tools.json",
+    "feed_url": "${BASE_URL}/nixos-f2fs-tools.json",
+    "description": "NixOS Packages PRs for f2fs-tools on GitHub",
+    "items": []
+}

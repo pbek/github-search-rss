@@ -1,0 +1,8 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "NixOS Packages PRs for net-tools",
+    "home_page_url": "${BASE_URL}/nixos-net-tools.json",
+    "feed_url": "${BASE_URL}/nixos-net-tools.json",
+    "description": "NixOS Packages PRs for net-tools on GitHub",
+    "items": []
+}

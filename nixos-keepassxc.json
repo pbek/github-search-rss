@@ -1,0 +1,8 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "NixOS Packages PRs for keepassxc",
+    "home_page_url": "${BASE_URL}/nixos-keepassxc.json",
+    "feed_url": "${BASE_URL}/nixos-keepassxc.json",
+    "description": "NixOS Packages PRs for keepassxc on GitHub",
+    "items": []
+}

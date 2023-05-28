@@ -1,0 +1,8 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "NixOS Packages PRs for smartmontools",
+    "home_page_url": "${BASE_URL}/nixos-smartmontools.json",
+    "feed_url": "${BASE_URL}/nixos-smartmontools.json",
+    "description": "NixOS Packages PRs for smartmontools on GitHub",
+    "items": []
+}

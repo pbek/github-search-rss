@@ -1,0 +1,8 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "NixOS Packages PRs for noseyparker",
+    "home_page_url": "${BASE_URL}/nixos-noseyparker.json",
+    "feed_url": "${BASE_URL}/nixos-noseyparker.json",
+    "description": "NixOS Packages PRs for noseyparker on GitHub",
+    "items": []
+}

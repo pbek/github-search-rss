@@ -1,0 +1,8 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "NixOS Packages PRs for texinfo-interactive",
+    "home_page_url": "${BASE_URL}/nixos-texinfo-interactive.json",
+    "feed_url": "${BASE_URL}/nixos-texinfo-interactive.json",
+    "description": "NixOS Packages PRs for texinfo-interactive on GitHub",
+    "items": []
+}

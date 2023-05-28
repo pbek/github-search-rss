@@ -1,0 +1,8 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "NixOS Packages PRs for plasma-integration",
+    "home_page_url": "${BASE_URL}/nixos-plasma-integration.json",
+    "feed_url": "${BASE_URL}/nixos-plasma-integration.json",
+    "description": "NixOS Packages PRs for plasma-integration on GitHub",
+    "items": []
+}

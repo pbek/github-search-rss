@@ -1,0 +1,8 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "NixOS Packages PRs for kmenuedit",
+    "home_page_url": "${BASE_URL}/nixos-kmenuedit.json",
+    "feed_url": "${BASE_URL}/nixos-kmenuedit.json",
+    "description": "NixOS Packages PRs for kmenuedit on GitHub",
+    "items": []
+}

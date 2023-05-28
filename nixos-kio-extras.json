@@ -1,0 +1,8 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "NixOS Packages PRs for kio-extras",
+    "home_page_url": "${BASE_URL}/nixos-kio-extras.json",
+    "feed_url": "${BASE_URL}/nixos-kio-extras.json",
+    "description": "NixOS Packages PRs for kio-extras on GitHub",
+    "items": []
+}

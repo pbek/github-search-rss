@@ -1,0 +1,8 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "NixOS Packages PRs for bzip2-1.0.8",
+    "home_page_url": "${BASE_URL}/nixos-bzip2-1.0.8.json",
+    "feed_url": "${BASE_URL}/nixos-bzip2-1.0.8.json",
+    "description": "NixOS Packages PRs for bzip2-1.0.8 on GitHub",
+    "items": []
+}

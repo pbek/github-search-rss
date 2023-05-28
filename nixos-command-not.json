@@ -1,0 +1,8 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "NixOS Packages PRs for command-not",
+    "home_page_url": "${BASE_URL}/nixos-command-not.json",
+    "feed_url": "${BASE_URL}/nixos-command-not.json",
+    "description": "NixOS Packages PRs for command-not on GitHub",
+    "items": []
+}

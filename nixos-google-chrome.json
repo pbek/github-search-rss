@@ -1,0 +1,8 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "NixOS Packages PRs for google-chrome",
+    "home_page_url": "${BASE_URL}/nixos-google-chrome.json",
+    "feed_url": "${BASE_URL}/nixos-google-chrome.json",
+    "description": "NixOS Packages PRs for google-chrome on GitHub",
+    "items": []
+}

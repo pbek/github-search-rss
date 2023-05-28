@@ -1,0 +1,8 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "NixOS Packages PRs for NetworkManager-openconnect",
+    "home_page_url": "${BASE_URL}/nixos-NetworkManager-openconnect.json",
+    "feed_url": "${BASE_URL}/nixos-NetworkManager-openconnect.json",
+    "description": "NixOS Packages PRs for NetworkManager-openconnect on GitHub",
+    "items": []
+}

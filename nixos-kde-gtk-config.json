@@ -1,0 +1,8 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "NixOS Packages PRs for kde-gtk-config",
+    "home_page_url": "${BASE_URL}/nixos-kde-gtk-config.json",
+    "feed_url": "${BASE_URL}/nixos-kde-gtk-config.json",
+    "description": "NixOS Packages PRs for kde-gtk-config on GitHub",
+    "items": []
+}

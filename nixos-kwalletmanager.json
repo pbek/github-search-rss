@@ -1,0 +1,8 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "NixOS Packages PRs for kwalletmanager",
+    "home_page_url": "${BASE_URL}/nixos-kwalletmanager.json",
+    "feed_url": "${BASE_URL}/nixos-kwalletmanager.json",
+    "description": "NixOS Packages PRs for kwalletmanager on GitHub",
+    "items": []
+}

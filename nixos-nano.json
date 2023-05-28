@@ -1,0 +1,8 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "NixOS Packages PRs for nano",
+    "home_page_url": "${BASE_URL}/nixos-nano.json",
+    "feed_url": "${BASE_URL}/nixos-nano.json",
+    "description": "NixOS Packages PRs for nano on GitHub",
+    "items": []
+}

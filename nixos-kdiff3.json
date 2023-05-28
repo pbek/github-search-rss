@@ -1,0 +1,8 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "NixOS Packages PRs for kdiff3",
+    "home_page_url": "${BASE_URL}/nixos-kdiff3.json",
+    "feed_url": "${BASE_URL}/nixos-kdiff3.json",
+    "description": "NixOS Packages PRs for kdiff3 on GitHub",
+    "items": []
+}

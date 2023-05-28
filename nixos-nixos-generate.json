@@ -1,0 +1,8 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "NixOS Packages PRs for nixos-generate",
+    "home_page_url": "${BASE_URL}/nixos-nixos-generate.json",
+    "feed_url": "${BASE_URL}/nixos-nixos-generate.json",
+    "description": "NixOS Packages PRs for nixos-generate on GitHub",
+    "items": []
+}

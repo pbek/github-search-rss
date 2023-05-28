@@ -1,0 +1,8 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "NixOS Packages PRs for ksnip",
+    "home_page_url": "${BASE_URL}/nixos-ksnip.json",
+    "feed_url": "${BASE_URL}/nixos-ksnip.json",
+    "description": "NixOS Packages PRs for ksnip on GitHub",
+    "items": []
+}

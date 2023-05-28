@@ -1,0 +1,8 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "NixOS Packages PRs for pam_u2f",
+    "home_page_url": "${BASE_URL}/nixos-pam_u2f.json",
+    "feed_url": "${BASE_URL}/nixos-pam_u2f.json",
+    "description": "NixOS Packages PRs for pam_u2f on GitHub",
+    "items": []
+}

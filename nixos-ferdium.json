@@ -1,0 +1,8 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "NixOS Packages PRs for ferdium",
+    "home_page_url": "${BASE_URL}/nixos-ferdium.json",
+    "feed_url": "${BASE_URL}/nixos-ferdium.json",
+    "description": "NixOS Packages PRs for ferdium on GitHub",
+    "items": []
+}

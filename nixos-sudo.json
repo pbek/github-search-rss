@@ -1,0 +1,8 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "NixOS Packages PRs for sudo",
+    "home_page_url": "${BASE_URL}/nixos-sudo.json",
+    "feed_url": "${BASE_URL}/nixos-sudo.json",
+    "description": "NixOS Packages PRs for sudo on GitHub",
+    "items": []
+}

@@ -1,0 +1,8 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "NixOS Packages PRs for dolphin",
+    "home_page_url": "${BASE_URL}/nixos-dolphin.json",
+    "feed_url": "${BASE_URL}/nixos-dolphin.json",
+    "description": "NixOS Packages PRs for dolphin on GitHub",
+    "items": []
+}

@@ -1,0 +1,8 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "NixOS Packages PRs for ncurses",
+    "home_page_url": "${BASE_URL}/nixos-ncurses.json",
+    "feed_url": "${BASE_URL}/nixos-ncurses.json",
+    "description": "NixOS Packages PRs for ncurses on GitHub",
+    "items": []
+}

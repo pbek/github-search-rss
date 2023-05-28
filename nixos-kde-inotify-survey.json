@@ -1,0 +1,8 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "NixOS Packages PRs for kde-inotify-survey",
+    "home_page_url": "${BASE_URL}/nixos-kde-inotify-survey.json",
+    "feed_url": "${BASE_URL}/nixos-kde-inotify-survey.json",
+    "description": "NixOS Packages PRs for kde-inotify-survey on GitHub",
+    "items": []
+}

@@ -1,0 +1,8 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "NixOS Packages PRs for vpnc-unstable-2021-11",
+    "home_page_url": "${BASE_URL}/nixos-vpnc-unstable-2021-11.json",
+    "feed_url": "${BASE_URL}/nixos-vpnc-unstable-2021-11.json",
+    "description": "NixOS Packages PRs for vpnc-unstable-2021-11 on GitHub",
+    "items": []
+}

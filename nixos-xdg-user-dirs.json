@@ -1,0 +1,8 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "NixOS Packages PRs for xdg-user-dirs",
+    "home_page_url": "${BASE_URL}/nixos-xdg-user-dirs.json",
+    "feed_url": "${BASE_URL}/nixos-xdg-user-dirs.json",
+    "description": "NixOS Packages PRs for xdg-user-dirs on GitHub",
+    "items": []
+}

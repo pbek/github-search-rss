@@ -1,0 +1,8 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "NixOS Packages PRs for calibre",
+    "home_page_url": "${BASE_URL}/nixos-calibre.json",
+    "feed_url": "${BASE_URL}/nixos-calibre.json",
+    "description": "NixOS Packages PRs for calibre on GitHub",
+    "items": []
+}

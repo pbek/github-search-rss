@@ -1,0 +1,8 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "NixOS Packages PRs for plasma-pa",
+    "home_page_url": "${BASE_URL}/nixos-plasma-pa.json",
+    "feed_url": "${BASE_URL}/nixos-plasma-pa.json",
+    "description": "NixOS Packages PRs for plasma-pa on GitHub",
+    "items": []
+}

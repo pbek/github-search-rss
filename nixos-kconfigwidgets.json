@@ -1,0 +1,8 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "NixOS Packages PRs for kconfigwidgets",
+    "home_page_url": "${BASE_URL}/nixos-kconfigwidgets.json",
+    "feed_url": "${BASE_URL}/nixos-kconfigwidgets.json",
+    "description": "NixOS Packages PRs for kconfigwidgets on GitHub",
+    "items": []
+}

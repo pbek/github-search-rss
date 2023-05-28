@@ -1,0 +1,8 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "NixOS Packages PRs for btop",
+    "home_page_url": "${BASE_URL}/nixos-btop.json",
+    "feed_url": "${BASE_URL}/nixos-btop.json",
+    "description": "NixOS Packages PRs for btop on GitHub",
+    "items": []
+}

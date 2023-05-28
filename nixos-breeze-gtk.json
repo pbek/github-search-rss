@@ -1,0 +1,8 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "NixOS Packages PRs for breeze-gtk",
+    "home_page_url": "${BASE_URL}/nixos-breeze-gtk.json",
+    "feed_url": "${BASE_URL}/nixos-breeze-gtk.json",
+    "description": "NixOS Packages PRs for breeze-gtk on GitHub",
+    "items": []
+}
