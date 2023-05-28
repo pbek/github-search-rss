@@ -261,9 +261,9 @@ if (require.main === module) {
 
         // generate merged rss
         const rss = generateRSS(allItems, {
-            title: "merged rss",
+            title: "All relevant PRs on NixOS/nixpkgs",
             link: `${BASE_URL}/all.json`,
-            description: `merged rss on GitHub`,
+            description: `All relevant PRs on NixOS/nixpkgs`,
             updated: new Date()
         });
         await fs.writeFile(path.join(distDir, "all.json"), rss, "utf-8");
@@ -289,6 +289,7 @@ if (require.main === module) {
 <ul>
 ${links}
 </ul>
+<p><a href="./all.json">Feed of all feeds</a></p>
 <footer>
 <a href="https://github.com/azu/github-search-rss">Source Code</a>
 </footer>
