@@ -1,7 +1,7 @@
 {
     "version": "https://jsonfeed.org/version/1",
     "title": "NixOS Packages PRs OR",
-    "home_page_url": "https://github.com/NixOS/nixpkgs/pulls?q=is%3Apr+is%3Aopen+smartgithg+OR+qownnotes+OR+qmarkdowntextedit",
+    "home_page_url": "https://pbek.github.io/github-search-rss/nixos-packages-or.json",
     "feed_url": "https://pbek.github.io/github-search-rss/nixos-packages-or.json",
     "description": "NixOS Packages PRs OR on GitHub",
     "items": [
