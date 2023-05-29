@@ -31,7 +31,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/6780471?u=9d1c457f2f98ad0b39d4683e14424c78cddb887d&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><h6 dir=\"auto\">Description of changes</h6>\n<p dir=\"auto\">This adds <a href=\"https://hyprland.org/\" rel=\"nofollow\">Hyprland</a> as a potential condition for enabling <code class=\"notranslate\">gnome3</code> as the GnuPG Pinentry flavor by default. Without this, users of Hyprland will be defaulted to the <code class=\"notranslate\">ncurses</code> flavor, which will not work outside the terminal.</p>",
             "url": "https://github.com/NixOS/nixpkgs/pull/230578",
             "title": "Add Hyprland to GnuPG configuration for default Pinentry flavor",
-            "date_modified": "2023-05-07T22:01:21.000Z",
+            "date_modified": "2023-05-29T19:55:24.000Z",
             "date_published": "2023-05-07T21:37:10.000Z",
             "author": {
                 "name": "cloudlena",
