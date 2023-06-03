@@ -20,7 +20,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/44864956?u=61707779a5c318798f6ddcb7e025c6ed8b4c3f19&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><p dir=\"auto\">Naming convention Support seems to be more popular than enable in<br>\ngeneral, in case of systemd -- 59 to 34 as far as \"git grep\" concerned, so it<br>\nmakes sense to unify flags under already dominant convention.</p>\n<p dir=\"auto\">Merging such changes treewide is hard (ref: <a class=\"issue-link js-issue-link\" data-error-text=\"Failed to load title\" data-id=\"1272972206\" data-permission-text=\"Title is private\" data-url=\"https://github.com/NixOS/nixpkgs/issues/177832\" data-hovercard-type=\"pull_request\" data-hovercard-url=\"/NixOS/nixpkgs/pull/177832/hovercard\" href=\"https://github.com/NixOS/nixpkgs/pull/177832\">#177832</a>), so here I follow<br>\nsuggestion of <a class=\"user-mention notranslate\" data-hovercard-type=\"user\" data-hovercard-url=\"/users/doronbehar/hovercard\" data-octo-click=\"hovercard-link-click\" data-octo-dimensions=\"link_type:self\" href=\"https://github.com/doronbehar\">@doronbehar</a> and make one pull request per package affected.</p>\n<p dir=\"auto\">Naturally, this is no-rebuild change.</p>",
             "url": "https://github.com/NixOS/nixpkgs/pull/234463",
             "title": "dbus: rename \"enableSystemd\" to \"withSystemd\"",
-            "date_modified": "2023-06-03T12:23:52.000Z",
+            "date_modified": "2023-06-03T13:09:48.000Z",
             "date_published": "2023-05-27T16:37:13.000Z",
             "author": {
                 "name": "KAction",
