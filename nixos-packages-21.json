@@ -108,7 +108,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/1449319?u=e4c19eab42d42aad9bd163f9e3fd1ddcf9503e0e&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><p dir=\"auto\">Since <a class=\"commit-link\" data-hovercard-type=\"commit\" data-hovercard-url=\"https://github.com/NixOS/nixpkgs/commit/816614bd62bcdb0b72b48a55d9a5a8ffb76ce2ea/hovercard\" href=\"https://github.com/NixOS/nixpkgs/commit/816614bd62bcdb0b72b48a55d9a5a8ffb76ce2ea\"><tt>816614b</tt></a>, the service is set to use the exim user so that<br>\nsystemd takes care of the credentials ownership. The executable is<br>\nstill required to run as root, to then drop privileges. The prefix '+'<br>\nthat was used however interfers with the use of privilege restrictions<br>\nand other sandboxing options. Since we only want to escape the \"User\"<br>\nsetting, we can use the '!' prefix instead.</p>",
             "url": "https://github.com/NixOS/nixpkgs/pull/236126",
             "title": "nixos/exim: apply privilege restrictions",
-            "date_modified": "2023-06-05T18:39:47.000Z",
+            "date_modified": "2023-06-06T05:54:38.000Z",
             "date_published": "2023-06-05T18:12:24.000Z",
             "author": {
                 "name": "pacien",
