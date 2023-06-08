@@ -160,17 +160,6 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/8767122?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><h6 dir=\"auto\">Description of changes</h6>\n<p dir=\"auto\">nixos/darwin-builder Update documentation</p>\n<p dir=\"auto\">Fix example darwin-builder flake in docs throwing both null and not null error on <code class=\"notranslate\">system.nixos.revision</code> as reported in <a class=\"issue-link js-issue-link\" data-error-text=\"Failed to load title\" data-id=\"1693077000\" data-permission-text=\"Title is private\" data-url=\"https://github.com/NixOS/nixpkgs/issues/229542\" data-hovercard-type=\"issue\" data-hovercard-url=\"/NixOS/nixpkgs/issues/229542/hovercard\" href=\"https://github.com/NixOS/nixpkgs/issues/229542\">#229542</a>.</p>\n<p dir=\"auto\">Built and executed on an <code class=\"notranslate\">aarch64-darwin</code> machine with <code class=\"notranslate\">darwin-rebuild build --flake .#machine1</code> and <code class=\"notranslate\">darwin-rebuild switch --flake .#machine1</code>.</p>\n<h6 dir=\"auto\">Things done</h6>\n<ul dir=\"auto\">\n<li>Built on platform(s)\n<ul class=\"contains-task-list\">\n<li class=\"task-list-item\"><input type=\"checkbox\" id=\"\" disabled=\"\" class=\"task-list-item-checkbox\"> x86_64-linux</li>\n<li class=\"task-list-item\"><input type=\"checkbox\" id=\"\" disabled=\"\" class=\"task-list-item-checkbox\"> aarch64-linux</li>\n<li class=\"task-list-item\"><input type=\"checkbox\" id=\"\" disabled=\"\" class=\"task-list-item-checkbox\"> x86_64-darwin</li>\n<li class=\"task-list-item\"><input type=\"checkbox\" id=\"\" disabled=\"\" class=\"task-list-item-checkbox\" checked=\"\"> aarch64-darwin</li>\n</ul>\n</li>\n</ul>",
-            "url": "https://github.com/NixOS/nixpkgs/pull/235570",
-            "title": "nixos/darwin-builder Update documentation",
-            "date_modified": "2023-06-02T11:57:27.000Z",
-            "date_published": "2023-06-02T11:21:37.000Z",
-            "author": {
-                "name": "G3zz",
-                "url": "https://github.com/G3zz"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/743057?u=cf64d24fd7f4c79abeccb9e0cf47915bff1c164d&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><p dir=\"auto\"><span class=\"issue-keyword tooltipped tooltipped-se\" aria-label=\"This pull request closes issue #62856.\">Fixes</span> <a class=\"issue-link js-issue-link\" data-error-text=\"Failed to load title\" data-id=\"453776258\" data-permission-text=\"Title is private\" data-url=\"https://github.com/NixOS/nixpkgs/issues/62856\" data-hovercard-type=\"issue\" data-hovercard-url=\"/NixOS/nixpkgs/issues/62856/hovercard\" href=\"https://github.com/NixOS/nixpkgs/issues/62856\">#62856</a></p>\n<p dir=\"auto\">But to make it work I've chosen to extract <code class=\"notranslate\">system.build.fileSystems</code> into separate option. Let me know if making <code class=\"notranslate\">with types; lazyAttrsOf unspecified</code> is more favorable.</p>\n<p dir=\"auto\">EDIT: this is now changed to <code class=\"notranslate\">attrsOf unspecified</code>, due to manual present in <code class=\"notranslate\">system.build</code>.</p>",
             "url": "https://github.com/NixOS/nixpkgs/pull/80162",
             "title": "nixos/top-level: attrs -> attrsOf for system.build",
@@ -179,6 +168,17 @@
             "author": {
                 "name": "danbst",
                 "url": "https://github.com/danbst"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/8767122?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><h6 dir=\"auto\">Description of changes</h6>\n<p dir=\"auto\">nixos/darwin-builder Update documentation</p>\n<p dir=\"auto\">Fix example darwin-builder flake in docs throwing both null and not null error on <code class=\"notranslate\">system.nixos.revision</code> as reported in <a class=\"issue-link js-issue-link\" data-error-text=\"Failed to load title\" data-id=\"1693077000\" data-permission-text=\"Title is private\" data-url=\"https://github.com/NixOS/nixpkgs/issues/229542\" data-hovercard-type=\"issue\" data-hovercard-url=\"/NixOS/nixpkgs/issues/229542/hovercard\" href=\"https://github.com/NixOS/nixpkgs/issues/229542\">#229542</a>.</p>\n<p dir=\"auto\">Built and executed on an <code class=\"notranslate\">aarch64-darwin</code> machine with <code class=\"notranslate\">darwin-rebuild build --flake .#machine1</code> and <code class=\"notranslate\">darwin-rebuild switch --flake .#machine1</code>.</p>\n<h6 dir=\"auto\">Things done</h6>\n<ul dir=\"auto\">\n<li>Built on platform(s)\n<ul class=\"contains-task-list\">\n<li class=\"task-list-item\"><input type=\"checkbox\" id=\"\" disabled=\"\" class=\"task-list-item-checkbox\"> x86_64-linux</li>\n<li class=\"task-list-item\"><input type=\"checkbox\" id=\"\" disabled=\"\" class=\"task-list-item-checkbox\"> aarch64-linux</li>\n<li class=\"task-list-item\"><input type=\"checkbox\" id=\"\" disabled=\"\" class=\"task-list-item-checkbox\"> x86_64-darwin</li>\n<li class=\"task-list-item\"><input type=\"checkbox\" id=\"\" disabled=\"\" class=\"task-list-item-checkbox\" checked=\"\"> aarch64-darwin</li>\n</ul>\n</li>\n</ul>",
+            "url": "https://github.com/NixOS/nixpkgs/pull/235570",
+            "title": "nixos/darwin-builder Update documentation",
+            "date_modified": "2023-06-02T11:57:27.000Z",
+            "date_published": "2023-06-02T11:21:37.000Z",
+            "author": {
+                "name": "G3zz",
+                "url": "https://github.com/G3zz"
             }
         },
         {
