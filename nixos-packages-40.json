@@ -4,5 +4,17 @@
     "home_page_url": "https://pbek.github.io/github-search-rss/nixos-packages-40.json",
     "feed_url": "https://pbek.github.io/github-search-rss/nixos-packages-40.json",
     "description": "NixOS Package PRs for curl-8.0.1, kdegraphics-thumbnailers, thefuck, strace, kdiff3, spice-gtk packages on GitHub",
-    "items": []
+    "items": [
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/in/15368?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><p dir=\"auto\">Bot-based backport to <code class=\"notranslate\">release-23.05</code>, triggered by a label in <a class=\"issue-link js-issue-link\" data-error-text=\"Failed to load title\" data-id=\"1739234762\" data-permission-text=\"Title is private\" data-url=\"https://github.com/NixOS/nixpkgs/issues/235716\" data-hovercard-type=\"pull_request\" data-hovercard-url=\"/NixOS/nixpkgs/pull/235716/hovercard\" href=\"https://github.com/NixOS/nixpkgs/pull/235716\">#235716</a>.</p>\n<ul class=\"contains-task-list\">\n<li class=\"task-list-item\"><input type=\"checkbox\" id=\"\" disabled=\"\" class=\"task-list-item-checkbox\"> Before merging, ensure that this backport complies with the <a href=\"https://github.com/NixOS/nixpkgs/blob/master/CONTRIBUTING.md#criteria-for-backporting-changes\">Criteria for Backporting</a>.\n<ul dir=\"auto\">\n<li>Even as a non-commiter, if you find that it does not comply, leave a comment.</li>\n</ul>\n</li>\n</ul>",
+            "url": "https://github.com/NixOS/nixpkgs/pull/236878",
+            "title": "[Backport release-23.05] kdiff3: 1.10.1 -> 1.10.4",
+            "date_modified": "2023-06-09T17:08:19.000Z",
+            "date_published": "2023-06-09T16:37:11.000Z",
+            "author": {
+                "name": "github-actions",
+                "url": "https://github.com/apps/github-actions"
+            }
+        }
+    ]
 }
