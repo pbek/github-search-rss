@@ -204,17 +204,6 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/1155801?u=0fd32c2f9bcaf946a11270e7b719109e618d60a9&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><h6 dir=\"auto\">Description of changes</h6>\n<ul dir=\"auto\">\n<li>Ship systemd service unit in derivation <code class=\"notranslate\">below</code>.</li>\n<li>Add a new NixOS module to enable &amp; configure said service.</li>\n</ul>\n<h6 dir=\"auto\">Things done</h6>\n<ul class=\"contains-task-list\">\n<li>Built on platform(s)\n<ul class=\"contains-task-list\">\n<li class=\"task-list-item\"><input type=\"checkbox\" id=\"\" disabled=\"\" class=\"task-list-item-checkbox\" checked=\"\"> x86_64-linux</li>\n<li class=\"task-list-item\"><input type=\"checkbox\" id=\"\" disabled=\"\" class=\"task-list-item-checkbox\"> aarch64-linux</li>\n</ul>\n</li>\n<li class=\"task-list-item\"><input type=\"checkbox\" id=\"\" disabled=\"\" class=\"task-list-item-checkbox\" checked=\"\"> Tested compilation of all packages that depend on this change using <code class=\"notranslate\">nix-shell -p nixpkgs-review --run \"nixpkgs-review rev HEAD\"</code>. Note: all changes have to be committed, also see <a href=\"https://github.com/Mic92/nixpkgs-review#usage\">nixpkgs-review usage</a></li>\n<li class=\"task-list-item\"><input type=\"checkbox\" id=\"\" disabled=\"\" class=\"task-list-item-checkbox\" checked=\"\"> Tested basic functionality of all binary files (usually in <code class=\"notranslate\">./result/bin/</code>)</li>\n<li><a href=\"https://github.com/NixOS/nixpkgs/blob/master/CONTRIBUTING.md#generating-2305-release-notes\">23.05 Release Notes (or backporting 22.11 Release notes)</a>\n<ul class=\"contains-task-list\">\n<li class=\"task-list-item\"><input type=\"checkbox\" id=\"\" disabled=\"\" class=\"task-list-item-checkbox\"> (Package updates) Added a release notes entry if the change is major or breaking</li>\n<li class=\"task-list-item\"><input type=\"checkbox\" id=\"\" disabled=\"\" class=\"task-list-item-checkbox\"> (Module updates) Added a release notes entry if the change is significant</li>\n<li class=\"task-list-item\"><input type=\"checkbox\" id=\"\" disabled=\"\" class=\"task-list-item-checkbox\"> (Module addition) Added a release notes entry if adding a new NixOS module</li>\n</ul>\n</li>\n<li class=\"task-list-item\"><input type=\"checkbox\" id=\"\" disabled=\"\" class=\"task-list-item-checkbox\" checked=\"\"> Fits <a href=\"https://github.com/NixOS/nixpkgs/blob/master/CONTRIBUTING.md\">CONTRIBUTING.md</a>.</li>\n</ul>\n",
-            "url": "https://github.com/NixOS/nixpkgs/pull/234245",
-            "title": "nixos/below: Add service module",
-            "date_modified": "2023-05-27T12:21:07.000Z",
-            "date_published": "2023-05-26T16:13:26.000Z",
-            "author": {
-                "name": "nbraud",
-                "url": "https://github.com/nbraud"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/9281956?u=bbee34bc8e9629646385966d7932d79f6c24def9&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><p dir=\"auto\">this has been outdated since commit <a class=\"commit-link\" data-hovercard-type=\"commit\" data-hovercard-url=\"https://github.com/NixOS/nixpkgs/commit/6d4b02df3f8cbc51b35b31208c4127b45d60f431/hovercard\" href=\"https://github.com/NixOS/nixpkgs/commit/6d4b02df3f8cbc51b35b31208c4127b45d60f431\"><tt>6d4b02d</tt></a> in 2018, when it was changed to only create a host interface if addresses were configured.</p>",
             "url": "https://github.com/NixOS/nixpkgs/pull/117671",
             "title": "nixos/nixos-containers: fix privateNetwork docs",
@@ -223,6 +212,17 @@
             "author": {
                 "name": "ashkitten",
                 "url": "https://github.com/ashkitten"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/1155801?u=0fd32c2f9bcaf946a11270e7b719109e618d60a9&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><h6 dir=\"auto\">Description of changes</h6>\n<ul dir=\"auto\">\n<li>Ship systemd service unit in derivation <code class=\"notranslate\">below</code>.</li>\n<li>Add a new NixOS module to enable &amp; configure said service.</li>\n</ul>\n<h6 dir=\"auto\">Things done</h6>\n<ul class=\"contains-task-list\">\n<li>Built on platform(s)\n<ul class=\"contains-task-list\">\n<li class=\"task-list-item\"><input type=\"checkbox\" id=\"\" disabled=\"\" class=\"task-list-item-checkbox\" checked=\"\"> x86_64-linux</li>\n<li class=\"task-list-item\"><input type=\"checkbox\" id=\"\" disabled=\"\" class=\"task-list-item-checkbox\"> aarch64-linux</li>\n</ul>\n</li>\n<li class=\"task-list-item\"><input type=\"checkbox\" id=\"\" disabled=\"\" class=\"task-list-item-checkbox\" checked=\"\"> Tested compilation of all packages that depend on this change using <code class=\"notranslate\">nix-shell -p nixpkgs-review --run \"nixpkgs-review rev HEAD\"</code>. Note: all changes have to be committed, also see <a href=\"https://github.com/Mic92/nixpkgs-review#usage\">nixpkgs-review usage</a></li>\n<li class=\"task-list-item\"><input type=\"checkbox\" id=\"\" disabled=\"\" class=\"task-list-item-checkbox\" checked=\"\"> Tested basic functionality of all binary files (usually in <code class=\"notranslate\">./result/bin/</code>)</li>\n<li><a href=\"https://github.com/NixOS/nixpkgs/blob/master/CONTRIBUTING.md#generating-2305-release-notes\">23.05 Release Notes (or backporting 22.11 Release notes)</a>\n<ul class=\"contains-task-list\">\n<li class=\"task-list-item\"><input type=\"checkbox\" id=\"\" disabled=\"\" class=\"task-list-item-checkbox\"> (Package updates) Added a release notes entry if the change is major or breaking</li>\n<li class=\"task-list-item\"><input type=\"checkbox\" id=\"\" disabled=\"\" class=\"task-list-item-checkbox\"> (Module updates) Added a release notes entry if the change is significant</li>\n<li class=\"task-list-item\"><input type=\"checkbox\" id=\"\" disabled=\"\" class=\"task-list-item-checkbox\"> (Module addition) Added a release notes entry if adding a new NixOS module</li>\n</ul>\n</li>\n<li class=\"task-list-item\"><input type=\"checkbox\" id=\"\" disabled=\"\" class=\"task-list-item-checkbox\" checked=\"\"> Fits <a href=\"https://github.com/NixOS/nixpkgs/blob/master/CONTRIBUTING.md\">CONTRIBUTING.md</a>.</li>\n</ul>\n",
+            "url": "https://github.com/NixOS/nixpkgs/pull/234245",
+            "title": "nixos/below: Add service module",
+            "date_modified": "2023-05-27T12:21:07.000Z",
+            "date_published": "2023-05-26T16:13:26.000Z",
+            "author": {
+                "name": "nbraud",
+                "url": "https://github.com/nbraud"
             }
         }
     ]
