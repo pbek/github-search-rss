@@ -48,17 +48,6 @@
                 "name": "ctheune",
                 "url": "https://github.com/ctheune"
             }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/in/15368?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><p dir=\"auto\">Bot-based backport to <code class=\"notranslate\">release-22.11</code>, triggered by a label in <a class=\"issue-link js-issue-link\" data-error-text=\"Failed to load title\" data-id=\"1642926370\" data-permission-text=\"Title is private\" data-url=\"https://github.com/NixOS/nixpkgs/issues/223455\" data-hovercard-type=\"pull_request\" data-hovercard-url=\"/NixOS/nixpkgs/pull/223455/hovercard\" href=\"https://github.com/NixOS/nixpkgs/pull/223455\">#223455</a>.</p>\n<ul class=\"contains-task-list\">\n<li class=\"task-list-item\"><input type=\"checkbox\" id=\"\" disabled=\"\" class=\"task-list-item-checkbox\"> Before merging, ensure that this backport complies with the <a href=\"https://github.com/NixOS/nixpkgs/blob/master/CONTRIBUTING.md#criteria-for-backporting-changes\">Criteria for Backporting</a>.\n<ul dir=\"auto\">\n<li>Even as a non-commiter, if you find that it does not comply, leave a comment.</li>\n</ul>\n</li>\n</ul>",
-            "url": "https://github.com/NixOS/nixpkgs/pull/226186",
-            "title": "[Backport release-22.11] udisks: backport patch for crash on exit",
-            "date_modified": "2023-04-14T19:55:03.000Z",
-            "date_published": "2023-04-14T19:41:24.000Z",
-            "author": {
-                "name": "github-actions",
-                "url": "https://github.com/apps/github-actions"
-            }
         }
     ]
 }

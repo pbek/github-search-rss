@@ -125,17 +125,6 @@
                 "name": "eamsden",
                 "url": "https://github.com/eamsden"
             }
-        },
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/in/15368?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><p dir=\"auto\">Bot-based backport to <code class=\"notranslate\">release-22.11</code>, triggered by a label in <a class=\"issue-link js-issue-link\" data-error-text=\"Failed to load title\" data-id=\"1524113161\" data-permission-text=\"Title is private\" data-url=\"https://github.com/NixOS/nixpkgs/issues/209550\" data-hovercard-type=\"pull_request\" data-hovercard-url=\"/NixOS/nixpkgs/pull/209550/hovercard\" href=\"https://github.com/NixOS/nixpkgs/pull/209550\">#209550</a>.</p>\n<ul class=\"contains-task-list\">\n<li class=\"task-list-item\"><input type=\"checkbox\" id=\"\" disabled=\"\" class=\"task-list-item-checkbox\"> Before merging, ensure that this backport complies with the <a href=\"https://github.com/NixOS/nixpkgs/blob/master/CONTRIBUTING.md#criteria-for-backporting-changes\">Criteria for Backporting</a>.\n<ul dir=\"auto\">\n<li>Even as a non-commiter, if you find that it does not comply, leave a comment.</li>\n</ul>\n</li>\n</ul>",
-            "url": "https://github.com/NixOS/nixpkgs/pull/211177",
-            "title": "[Backport release-22.11] opencolorio: move cmake file to correct place",
-            "date_modified": "2023-01-17T03:36:18.000Z",
-            "date_published": "2023-01-17T02:38:08.000Z",
-            "author": {
-                "name": "github-actions",
-                "url": "https://github.com/apps/github-actions"
-            }
         }
     ]
 }
