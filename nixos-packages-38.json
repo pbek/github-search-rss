@@ -20,7 +20,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/in/15368?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><p dir=\"auto\">Bot-based backport to <code class=\"notranslate\">staging-23.05</code>, triggered by a label in <a class=\"issue-link js-issue-link\" data-error-text=\"Failed to load title\" data-id=\"1751024693\" data-permission-text=\"Title is private\" data-url=\"https://github.com/NixOS/nixpkgs/issues/237066\" data-hovercard-type=\"pull_request\" data-hovercard-url=\"/NixOS/nixpkgs/pull/237066/hovercard\" href=\"https://github.com/NixOS/nixpkgs/pull/237066\">#237066</a>.</p>\n<ul class=\"contains-task-list\">\n<li class=\"task-list-item\"><input type=\"checkbox\" id=\"\" disabled=\"\" class=\"task-list-item-checkbox\"> Before merging, ensure that this backport complies with the <a href=\"https://github.com/NixOS/nixpkgs/blob/master/CONTRIBUTING.md#criteria-for-backporting-changes\">Criteria for Backporting</a>.\n<ul dir=\"auto\">\n<li>Even as a non-commiter, if you find that it does not comply, leave a comment.</li>\n</ul>\n</li>\n</ul>",
             "url": "https://github.com/NixOS/nixpkgs/pull/238508",
             "title": "[Backport staging-23.05] cmake update",
-            "date_modified": "2023-06-19T03:55:48.000Z",
+            "date_modified": "2023-06-19T05:25:25.000Z",
             "date_published": "2023-06-19T03:46:13.000Z",
             "author": {
                 "name": "github-actions",
