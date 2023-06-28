@@ -17,6 +17,17 @@
             }
         },
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/in/15368?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><p dir=\"auto\">Bot-based backport to <code class=\"notranslate\">release-23.05</code>, triggered by a label in <a class=\"issue-link js-issue-link\" data-error-text=\"Failed to load title\" data-id=\"1766202183\" data-permission-text=\"Title is private\" data-url=\"https://github.com/NixOS/nixpkgs/issues/238831\" data-hovercard-type=\"pull_request\" data-hovercard-url=\"/NixOS/nixpkgs/pull/238831/hovercard\" href=\"https://github.com/NixOS/nixpkgs/pull/238831\">#238831</a>.</p>\n<ul class=\"contains-task-list\">\n<li class=\"task-list-item\"><input type=\"checkbox\" id=\"\" disabled=\"\" class=\"task-list-item-checkbox\"> Before merging, ensure that this backport complies with the <a href=\"https://github.com/NixOS/nixpkgs/blob/master/CONTRIBUTING.md#criteria-for-backporting-changes\">Criteria for Backporting</a>.\n<ul dir=\"auto\">\n<li>Even as a non-commiter, if you find that it does not comply, leave a comment.</li>\n</ul>\n</li>\n</ul>",
+            "url": "https://github.com/NixOS/nixpkgs/pull/240264",
+            "title": "[Backport release-23.05] LibreSSL: 3.6.2 → 3.6.3, 3.7.2 → 3.7.3",
+            "date_modified": "2023-06-28T05:11:49.000Z",
+            "date_published": "2023-06-28T05:02:23.000Z",
+            "author": {
+                "name": "github-actions",
+                "url": "https://github.com/apps/github-actions"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/58048945?u=582d8ab84a5b99cee0a6649409719bab866dbfc9&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><p dir=\"auto\">For GPT partition tables, there is no primary/logical/extended partition type, and the layout of <code class=\"notranslate\">mkpart</code>'s options slightly differs depending on whether <code class=\"notranslate\">parted</code> operates on an MBR or a GPT partition table.</p>\n<p dir=\"auto\">This has so far resulted in the string \"primary\" being assigned to the GUID partition name field, which is probably unintended.</p>\n<p dir=\"auto\">Rectify this by giving the GUID partitions sensible names and setting <code class=\"notranslate\">fs-type</code> where applicable.</p>\n<p dir=\"auto\">I'm not opinionated on the (proposed) partition names themselves - happy to use different ones instead, or uppercasing them (e.g. to match <code class=\"notranslate\">ESP</code>).</p>\n<h6 dir=\"auto\">Description of changes</h6>\n\n<h6 dir=\"auto\">Things done</h6>\n\n<ul class=\"contains-task-list\">\n<li class=\"task-list-item\"><input type=\"checkbox\" id=\"\" disabled=\"\" class=\"task-list-item-checkbox\" checked=\"\"> Fits <a href=\"https://github.com/NixOS/nixpkgs/blob/master/CONTRIBUTING.md\">CONTRIBUTING.md</a>.</li>\n</ul>\n",
             "url": "https://github.com/NixOS/nixpkgs/pull/232491",
             "title": "nixos/manual: rectify partitioning commands for UEFI/GPT",
