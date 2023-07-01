@@ -83,10 +83,10 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/131599?u=9b746c99b4e67b5ccdcf525b2598240740b2002c&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><p dir=\"auto\">Reverts <a class=\"issue-link js-issue-link\" data-error-text=\"Failed to load title\" data-id=\"1762670433\" data-permission-text=\"Title is private\" data-url=\"https://github.com/NixOS/nixpkgs/issues/238508\" data-hovercard-type=\"pull_request\" data-hovercard-url=\"/NixOS/nixpkgs/pull/238508/hovercard\" href=\"https://github.com/NixOS/nixpkgs/pull/238508\">#238508</a></p>\n<p dir=\"auto\">There was no meaningful reason for this backport, and instead it<br>\nviolated our policy on backport breaking changes into our stable<br>\nrelease.</p>",
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/131599?u=9b746c99b4e67b5ccdcf525b2598240740b2002c&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><p dir=\"auto\">Reverts <a class=\"issue-link js-issue-link\" data-error-text=\"Failed to load title\" data-id=\"1762670433\" data-permission-text=\"Title is private\" data-url=\"https://github.com/NixOS/nixpkgs/issues/238508\" data-hovercard-type=\"pull_request\" data-hovercard-url=\"/NixOS/nixpkgs/pull/238508/hovercard\" href=\"https://github.com/NixOS/nixpkgs/pull/238508\">#238508</a></p>\n<p dir=\"auto\">There was no meaningful reason for this backport, and instead it<br>\nviolated our policy on backportin breaking changes into our stable<br>\nrelease.</p>",
             "url": "https://github.com/NixOS/nixpkgs/pull/240892",
-            "title": "[staging-next-23.05] ]Revert \"cmake: 3.25.3 -> 3.26.4\"     ",
-            "date_modified": "2023-07-01T11:15:01.000Z",
+            "title": "[staging-next-23.05] Revert \"cmake: 3.25.3 -> 3.26.4\"     ",
+            "date_modified": "2023-07-01T11:45:37.000Z",
             "date_published": "2023-07-01T11:06:38.000Z",
             "author": {
                 "name": "mweinelt",
