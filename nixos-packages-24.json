@@ -61,17 +61,6 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/in/15368?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><p dir=\"auto\">Bot-based backport to <code class=\"notranslate\">release-23.05</code>, triggered by a label in <a class=\"issue-link js-issue-link\" data-error-text=\"Failed to load title\" data-id=\"1784118164\" data-permission-text=\"Title is private\" data-url=\"https://github.com/NixOS/nixpkgs/issues/240958\" data-hovercard-type=\"pull_request\" data-hovercard-url=\"/NixOS/nixpkgs/pull/240958/hovercard\" href=\"https://github.com/NixOS/nixpkgs/pull/240958\">#240958</a>.</p>\n<ul class=\"contains-task-list\">\n<li class=\"task-list-item\"><input type=\"checkbox\" id=\"\" disabled=\"\" class=\"task-list-item-checkbox\"> Before merging, ensure that this backport complies with the <a href=\"https://github.com/NixOS/nixpkgs/blob/master/CONTRIBUTING.md#criteria-for-backporting-changes\">Criteria for Backporting</a>.\n<ul dir=\"auto\">\n<li>Even as a non-commiter, if you find that it does not comply, leave a comment.</li>\n</ul>\n</li>\n</ul>",
-            "url": "https://github.com/NixOS/nixpkgs/pull/242450",
-            "title": "[Backport release-23.05] shattered-pixel-dungeon: include XDG desktop and icon files",
-            "date_modified": "2023-07-09T10:14:55.000Z",
-            "date_published": "2023-07-09T09:45:57.000Z",
-            "author": {
-                "name": "github-actions",
-                "url": "https://github.com/apps/github-actions"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/54836058?u=9a136f822864d980a6ff49700e60e1f11502295e&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/>",
             "url": "https://github.com/NixOS/nixpkgs/pull/225112",
             "title": "xdg-utils: mark broken if cross",
