@@ -6,6 +6,17 @@
     "description": "NixOS Package PRs for ksystemstats, bind-9.18.14, nixos-manual, libressl-3.7.2, aha, plasma-browser-integration packages on GitHub",
     "items": [
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/635591?u=e20f68cfb43da31b771e4b6ba8ea4a5d9d8b6113&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><p dir=\"auto\">This does not add anything to the NixOS manual intentionally.<br>\nI intend to tackle that in <a class=\"issue-link js-issue-link\" data-error-text=\"Failed to load title\" data-id=\"1791179851\" data-permission-text=\"Title is private\" data-url=\"https://github.com/NixOS/nixpkgs/issues/241871\" data-hovercard-type=\"pull_request\" data-hovercard-url=\"/NixOS/nixpkgs/pull/241871/hovercard\" href=\"https://github.com/NixOS/nixpkgs/pull/241871\">#241871</a>.</p>\n<p dir=\"auto\">Co-authored-by: Alejandro Sanchez Medina <a href=\"mailto:alejandrosanchzmedina@gmail.com\">alejandrosanchzmedina@gmail.com</a></p>",
+            "url": "https://github.com/NixOS/nixpkgs/pull/243062",
+            "title": "nixpkgs/NixOS manuals: devmode feature",
+            "date_modified": "2023-07-12T12:40:07.000Z",
+            "date_published": "2023-07-12T11:57:20.000Z",
+            "author": {
+                "name": "mightyiam",
+                "url": "https://github.com/mightyiam"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/635591?u=e20f68cfb43da31b771e4b6ba8ea4a5d9d8b6113&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><p dir=\"auto\">We noticed that the NixOS manual doesn't explain its syntax.<br>\nWell, that syntax is from the nixpkgs manual.</p>\n<p dir=\"auto\">Moved</p>\n<div class=\"snippet-clipboard-content notranslate position-relative overflow-auto\" data-snippet-clipboard-copy-content=\"Nixpkgs Manual / Contributing to Nixpkgs / Contributing to this documentation / Syntax\"><pre class=\"notranslate\"><code class=\"notranslate\">Nixpkgs Manual / Contributing to Nixpkgs / Contributing to this documentation / Syntax\n</code></pre></div>\n<p dir=\"auto\">To</p>\n<div class=\"snippet-clipboard-content notranslate position-relative overflow-auto\" data-snippet-clipboard-copy-content=\"Nixpkgs Manual / Contributing to Nixpkgs / Nix documentation syntax\"><pre class=\"notranslate\"><code class=\"notranslate\">Nixpkgs Manual / Contributing to Nixpkgs / Nix documentation syntax\n</code></pre></div>\n<p dir=\"auto\">And provided a link to this new chapter under</p>\n<div class=\"snippet-clipboard-content notranslate position-relative overflow-auto\" data-snippet-clipboard-copy-content=\"NixOS Manual / Contributing to this manual\"><pre class=\"notranslate\"><code class=\"notranslate\">NixOS Manual / Contributing to this manual\n</code></pre></div>\n<p dir=\"auto\">No further changes.</p>\n<p dir=\"auto\">The id/anchor-link of the moved section-to-chapter is preserved, even though is starts with <code class=\"notranslate\">sec-</code>, which is now less appropriate than <code class=\"notranslate\">chap-</code>.</p>\n<p dir=\"auto\">tag:alejandrosamemightyiam</p>\n<p dir=\"auto\">Co-authored-by: Shahar \"Dawn\" Or <a href=\"mailto:mightyiampresence@gmail.com\">mightyiampresence@gmail.com</a></p>",
             "url": "https://github.com/NixOS/nixpkgs/pull/241871",
             "title": "doc syntax section into chapter, link from nixos manual",
