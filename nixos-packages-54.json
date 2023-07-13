@@ -130,7 +130,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/635591?u=e20f68cfb43da31b771e4b6ba8ea4a5d9d8b6113&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><p dir=\"auto\">This does not add anything to the NixOS manual intentionally.<br>\nI intend to tackle that in <a class=\"issue-link js-issue-link\" data-error-text=\"Failed to load title\" data-id=\"1791179851\" data-permission-text=\"Title is private\" data-url=\"https://github.com/NixOS/nixpkgs/issues/241871\" data-hovercard-type=\"pull_request\" data-hovercard-url=\"/NixOS/nixpkgs/pull/241871/hovercard\" href=\"https://github.com/NixOS/nixpkgs/pull/241871\">#241871</a>.</p>\n<p dir=\"auto\">Co-authored-by: Alejandro Sanchez Medina <a href=\"mailto:alejandrosanchzmedina@gmail.com\">alejandrosanchzmedina@gmail.com</a></p>",
             "url": "https://github.com/NixOS/nixpkgs/pull/243062",
             "title": "nixpkgs/NixOS manuals: devmode feature",
-            "date_modified": "2023-07-13T14:27:45.000Z",
+            "date_modified": "2023-07-13T15:45:00.000Z",
             "date_published": "2023-07-12T11:57:20.000Z",
             "author": {
                 "name": "mightyiam",
