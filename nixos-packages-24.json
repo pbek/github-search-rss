@@ -31,7 +31,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/54836058?u=9a136f822864d980a6ff49700e60e1f11502295e&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><p dir=\"auto\">xdg-utils does not cross-compile.  Let's late-bind (using the runtime $PATH) in this scenario so a native-built xdg-utils can be used instead.</p>\n<p dir=\"auto\">See also:</p>\n<ul dir=\"auto\">\n<li><a class=\"issue-link js-issue-link\" data-error-text=\"Failed to load title\" data-id=\"1658462320\" data-permission-text=\"Title is private\" data-url=\"https://github.com/NixOS/nixpkgs/issues/225112\" data-hovercard-type=\"pull_request\" data-hovercard-url=\"/NixOS/nixpkgs/pull/225112/hovercard\" href=\"https://github.com/NixOS/nixpkgs/pull/225112\">#225112</a></li>\n</ul>\n<p dir=\"auto\">With this PR and <a class=\"issue-link js-issue-link\" data-error-text=\"Failed to load title\" data-id=\"1658462320\" data-permission-text=\"Title is private\" data-url=\"https://github.com/NixOS/nixpkgs/issues/225112\" data-hovercard-type=\"pull_request\" data-hovercard-url=\"/NixOS/nixpkgs/pull/225112/hovercard\" href=\"https://github.com/NixOS/nixpkgs/pull/225112\">#225112</a> I am able to <code class=\"notranslate\">nix build pkgsCross.aarch64-multiplatform.firefox</code>.</p>",
             "url": "https://github.com/NixOS/nixpkgs/pull/225115",
             "title": "firefox: late-bind xdg-utils if broken",
-            "date_modified": "2023-07-20T23:13:48.000Z",
+            "date_modified": "2023-07-21T09:05:28.000Z",
             "date_published": "2023-04-07T07:25:34.000Z",
             "author": {
                 "name": "amjoseph-nixpkgs",
