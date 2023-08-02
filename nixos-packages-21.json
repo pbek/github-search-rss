@@ -28,17 +28,6 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/8074468?u=3f93edb8a0cb1046224faa47b587bc0e89ae266d&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><h6 dir=\"auto\">Description of changes</h6>\n<p dir=\"auto\">When I first tried running <code class=\"notranslate\">nixos-generate-config</code> on my NixOS install I bumped into this error. I did not think to try as root so I decided to Google the issue.</p>\n<p dir=\"auto\">It seems that I wasn't the only one unsure of how to fix it. There was a post on reddit asking my question. <a href=\"https://www.reddit.com/r/NixOS/comments/yv44zx/comment/iwr7n85/?utm_source=share&amp;utm_medium=web3x&amp;utm_name=web3xcss&amp;utm_term=1&amp;utm_content=share_button\" rel=\"nofollow\">https://www.reddit.com/r/NixOS/comments/yv44zx/comment/iwr7n85/?utm_source=share&amp;utm_medium=web3x&amp;utm_name=web3xcss&amp;utm_term=1&amp;utm_content=share_button</a></p>\n<p dir=\"auto\">I hope that this improved error will reduce potential confusion.</p>\n<h6 dir=\"auto\">Things done</h6>\n<p dir=\"auto\">N/A: this is not a change to a package</p>",
-            "url": "https://github.com/NixOS/nixpkgs/pull/244826",
-            "title": "nixos-generate-config: Add help message when `btrfs subvol` fails for non root user",
-            "date_modified": "2023-07-29T18:21:51.000Z",
-            "date_published": "2023-07-22T12:47:31.000Z",
-            "author": {
-                "name": "eopb",
-                "url": "https://github.com/eopb"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/2817565?u=9ab634cc09990478f67c8eb37c990a3a6166e5e4&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><h6 dir=\"auto\">Motivation for this change</h6>\n<p dir=\"auto\">See issue <a class=\"issue-link js-issue-link\" data-error-text=\"Failed to load title\" data-id=\"666641979\" data-permission-text=\"Title is private\" data-url=\"https://github.com/NixOS/nixpkgs/issues/94038\" data-hovercard-type=\"issue\" data-hovercard-url=\"/NixOS/nixpkgs/issues/94038/hovercard\" href=\"https://github.com/NixOS/nixpkgs/issues/94038\">#94038</a>. Basically being able to use <code class=\"notranslate\">bootctl</code> and <code class=\"notranslate\">systemctl kexec</code> with GRUB.</p>\n<h6 dir=\"auto\">Things done</h6>\n<ul class=\"contains-task-list\">\n<li class=\"task-list-item\"><input type=\"checkbox\" id=\"\" disabled=\"\" class=\"task-list-item-checkbox\" checked=\"\"> Tested using sandboxing (<a href=\"https://nixos.org/nixos/manual/options.html#opt-nix.useSandbox\" rel=\"nofollow\">nix.useSandbox</a> on NixOS</li>\n<li>Built on platform(s)\n<ul class=\"contains-task-list\">\n<li class=\"task-list-item\"><input type=\"checkbox\" id=\"\" disabled=\"\" class=\"task-list-item-checkbox\" checked=\"\"> NixOS</li>\n<li class=\"task-list-item\"><input type=\"checkbox\" id=\"\" disabled=\"\" class=\"task-list-item-checkbox\"> macOS</li>\n<li class=\"task-list-item\"><input type=\"checkbox\" id=\"\" disabled=\"\" class=\"task-list-item-checkbox\"> other Linux distributions</li>\n</ul>\n</li>\n<li class=\"task-list-item\"><input type=\"checkbox\" id=\"\" disabled=\"\" class=\"task-list-item-checkbox\" checked=\"\"> Tested via <code class=\"notranslate\">nixosTests.grub</code></li>\n<li class=\"task-list-item\"><input type=\"checkbox\" id=\"\" disabled=\"\" class=\"task-list-item-checkbox\" checked=\"\"> Tested via <code class=\"notranslate\">nixosTests.installer</code></li>\n<li class=\"task-list-item\"><input type=\"checkbox\" id=\"\" disabled=\"\" class=\"task-list-item-checkbox\" checked=\"\"> Tested kexec works</li>\n<li class=\"task-list-item\"><input type=\"checkbox\" id=\"\" disabled=\"\" class=\"task-list-item-checkbox\" checked=\"\"> Tested old entries are removed when running <code class=\"notranslate\">nixos-rebuild switch</code></li>\n<li class=\"task-list-item\"><input type=\"checkbox\" id=\"\" disabled=\"\" class=\"task-list-item-checkbox\" checked=\"\"> Ensured that relevant documentation is up to date</li>\n<li class=\"task-list-item\"><input type=\"checkbox\" id=\"\" disabled=\"\" class=\"task-list-item-checkbox\" checked=\"\"> Fits <a href=\"https://github.com/NixOS/nixpkgs/blob/master/.github/CONTRIBUTING.md\">CONTRIBUTING.md</a>.</li>\n</ul>",
             "url": "https://github.com/NixOS/nixpkgs/pull/95901",
             "title": "nixos/grub: generate BLS entries",
@@ -47,6 +36,17 @@
             "author": {
                 "name": "rnhmjoj",
                 "url": "https://github.com/rnhmjoj"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/8074468?u=3f93edb8a0cb1046224faa47b587bc0e89ae266d&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><h6 dir=\"auto\">Description of changes</h6>\n<p dir=\"auto\">When I first tried running <code class=\"notranslate\">nixos-generate-config</code> on my NixOS install I bumped into this error. I did not think to try as root so I decided to Google the issue.</p>\n<p dir=\"auto\">It seems that I wasn't the only one unsure of how to fix it. There was a post on reddit asking my question. <a href=\"https://www.reddit.com/r/NixOS/comments/yv44zx/comment/iwr7n85/?utm_source=share&amp;utm_medium=web3x&amp;utm_name=web3xcss&amp;utm_term=1&amp;utm_content=share_button\" rel=\"nofollow\">https://www.reddit.com/r/NixOS/comments/yv44zx/comment/iwr7n85/?utm_source=share&amp;utm_medium=web3x&amp;utm_name=web3xcss&amp;utm_term=1&amp;utm_content=share_button</a></p>\n<p dir=\"auto\">I hope that this improved error will reduce potential confusion.</p>\n<h6 dir=\"auto\">Things done</h6>\n<p dir=\"auto\">N/A: this is not a change to a package</p>",
+            "url": "https://github.com/NixOS/nixpkgs/pull/244826",
+            "title": "nixos-generate-config: Add help message when `btrfs subvol` fails for non root user",
+            "date_modified": "2023-07-29T18:21:51.000Z",
+            "date_published": "2023-07-22T12:47:31.000Z",
+            "author": {
+                "name": "eopb",
+                "url": "https://github.com/eopb"
             }
         },
         {
