@@ -31,7 +31,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/537775?u=0c3d4ff1812523fb732acb7a539757adc85d9af2&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><p dir=\"auto\">Dead-air is always bad, so always restart.</p>",
             "url": "https://github.com/NixOS/nixpkgs/pull/248521",
             "title": "nixos/liquidsoap: restart always",
-            "date_modified": "2023-08-11T11:54:06.000Z",
+            "date_modified": "2023-08-11T17:04:46.000Z",
             "date_published": "2023-08-11T11:53:51.000Z",
             "author": {
                 "name": "ehmry",
