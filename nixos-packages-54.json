@@ -64,7 +64,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/537775?u=0c3d4ff1812523fb732acb7a539757adc85d9af2&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><h2 dir=\"auto\">Description of changes</h2>\n<p dir=\"auto\">Add an option to specify extra command line arguments.</p>\n<h2 dir=\"auto\">Things done</h2>\n<ul class=\"contains-task-list\">\n<li class=\"task-list-item\"><input type=\"checkbox\" id=\"\" disabled=\"\" class=\"task-list-item-checkbox\" checked=\"\"> Tested, as applicable:\n<ul dir=\"auto\">\n<li><a href=\"https://nixos.org/manual/nixos/unstable/index.html#sec-nixos-tests\" rel=\"nofollow\">NixOS test(s)</a> (look inside <a href=\"https://github.com/NixOS/nixpkgs/blob/master/nixos/tests\">nixos/tests</a>)</li>\n</ul>\n</li>\n</ul>",
             "url": "https://github.com/NixOS/nixpkgs/pull/257415",
             "title": "nixos/yggdrasil: add extraArgs option",
-            "date_modified": "2023-09-26T09:39:08.000Z",
+            "date_modified": "2023-09-26T10:51:27.000Z",
             "date_published": "2023-09-26T08:16:16.000Z",
             "author": {
                 "name": "ehmry",
