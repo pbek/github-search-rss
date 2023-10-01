@@ -9,7 +9,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/341643?u=25a8a4a72d9eb0b7c6f03ac319916c13263487aa&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><p dir=\"auto\">Added mdevctl to path of libvirt.</p>\n<p dir=\"auto\">without it you get:</p>\n<div class=\"snippet-clipboard-content notranslate position-relative overflow-auto\" data-snippet-clipboard-copy-content=\"❯ virsh nodedev-define vgpu-test.xml\nerror: Failed to define node device from 'vgpu-test.xml'\nerror: Cannot find 'mdevctl' in path: No such file or directory\"><pre class=\"notranslate\"><code class=\"notranslate\">❯ virsh nodedev-define vgpu-test.xml\nerror: Failed to define node device from 'vgpu-test.xml'\nerror: Cannot find 'mdevctl' in path: No such file or directory\n</code></pre></div>\n<p dir=\"auto\">On my system this works when adding:<br>\n<code class=\"notranslate\">systemd.services.libvirtd.path = [ pkgs.mdevctl ];</code></p>\n<p dir=\"auto\">Not sure if this is the way to fix it, but i'ts a starting point for discussion.</p>",
             "url": "https://github.com/NixOS/nixpkgs/pull/258379",
             "title": "Added mdevctl to path of libvirt.",
-            "date_modified": "2023-10-01T11:58:16.000Z",
+            "date_modified": "2023-10-01T14:47:03.000Z",
             "date_published": "2023-10-01T11:46:47.000Z",
             "author": {
                 "name": "netbrain",
