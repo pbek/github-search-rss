@@ -20,7 +20,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/1634990?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><p dir=\"auto\">Backport of <a class=\"commit-link\" data-hovercard-type=\"commit\" data-hovercard-url=\"https://github.com/NixOS/nixpkgs/commit/addfb000c4f2ae2643886c7c3206b7b06fdad850/hovercard\" href=\"https://github.com/NixOS/nixpkgs/commit/addfb000c4f2ae2643886c7c3206b7b06fdad850\"><tt>addfb00</tt></a>.</p>",
             "url": "https://github.com/NixOS/nixpkgs/pull/260858",
             "title": "tmux: add extraConfigBeforePlugins (backport)",
-            "date_modified": "2023-10-13T11:12:51.000Z",
+            "date_modified": "2023-10-13T14:28:42.000Z",
             "date_published": "2023-10-13T10:13:25.000Z",
             "author": {
                 "name": "thomasjm",
