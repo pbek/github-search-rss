@@ -17,10 +17,10 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/1634990?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><p dir=\"auto\">Backport of <a class=\"commit-link\" data-hovercard-type=\"commit\" data-hovercard-url=\"https://github.com/NixOS/nixpkgs/commit/addfb000c4f2ae2643886c7c3206b7b06fdad850/hovercard\" href=\"https://github.com/NixOS/nixpkgs/commit/addfb000c4f2ae2643886c7c3206b7b06fdad850\"><tt>addfb00</tt></a>.</p>",
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/1634990?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><p dir=\"auto\">Backport of <a class=\"commit-link\" data-hovercard-type=\"commit\" data-hovercard-url=\"https://github.com/NixOS/nixpkgs/commit/addfb000c4f2ae2643886c7c3206b7b06fdad850/hovercard\" href=\"https://github.com/NixOS/nixpkgs/commit/addfb000c4f2ae2643886c7c3206b7b06fdad850\"><tt>addfb00</tt></a>.</p>\n<p dir=\"auto\">Original PR: <a class=\"issue-link js-issue-link\" data-error-text=\"Failed to load title\" data-id=\"1635483941\" data-permission-text=\"Title is private\" data-url=\"https://github.com/NixOS/nixpkgs/issues/222515\" data-hovercard-type=\"pull_request\" data-hovercard-url=\"/NixOS/nixpkgs/pull/222515/hovercard\" href=\"https://github.com/NixOS/nixpkgs/pull/222515\">#222515</a></p>",
             "url": "https://github.com/NixOS/nixpkgs/pull/260858",
-            "title": "tmux: add extraConfigBeforePlugins (backport)",
-            "date_modified": "2023-10-15T13:30:50.000Z",
+            "title": "tmux: add extraConfigBeforePlugins (backport) [23.05]",
+            "date_modified": "2023-10-16T22:27:25.000Z",
             "date_published": "2023-10-13T10:13:25.000Z",
             "author": {
                 "name": "thomasjm",
