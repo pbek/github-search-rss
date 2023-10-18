@@ -4,5 +4,17 @@
     "home_page_url": "https://pbek.github.io/github-search-rss/nixos-packages-46.json",
     "feed_url": "https://pbek.github.io/github-search-rss/nixos-packages-46.json",
     "description": "NixOS Package PRs for man-db-2.11.2, mtools, gparted, pcsclite-with-polkit-1.9.5, wget, qtcreator packages on GitHub",
-    "items": []
+    "items": [
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/22803888?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><h2 dir=\"auto\">Description of changes</h2>\n<p dir=\"auto\"><strong>Not ready to merge before the official release</strong></p>\n<p dir=\"auto\">qtcreator 12 beta adds many features, especially improvements to cmake support</p>\n<ul dir=\"auto\">\n<li><a href=\"https://www.qt.io/blog/qt-creator-12-beta-released\" rel=\"nofollow\">https://www.qt.io/blog/qt-creator-12-beta-released</a></li>\n</ul>",
+            "url": "https://github.com/NixOS/nixpkgs/pull/261761",
+            "title": "qtcreator: 11.0.3 -> 12.0.0-beta1",
+            "date_modified": "2023-10-18T03:31:20.000Z",
+            "date_published": "2023-10-18T03:22:44.000Z",
+            "author": {
+                "name": "wineee",
+                "url": "https://github.com/wineee"
+            }
+        }
+    ]
 }
