@@ -20,7 +20,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/399535?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><h2 dir=\"auto\">Description of changes</h2>\n<p dir=\"auto\">See added commit messages.</p>\n<h2 dir=\"auto\">Things done</h2>\n\n<ul class=\"contains-task-list\">\n<li class=\"task-list-item\"><input type=\"checkbox\" id=\"\" disabled=\"\" class=\"task-list-item-checkbox\" checked=\"\"> Docs-only change.</li>\n<li class=\"task-list-item\"><input type=\"checkbox\" id=\"\" disabled=\"\" class=\"task-list-item-checkbox\" checked=\"\"> Fits <a href=\"https://github.com/NixOS/nixpkgs/blob/master/CONTRIBUTING.md\">CONTRIBUTING.md</a>.</li>\n</ul>",
             "url": "https://github.com/NixOS/nixpkgs/pull/266709",
             "title": "manual: Fix unsafe QEMU_NET_OPTS opening non-localhost ports, add info for tests",
-            "date_modified": "2023-11-10T19:09:25.000Z",
+            "date_modified": "2023-11-10T19:20:01.000Z",
             "date_published": "2023-11-10T17:49:48.000Z",
             "author": {
                 "name": "nh2",
