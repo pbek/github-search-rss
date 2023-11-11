@@ -3045,7 +3045,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/399535?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><h2 dir=\"auto\">Description of changes</h2>\n<p dir=\"auto\">Small correction to PR <a class=\"issue-link js-issue-link\" data-error-text=\"Failed to load title\" data-id=\"1988082501\" data-permission-text=\"Title is private\" data-url=\"https://github.com/NixOS/nixpkgs/issues/266709\" data-hovercard-type=\"pull_request\" data-hovercard-url=\"/NixOS/nixpkgs/pull/266709/hovercard\" href=\"https://github.com/NixOS/nixpkgs/pull/266709\">#266709</a>.</p>\n<h2 dir=\"auto\">Things done</h2>\n\n<ul class=\"contains-task-list\">\n<li class=\"task-list-item\"><input type=\"checkbox\" id=\"\" disabled=\"\" class=\"task-list-item-checkbox\" checked=\"\"> Docs-only change.</li>\n<li class=\"task-list-item\"><input type=\"checkbox\" id=\"\" disabled=\"\" class=\"task-list-item-checkbox\" checked=\"\"> Fits <a href=\"https://github.com/NixOS/nixpkgs/blob/master/CONTRIBUTING.md\">CONTRIBUTING.md</a>.</li>\n</ul>",
             "url": "https://github.com/NixOS/nixpkgs/pull/266844",
             "title": "manual: Fix QEMU_NET_OPTS VM-side address",
-            "date_modified": "2023-11-11T11:58:40.000Z",
+            "date_modified": "2023-11-11T12:48:53.000Z",
             "date_published": "2023-11-11T11:58:28.000Z",
             "author": {
                 "name": "nh2",
