@@ -9,7 +9,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/6599296?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><p dir=\"auto\">The build log of the following won't output <code class=\"notranslate\">foo</code> as one might expect, but the <code class=\"notranslate\">$PATH</code> set by stdenv.</p>\n<div class=\"highlight highlight-source-nix notranslate position-relative overflow-auto\" dir=\"auto\" data-snippet-clipboard-copy-content=\"with import &lt;nixpkgs&gt; {}; runCommand &quot;foo&quot; { PATH = &quot;foo&quot;; } &quot;echo $PATH; touch $out&quot;\"><pre class=\"notranslate\"><span class=\"pl-k\">with</span> <span class=\"pl-en\"><span class=\"pl-en\">import</span></span> <span class=\"pl-pds\">&lt;nixpkgs&gt;</span> <span class=\"pl-kos\">{</span><span class=\"pl-kos\">}</span><span class=\"pl-kos\">;</span> <span class=\"pl-en\"><span class=\"pl-s1\">runCommand</span></span> <span class=\"pl-s\">\"foo\"</span> <span class=\"pl-kos\">{</span> <span class=\"pl-c1\"><span class=\"pl-c1\">PATH</span></span> <span class=\"pl-kos\">=</span> <span class=\"pl-s\">\"foo\"</span><span class=\"pl-kos\">;</span> <span class=\"pl-kos\">}</span> <span class=\"pl-s\">\"echo $PATH; touch $out\"</span></pre></div>\n<p dir=\"auto\">The first commit is a reformatting that does not change contents.</p>",
             "url": "https://github.com/NixOS/nixpkgs/pull/267294",
             "title": "doc: add note on which variables are affective for `runCommand`",
-            "date_modified": "2023-11-13T20:28:49.000Z",
+            "date_modified": "2023-11-13T22:07:13.000Z",
             "date_published": "2023-11-13T20:28:49.000Z",
             "author": {
                 "name": "fricklerhandwerk",
