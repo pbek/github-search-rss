@@ -9,7 +9,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/1042548?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><h2 dir=\"auto\">Description of changes</h2>\n<p dir=\"auto\">Move the symlink of the PPD file to the CUPS model directory.</p>\n<p dir=\"auto\">Closes issue <a class=\"issue-link js-issue-link\" data-error-text=\"Failed to load title\" data-id=\"2005881555\" data-permission-text=\"Title is private\" data-url=\"https://github.com/NixOS/nixpkgs/issues/269142\" data-hovercard-type=\"issue\" data-hovercard-url=\"/NixOS/nixpkgs/issues/269142/hovercard\" href=\"https://github.com/NixOS/nixpkgs/issues/269142\">#269142</a>.</p>",
             "url": "https://github.com/NixOS/nixpkgs/pull/270437",
             "title": "cups-brother-hl1210w: fix ppd symlink path",
-            "date_modified": "2023-11-27T15:50:07.000Z",
+            "date_modified": "2023-11-27T19:58:34.000Z",
             "date_published": "2023-11-27T15:49:33.000Z",
             "author": {
                 "name": "mtzanidakis",
