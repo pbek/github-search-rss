@@ -20,7 +20,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/5861043?u=f5d22900b92677333f5f76bd9462c4162bf62b4f&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><p dir=\"auto\">pkgsMusl.dbus_cplusplus: mark broken for Musl</p>\n<ul dir=\"auto\">\n<li>Tracking issue: <a class=\"issue-link js-issue-link\" data-error-text=\"Failed to load title\" data-id=\"2057840395\" data-permission-text=\"Title is private\" data-url=\"https://github.com/NixOS/nixpkgs/issues/277198\" data-hovercard-type=\"issue\" data-hovercard-url=\"/NixOS/nixpkgs/issues/277198/hovercard\" href=\"https://github.com/NixOS/nixpkgs/issues/277198\">#277198</a></li>\n</ul>",
             "url": "https://github.com/NixOS/nixpkgs/pull/277299",
             "title": "pkgsMusl.dbus_cplusplus: mark broken for Musl",
-            "date_modified": "2023-12-29T16:05:39.000Z",
+            "date_modified": "2023-12-29T17:04:23.000Z",
             "date_published": "2023-12-28T10:31:26.000Z",
             "author": {
                 "name": "superherointj",
