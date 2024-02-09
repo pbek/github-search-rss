@@ -9,7 +9,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/6599296?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><p dir=\"auto\">otherwise it's a lot of friction to figure out which values can be set there.</p>\n<p dir=\"auto\">Add a 👍 <a href=\"https://github.blog/2016-03-10-add-reactions-to-pull-requests-issues-and-comments/\" rel=\"nofollow\">reaction</a> to <a href=\"https://github.com/NixOS/nixpkgs/pulls?q=is%3Aopen+sort%3Areactions-%2B1-desc\">pull requests you find important</a>.</p>",
             "url": "https://github.com/NixOS/nixpkgs/pull/287438",
             "title": "doc: add link to QEMU reference documentation in QEMU module",
-            "date_modified": "2024-02-09T10:21:22.000Z",
+            "date_modified": "2024-02-09T11:44:45.000Z",
             "date_published": "2024-02-09T09:05:20.000Z",
             "author": {
                 "name": "fricklerhandwerk",
@@ -31,7 +31,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/6599296?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><p dir=\"auto\">Add a 👍 <a href=\"https://github.blog/2016-03-10-add-reactions-to-pull-requests-issues-and-comments/\" rel=\"nofollow\">reaction</a> to <a href=\"https://github.com/NixOS/nixpkgs/pulls?q=is%3Aopen+sort%3Areactions-%2B1-desc\">pull requests you find important</a>.</p>",
             "url": "https://github.com/NixOS/nixpkgs/pull/287445",
             "title": "doc: expand on parameters passed to QEMU VMs",
-            "date_modified": "2024-02-09T10:44:45.000Z",
+            "date_modified": "2024-02-09T11:42:43.000Z",
             "date_published": "2024-02-09T09:25:29.000Z",
             "author": {
                 "name": "fricklerhandwerk",
