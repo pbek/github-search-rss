@@ -53,7 +53,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/382362?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><ul dir=\"auto\">\n<li>Fix a couple typos</li>\n<li>Capitalize CMake, Ninja, and Make when used as project names</li>\n<li>Clarify that CMAKE_ environment variable setting cannot be disabled</li>\n<li>Explain why it is sufficient to override configurePhase</li>\n<li>Explain how Ninja comes into play in a CMake project</li>\n<li>Note the interaction between the Ninja and CMake setup hooks for disabling<br>\npurposes</li>\n</ul>",
             "url": "https://github.com/NixOS/nixpkgs/pull/147119",
             "title": "Documentation improvements for the CMake infrastructure",
-            "date_modified": "2024-03-19T21:32:29.000Z",
+            "date_modified": "2024-03-19T23:07:02.000Z",
             "date_published": "2021-11-23T12:41:27.000Z",
             "author": {
                 "name": "dudebout",
