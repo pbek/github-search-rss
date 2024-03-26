@@ -9,7 +9,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/4323933?u=ccc7a35e006af892ee83016bf36a9bfcfbb50966&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><p dir=\"auto\">Remove the <code class=\"notranslate\">nvidiaLegacy*</code> video drivers from the manual: not only are they deprecated, their deprecation notice was removed in <a class=\"issue-link js-issue-link\" data-error-text=\"Failed to load title\" data-id=\"1808676238\" data-permission-text=\"Title is private\" data-url=\"https://github.com/NixOS/nixpkgs/issues/244060\" data-hovercard-type=\"pull_request\" data-hovercard-url=\"/NixOS/nixpkgs/pull/244060/hovercard\" href=\"https://github.com/NixOS/nixpkgs/pull/244060\">#244060</a>.</p>",
             "url": "https://github.com/NixOS/nixpkgs/pull/298956",
             "title": "nixos/nvidia: update manual",
-            "date_modified": "2024-03-25T16:37:30.000Z",
+            "date_modified": "2024-03-26T01:28:55.000Z",
             "date_published": "2024-03-25T16:00:15.000Z",
             "author": {
                 "name": "ncfavier",
