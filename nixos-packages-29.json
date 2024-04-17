@@ -9,7 +9,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/6599296?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><p dir=\"auto\">that NixOS manual section talks a lot about Nixpkgs package<br>\nconfiguration, which really should not be there but rather in the<br>\nNixpkgs manual itself. but this is a rabbit hole for another time.</p>\n<p dir=\"auto\">Related: <a class=\"issue-link js-issue-link\" data-error-text=\"Failed to load title\" data-id=\"1974673303\" data-permission-text=\"Title is private\" data-url=\"https://github.com/NixOS/nixpkgs/issues/265058\" data-hovercard-type=\"issue\" data-hovercard-url=\"/NixOS/nixpkgs/issues/265058/hovercard\" href=\"https://github.com/NixOS/nixpkgs/issues/265058\">#265058</a></p>\n\n<hr>\n<p dir=\"auto\">Add a 👍 <a href=\"https://github.blog/2016-03-10-add-reactions-to-pull-requests-issues-and-comments/\" rel=\"nofollow\">reaction</a> to <a href=\"https://github.com/NixOS/nixpkgs/pulls?q=is%3Aopen+sort%3Areactions-%2B1-desc\">pull requests you find important</a>.</p>",
             "url": "https://github.com/NixOS/nixpkgs/pull/304307",
             "title": "doc: move note on configuring Nixpkgs in NixOS to the NixOS manual",
-            "date_modified": "2024-04-17T22:09:06.000Z",
+            "date_modified": "2024-04-17T22:22:13.000Z",
             "date_published": "2024-04-15T15:10:49.000Z",
             "author": {
                 "name": "fricklerhandwerk",
