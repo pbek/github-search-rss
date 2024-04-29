@@ -20,7 +20,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/17255804?u=10d7c002af6a6ad9a44f95c36b4c58c63039bf8d&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><p dir=\"auto\">The report installed version report to cmake was <code class=\"notranslate\">3.0.0</code>, however the<br>\nreal version is <code class=\"notranslate\">3.0.1</code>. This was causing cmake's <code class=\"notranslate\">find_package(date 3.0.1)</code> to fail.</p>\n<div class=\"highlight highlight-text-shell-session notranslate position-relative overflow-auto\" dir=\"auto\" data-snippet-clipboard-copy-content=\"cat /nix/store/cx2jc7aay0if0f3s0nc1i5raahd3p4hk-howard-hinnant-date-3.0.1-dev/lib/cmake/date/dateConfigVersion.cmake\n\nset(PACKAGE_VERSION &quot;3.0.1&quot;)\"><pre class=\"notranslate\"><span class=\"pl-c1\">cat /nix/store/cx2jc7aay0if0f3s0nc1i5raahd3p4hk-howard-hinnant-date-3.0.1-dev/lib/cmake/date/dateConfigVersion.cmake</span>\n\n<span class=\"pl-c1\">set(PACKAGE_VERSION \"3.0.1\")</span></pre></div>\n<p dir=\"auto\">Before this patch, the file contained <code class=\"notranslate\">set(PACKAGE_VERSION \"3.0.0\")</code>.</p>\n<p dir=\"auto\">This patch is already merged upstream in the <code class=\"notranslate\">master</code> branch.</p>",
             "url": "https://github.com/NixOS/nixpkgs/pull/307692",
             "title": "howard-hinnant-date: fix installed cmake version",
-            "date_modified": "2024-04-29T09:09:06.000Z",
+            "date_modified": "2024-04-29T09:21:58.000Z",
             "date_published": "2024-04-29T08:55:54.000Z",
             "author": {
                 "name": "OlivierLDff",
