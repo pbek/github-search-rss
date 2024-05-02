@@ -9,7 +9,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/9713184?u=408b4ea5c2e7d00b9f0bcbde2dba47b4dcbbb406&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><p dir=\"auto\">Reverts <a class=\"issue-link js-issue-link\" data-error-text=\"Failed to load title\" data-id=\"2266519825\" data-permission-text=\"Title is private\" data-url=\"https://github.com/NixOS/nixpkgs/issues/307063\" data-hovercard-type=\"pull_request\" data-hovercard-url=\"/NixOS/nixpkgs/pull/307063/hovercard\" href=\"https://github.com/NixOS/nixpkgs/pull/307063\">#307063</a></p>\n<p dir=\"auto\"><a class=\"issue-link js-issue-link\" data-error-text=\"Failed to load title\" data-id=\"2266519825\" data-permission-text=\"Title is private\" data-url=\"https://github.com/NixOS/nixpkgs/issues/307063\" data-hovercard-type=\"pull_request\" data-hovercard-url=\"/NixOS/nixpkgs/pull/307063/hovercard?comment_id=2089848178&amp;comment_type=issue_comment\" href=\"https://github.com/NixOS/nixpkgs/pull/307063#issuecomment-2089848178\">#307063 (comment)</a></p>",
             "url": "https://github.com/NixOS/nixpkgs/pull/308502",
             "title": "Revert \"gnu-efi: 3.0.15 → 3.0.18; fwupd-efi: 1.5 → 1.6\"",
-            "date_modified": "2024-05-02T12:13:17.000Z",
+            "date_modified": "2024-05-02T13:28:29.000Z",
             "date_published": "2024-05-02T11:20:22.000Z",
             "author": {
                 "name": "wegank",
