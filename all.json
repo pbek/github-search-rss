@@ -3562,7 +3562,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/314564?u=2b23b8b25c888f248f04be073e6b4994f932f7b7&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><p dir=\"auto\">Please refer to <a class=\"issue-link js-issue-link\" data-error-text=\"Failed to load title\" data-id=\"2236976095\" data-permission-text=\"Title is private\" data-url=\"https://github.com/NixOS/nixpkgs/issues/303285\" data-hovercard-type=\"issue\" data-hovercard-url=\"/NixOS/nixpkgs/issues/303285/hovercard\" href=\"https://github.com/NixOS/nixpkgs/issues/303285\">#303285</a>.</p>\n<p dir=\"auto\">Reverts <a class=\"issue-link js-issue-link\" data-error-text=\"Failed to load title\" data-id=\"2291308072\" data-permission-text=\"Title is private\" data-url=\"https://github.com/NixOS/nixpkgs/issues/311047\" data-hovercard-type=\"pull_request\" data-hovercard-url=\"/NixOS/nixpkgs/pull/311047/hovercard\" href=\"https://github.com/NixOS/nixpkgs/pull/311047\">#311047</a> as it was not supposed to happen for this release cycle.</p>\n<p dir=\"auto\">A full message is provided in the commit message.</p>",
             "url": "https://github.com/NixOS/nixpkgs/pull/313359",
             "title": "Revert \"neovim: 0.9.5 -> 0.10.0\"",
-            "date_modified": "2024-05-21T12:19:01.000Z",
+            "date_modified": "2024-05-21T13:08:13.000Z",
             "date_published": "2024-05-21T10:20:12.000Z",
             "author": {
                 "name": "RaitoBezarius",
