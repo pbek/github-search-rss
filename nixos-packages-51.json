@@ -6,14 +6,25 @@
     "description": "NixOS Package PRs for fwupd-1.8.15, plasma-workspace-wallpapers, google-chrome, kactivitymanagerd, gawk-5.2.1, gcc-wrapper-12.2.0 packages on GitHub",
     "items": [
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/443728?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><p dir=\"auto\">Fixes:<br>\nHigh CVE-2024-5274: Type Confusion in V8. Reported by Clément Lecigne of Google's Threat Analysis Group and Brendon Tiszka of Chrome Security on 2024-05-20</p>\n<p dir=\"auto\">See <a href=\"https://chromereleases.googleblog.com/2024/05/stable-channel-update-for-desktop_23.html\" rel=\"nofollow\">https://chromereleases.googleblog.com/2024/05/stable-channel-update-for-desktop_23.html</a></p>\n<p dir=\"auto\"><a class=\"user-mention notranslate\" data-hovercard-type=\"user\" data-hovercard-url=\"/users/jnsgruk/hovercard\" data-octo-click=\"hovercard-link-click\" data-octo-dimensions=\"link_type:self\" href=\"https://github.com/jnsgruk\">@jnsgruk</a> I saw that you committed the last version bump. Could you take a look? Thank you!</p>",
-            "url": "https://github.com/NixOS/nixpkgs/pull/314505",
-            "title": "google-chrome: 125.0.6422.76 -> 125.0.6422.112",
-            "date_modified": "2024-05-25T06:15:30.000Z",
-            "date_published": "2024-05-25T05:45:28.000Z",
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/in/15368?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><p dir=\"auto\">Bot-based backport to <code class=\"notranslate\">release-24.05</code>, triggered by a label in <a class=\"issue-link js-issue-link\" data-error-text=\"Failed to load title\" data-id=\"2316731464\" data-permission-text=\"Title is private\" data-url=\"https://github.com/NixOS/nixpkgs/issues/314505\" data-hovercard-type=\"pull_request\" data-hovercard-url=\"/NixOS/nixpkgs/pull/314505/hovercard\" href=\"https://github.com/NixOS/nixpkgs/pull/314505\">#314505</a>.</p>\n<ul class=\"contains-task-list\">\n<li class=\"task-list-item\"><input type=\"checkbox\" id=\"\" disabled=\"\" class=\"task-list-item-checkbox\" checked=\"\"> Before merging, ensure that this backport is <a href=\"https://github.com/NixOS/nixpkgs/blob/master/CONTRIBUTING.md#changes-acceptable-for-releases\">acceptable for the release</a>.\n<ul dir=\"auto\">\n<li>Even as a non-commiter, if you find that it is not acceptable, leave a comment.</li>\n</ul>\n</li>\n</ul>",
+            "url": "https://github.com/NixOS/nixpkgs/pull/314516",
+            "title": "[Backport release-24.05] google-chrome: 125.0.6422.76 -> 125.0.6422.112",
+            "date_modified": "2024-05-25T07:15:49.000Z",
+            "date_published": "2024-05-25T06:47:26.000Z",
             "author": {
-                "name": "clefru",
-                "url": "https://github.com/clefru"
+                "name": "github-actions",
+                "url": "https://github.com/apps/github-actions"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/in/15368?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><p dir=\"auto\">Bot-based backport to <code class=\"notranslate\">release-23.11</code>, triggered by a label in <a class=\"issue-link js-issue-link\" data-error-text=\"Failed to load title\" data-id=\"2316731464\" data-permission-text=\"Title is private\" data-url=\"https://github.com/NixOS/nixpkgs/issues/314505\" data-hovercard-type=\"pull_request\" data-hovercard-url=\"/NixOS/nixpkgs/pull/314505/hovercard\" href=\"https://github.com/NixOS/nixpkgs/pull/314505\">#314505</a>.</p>\n<ul class=\"contains-task-list\">\n<li class=\"task-list-item\"><input type=\"checkbox\" id=\"\" disabled=\"\" class=\"task-list-item-checkbox\" checked=\"\"> Before merging, ensure that this backport is <a href=\"https://github.com/NixOS/nixpkgs/blob/master/CONTRIBUTING.md#changes-acceptable-for-releases\">acceptable for the release</a>.\n<ul dir=\"auto\">\n<li>Even as a non-commiter, if you find that it is not acceptable, leave a comment.</li>\n</ul>\n</li>\n</ul>",
+            "url": "https://github.com/NixOS/nixpkgs/pull/314515",
+            "title": "[Backport release-23.11] google-chrome: 125.0.6422.76 -> 125.0.6422.112",
+            "date_modified": "2024-05-25T07:16:10.000Z",
+            "date_published": "2024-05-25T06:47:12.000Z",
+            "author": {
+                "name": "github-actions",
+                "url": "https://github.com/apps/github-actions"
             }
         },
         {
