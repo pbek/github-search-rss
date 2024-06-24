@@ -1524,22 +1524,22 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/4804?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><p dir=\"auto\">This is the nixos manual counterpart to <a class=\"issue-link js-issue-link\" data-error-text=\"Failed to load title\" data-id=\"777094139\" data-permission-text=\"Title is private\" data-url=\"https://github.com/NixOS/nixpkgs/issues/108063\" data-hovercard-type=\"pull_request\" data-hovercard-url=\"/NixOS/nixpkgs/pull/108063/hovercard\" href=\"https://github.com/NixOS/nixpkgs/pull/108063\">#108063</a></p>\n<h2 dir=\"auto\">Try it yourself</h2>\n<ul dir=\"auto\">\n<li>Checkout this branch</li>\n<li>nix run .#nixos-manual-mmdoc-watch</li>\n<li>visit <code class=\"notranslate\">http://localhost:8000/</code> in your web browser</li>\n</ul>",
-            "url": "https://github.com/NixOS/nixpkgs/pull/254434",
-            "title": "nixos-manual with mmdoc",
-            "date_modified": "2024-03-19T21:55:17.000Z",
-            "date_published": "2023-09-10T15:34:03.000Z",
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/4804?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><p dir=\"auto\">This is a prototype Markdown manual renderer that has as few dependencies as possible. We might wish to have something like this because it would limit the build closure required for building the manuals, which is most important for NixOS.</p>\n<p dir=\"auto\">The only dependencies are:</p>\n<ul dir=\"auto\">\n<li><a href=\"https://github.com/ryantm/mmdoc\">mmdoc</a> - My C wrapper around cmark-gfm for making documentation</li>\n<li><a href=\"https://github.com/github/cmark-gfm\">cmark-gfm</a> - a C implementation of the CommonMark spec with additional GitHub-flavored Markdown extensions</li>\n<li>xxd</li>\n<li>fastJson</li>\n<li>libzip</li>\n</ul>\n<p dir=\"auto\">It uses assets from</p>\n<ul dir=\"auto\">\n<li>fuse.js</li>\n<li>highlight.js</li>\n</ul>\n<p dir=\"auto\">Another benefit of this minimal approach is the manual can be rendered very quickly. cmark claims it can render War and Peace in 100 ms.</p>\n<h2 dir=\"auto\"><a href=\"http://ryantm.github.io/nixpkgs/\" rel=\"nofollow\">Try the Live demo!</a></h2>\n<h2 dir=\"auto\">Try it yourself</h2>\n<ul dir=\"auto\">\n<li>Checkout this branch</li>\n<li>nix run .#nixpkgs-manual-mmdoc-watch</li>\n<li>visit <code class=\"notranslate\">http://localhost:8000/</code> in your web browser</li>\n</ul>",
+            "url": "https://github.com/NixOS/nixpkgs/pull/108063",
+            "title": "nixpkgs-manual-mmdoc, nixos-manual-mmdoc: init",
+            "date_modified": "2024-06-24T05:31:51.000Z",
+            "date_published": "2020-12-31T17:33:31.000Z",
             "author": {
                 "name": "ryantm",
                 "url": "https://github.com/ryantm"
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/4804?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><p dir=\"auto\">This is a prototype Markdown manual renderer that has as few dependencies as possible. We might wish to have something like this because it would limit the build closure required for building the manuals, which is most important for NixOS.</p>\n<p dir=\"auto\">The only dependencies are:</p>\n<ul dir=\"auto\">\n<li><a href=\"https://github.com/ryantm/mmdoc\">mmdoc</a> - My C wrapper around cmark-gfm for making documentation</li>\n<li><a href=\"https://github.com/github/cmark-gfm\">cmark-gfm</a> - a C implementation of the CommonMark spec with additional GitHub-flavored Markdown extensions</li>\n<li>xxd</li>\n<li>fastJson</li>\n<li>libzip</li>\n</ul>\n<p dir=\"auto\">It uses assets from</p>\n<ul dir=\"auto\">\n<li>fuse.js</li>\n<li>highlight.js</li>\n</ul>\n<p dir=\"auto\">Another benefit of this minimal approach is the manual can be rendered very quickly. cmark claims it can render War and Peace in 100 ms.</p>\n<h2 dir=\"auto\"><a href=\"http://ryantm.github.io/nixpkgs/\" rel=\"nofollow\">Try the Live demo!</a></h2>\n<h2 dir=\"auto\">Try it yourself</h2>\n<ul dir=\"auto\">\n<li>Checkout this branch</li>\n<li>nix run .#nixpkgs-manual-mmdoc-watch</li>\n<li>visit <code class=\"notranslate\">http://localhost:8000/</code> in your web browser</li>\n</ul>",
-            "url": "https://github.com/NixOS/nixpkgs/pull/108063",
-            "title": "nixpkgs-manual-mmdoc, nixos-manual-mmdoc: init",
-            "date_modified": "2024-03-16T04:25:25.000Z",
-            "date_published": "2020-12-31T17:33:31.000Z",
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/4804?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><p dir=\"auto\">This is the nixos manual counterpart to <a class=\"issue-link js-issue-link\" data-error-text=\"Failed to load title\" data-id=\"777094139\" data-permission-text=\"Title is private\" data-url=\"https://github.com/NixOS/nixpkgs/issues/108063\" data-hovercard-type=\"pull_request\" data-hovercard-url=\"/NixOS/nixpkgs/pull/108063/hovercard\" href=\"https://github.com/NixOS/nixpkgs/pull/108063\">#108063</a></p>\n<h2 dir=\"auto\">Try it yourself</h2>\n<ul dir=\"auto\">\n<li>Checkout this branch</li>\n<li>nix run .#nixos-manual-mmdoc-watch</li>\n<li>visit <code class=\"notranslate\">http://localhost:8000/</code> in your web browser</li>\n</ul>",
+            "url": "https://github.com/NixOS/nixpkgs/pull/254434",
+            "title": "nixos-manual with mmdoc",
+            "date_modified": "2024-03-19T21:55:17.000Z",
+            "date_published": "2023-09-10T15:34:03.000Z",
             "author": {
                 "name": "ryantm",
                 "url": "https://github.com/ryantm"
