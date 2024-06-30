@@ -20,7 +20,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/886074?u=9326b2db04b4bf8fb8e43051553413380ff60ca1&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><ul dir=\"auto\">\n<li><strong>neovim-remote: move to pkgs/by-name</strong></li>\n<li><strong>neovim-gtk: move to pkgs/by-name</strong></li>\n</ul>",
             "url": "https://github.com/NixOS/nixpkgs/pull/323473",
             "title": "move neovim-remote to pkgs/by-name",
-            "date_modified": "2024-06-29T23:12:01.000Z",
+            "date_modified": "2024-06-30T13:20:40.000Z",
             "date_published": "2024-06-29T22:41:50.000Z",
             "author": {
                 "name": "teto",
