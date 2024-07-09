@@ -42,7 +42,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/114159?u=41053752e3cad1a58be8a68f93d4f8546904b8c1&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><p dir=\"auto\">(cherry picked from commit <a class=\"commit-link\" data-hovercard-type=\"commit\" data-hovercard-url=\"https://github.com/NixOS/nixpkgs/commit/66b896630df0a79149aea3fe6fae16cee3dd646f/hovercard\" href=\"https://github.com/NixOS/nixpkgs/commit/66b896630df0a79149aea3fe6fae16cee3dd646f\"><tt>66b8966</tt></a>)</p>\n<p dir=\"auto\">Manual backport of <a class=\"issue-link js-issue-link\" data-error-text=\"Failed to load title\" data-id=\"2394274175\" data-permission-text=\"Title is private\" data-url=\"https://github.com/NixOS/nixpkgs/issues/325377\" data-hovercard-type=\"pull_request\" data-hovercard-url=\"/NixOS/nixpkgs/pull/325377/hovercard\" href=\"https://github.com/NixOS/nixpkgs/pull/325377\">#325377</a>.</p>",
             "url": "https://github.com/NixOS/nixpkgs/pull/325852",
             "title": "[Backport release-24.05] profiles/qemu_guest: add virtio_gpu to initrd",
-            "date_modified": "2024-07-09T15:09:13.000Z",
+            "date_modified": "2024-07-09T15:24:03.000Z",
             "date_published": "2024-07-09T13:58:20.000Z",
             "author": {
                 "name": "fpletz",
