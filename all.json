@@ -889,7 +889,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/277161?u=9d1b6068f803c8b7e28b2849ac36dff7febcf64e&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><h2 dir=\"auto\">Description of changes</h2>\n<p dir=\"auto\">I write git-instafix and I want to be added to the reviewers list when it gets updated in nixpkgs.</p>\n<h2 dir=\"auto\">Things done</h2>\n<p dir=\"auto\">No changes or testing except adding myself as a maintainer.</p>",
             "url": "https://github.com/NixOS/nixpkgs/pull/324405",
             "title": "git-instafix: add quodlibetor as maintainer",
-            "date_modified": "2024-07-10T01:33:16.000Z",
+            "date_modified": "2024-07-10T02:01:53.000Z",
             "date_published": "2024-07-03T20:43:25.000Z",
             "author": {
                 "name": "quodlibetor",
