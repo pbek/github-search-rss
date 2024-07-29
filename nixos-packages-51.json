@@ -9,7 +9,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/in/15368?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><p dir=\"auto\">Bot-based backport to <code class=\"notranslate\">release-24.05</code>, triggered by a label in <a class=\"issue-link js-issue-link\" data-error-text=\"Failed to load title\" data-id=\"2434050436\" data-permission-text=\"Title is private\" data-url=\"https://github.com/NixOS/nixpkgs/issues/330701\" data-hovercard-type=\"pull_request\" data-hovercard-url=\"/NixOS/nixpkgs/pull/330701/hovercard\" href=\"https://github.com/NixOS/nixpkgs/pull/330701\">#330701</a>.</p>\n<ul class=\"contains-task-list\">\n<li class=\"task-list-item\"><input type=\"checkbox\" id=\"\" disabled=\"\" class=\"task-list-item-checkbox\" checked=\"\"> Before merging, ensure that this backport is <a href=\"https://github.com/NixOS/nixpkgs/blob/master/CONTRIBUTING.md#changes-acceptable-for-releases\">acceptable for the release</a>.\n<ul dir=\"auto\">\n<li>Even as a non-commiter, if you find that it is not acceptable, leave a comment.</li>\n</ul>\n</li>\n</ul>",
             "url": "https://github.com/NixOS/nixpkgs/pull/330727",
             "title": "[Backport release-24.05] google-chrome: 126.0.6478.182 -> 127.0.6533.72",
-            "date_modified": "2024-07-28T23:11:41.000Z",
+            "date_modified": "2024-07-28T23:26:40.000Z",
             "date_published": "2024-07-28T20:19:56.000Z",
             "author": {
                 "name": "github-actions",
