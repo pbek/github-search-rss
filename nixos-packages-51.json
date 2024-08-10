@@ -4,5 +4,17 @@
     "home_page_url": "https://pbek.github.io/github-search-rss/nixos-packages-51.json",
     "feed_url": "https://pbek.github.io/github-search-rss/nixos-packages-51.json",
     "description": "NixOS Package PRs for fwupd-1.8.15, plasma-workspace-wallpapers, google-chrome, kactivitymanagerd, gawk-5.2.1, gcc-wrapper-12.2.0 packages on GitHub",
-    "items": []
+    "items": [
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/668505?u=82e7156959b73158d957737a4b21ab0ebdb030af&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><p dir=\"auto\">Backports <a class=\"issue-link js-issue-link\" data-error-text=\"Failed to load title\" data-id=\"2447106031\" data-permission-text=\"Title is private\" data-url=\"https://github.com/NixOS/nixpkgs/issues/332229\" data-hovercard-type=\"pull_request\" data-hovercard-url=\"/NixOS/nixpkgs/pull/332229/hovercard\" href=\"https://github.com/NixOS/nixpkgs/pull/332229\">#332229</a> to 24.05, which includes a security update for Google Chrome, and a slight refactoring that introduces Darwin support. I'd not normally backport the Darwin change, but without it, it'll make future version backports much more painful!</p>",
+            "url": "https://github.com/NixOS/nixpkgs/pull/333722",
+            "title": "[Backport release-24.05] google-chrome: 127.0.6533.89 -> 127.0.6533.100",
+            "date_modified": "2024-08-10T17:09:28.000Z",
+            "date_published": "2024-08-10T16:27:02.000Z",
+            "author": {
+                "name": "jnsgruk",
+                "url": "https://github.com/jnsgruk"
+            }
+        }
+    ]
 }
