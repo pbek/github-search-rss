@@ -196,7 +196,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/176571396?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><p dir=\"auto\">This is a second try of <a class=\"issue-link js-issue-link\" data-error-text=\"Failed to load title\" data-id=\"2462995306\" data-permission-text=\"Title is private\" data-url=\"https://github.com/NixOS/nixpkgs/issues/334351\" data-hovercard-type=\"pull_request\" data-hovercard-url=\"/NixOS/nixpkgs/pull/334351/hovercard\" href=\"https://github.com/NixOS/nixpkgs/pull/334351\">#334351</a>.</p>\n<p dir=\"auto\"><a class=\"user-mention notranslate\" data-hovercard-type=\"user\" data-hovercard-url=\"/users/dotlambda/hovercard\" data-octo-click=\"hovercard-link-click\" data-octo-dimensions=\"link_type:self\" href=\"https://github.com/dotlambda\">@dotlambda</a> pinging you as you asked for these changes</p>\n<hr>\n<p dir=\"auto\">Add a 👍 <a href=\"https://github.blog/2016-03-10-add-reactions-to-pull-requests-issues-and-comments/\" rel=\"nofollow\">reaction</a> to <a href=\"https://github.com/NixOS/nixpkgs/pulls?q=is%3Aopen+sort%3Areactions-%2B1-desc\">pull requests you find important</a>.</p>",
             "url": "https://github.com/NixOS/nixpkgs/pull/334371",
             "title": "nixos/openwebui: add link to description",
-            "date_modified": "2024-08-13T12:36:54.000Z",
+            "date_modified": "2024-08-13T12:52:58.000Z",
             "date_published": "2024-08-13T12:20:43.000Z",
             "author": {
                 "name": "nixupp",
