@@ -141,7 +141,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/718298?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><h2 dir=\"auto\">Description of changes</h2>\n<ul dir=\"auto\">\n<li>removal of \"with lib;\" left in a naked use of <code class=\"notranslate\">mod</code>, so prefixed it with <code class=\"notranslate\">lib.</code></li>\n<li>on-save hook put the whole file through <code class=\"notranslate\">nixfmt</code>, let's see what the CI machinery thinks about that...</li>\n</ul>\n<h2 dir=\"auto\">Things done</h2>\n\n<ul dir=\"auto\">\n<li>Built on platform(s)\n<ul dir=\"auto\">\n<li>[v ] x86_64-linux</li>\n</ul>\n</li>\n</ul>\n<hr>\n<p dir=\"auto\">Add a 👍 <a href=\"https://github.blog/2016-03-10-add-reactions-to-pull-requests-issues-and-comments/\" rel=\"nofollow\">reaction</a> to <a href=\"https://github.com/NixOS/nixpkgs/pulls?q=is%3Aopen+sort%3Areactions-%2B1-desc\">pull requests you find important</a>.</p>",
             "url": "https://github.com/NixOS/nixpkgs/pull/338888",
             "title": "nixos/services.bees: fix eval",
-            "date_modified": "2024-09-01T20:41:49.000Z",
+            "date_modified": "2024-09-01T23:16:46.000Z",
             "date_published": "2024-09-01T20:41:36.000Z",
             "author": {
                 "name": "cmm",
