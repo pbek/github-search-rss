@@ -31,7 +31,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/174749595?u=33db09e1e97a1f4c3a53bf219a33a1a0fa21e20e&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><h2 dir=\"auto\">Description of changes</h2>\n<p dir=\"auto\">Syncs some <code class=\"notranslate\">qemu</code> meta attributes with <code class=\"notranslate\">xen</code>'s so the maintainer list is more accurate and <code class=\"notranslate\">qemu_xen</code> inherits Xen's EOL cutoff date.</p>\n<h2 dir=\"auto\">Things done</h2>\n<ul class=\"contains-task-list\">\n<li>Built on platform(s)\n<ul dir=\"auto\">\n<li>This PR does not rebuild any packages.</li>\n</ul>\n</li>\n<li class=\"task-list-item\"><input type=\"checkbox\" id=\"\" disabled=\"\" class=\"task-list-item-checkbox\" checked=\"\"> Fits <a href=\"https://github.com/NixOS/nixpkgs/blob/master/CONTRIBUTING.md\">CONTRIBUTING.md</a>.</li>\n</ul>\n<hr>\n<p dir=\"auto\">Add a 👍 <a href=\"https://github.blog/2016-03-10-add-reactions-to-pull-requests-issues-and-comments/\" rel=\"nofollow\">reaction</a> to <a href=\"https://github.com/NixOS/nixpkgs/pulls?q=is%3Aopen+sort%3Areactions-%2B1-desc\">pull requests you find important</a>.</p>",
             "url": "https://github.com/NixOS/nixpkgs/pull/337253",
             "title": "qemu_xen: sync with xen meta attributes",
-            "date_modified": "2024-09-01T14:45:56.000Z",
+            "date_modified": "2024-09-02T07:06:31.000Z",
             "date_published": "2024-08-25T14:19:44.000Z",
             "author": {
                 "name": "SigmaSquadron",
