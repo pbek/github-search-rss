@@ -39,17 +39,6 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/in/15368?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><p dir=\"auto\">Bot-based backport to <code class=\"notranslate\">release-24.05</code>, triggered by a label in <a class=\"issue-link js-issue-link\" data-error-text=\"Failed to load title\" data-id=\"2396352526\" data-permission-text=\"Title is private\" data-url=\"https://github.com/NixOS/nixpkgs/issues/325619\" data-hovercard-type=\"pull_request\" data-hovercard-url=\"/NixOS/nixpkgs/pull/325619/hovercard\" href=\"https://github.com/NixOS/nixpkgs/pull/325619\">#325619</a>.</p>\n<ul class=\"contains-task-list\">\n<li class=\"task-list-item\"><input type=\"checkbox\" id=\"\" disabled=\"\" class=\"task-list-item-checkbox\"> Before merging, ensure that this backport is <a href=\"https://github.com/NixOS/nixpkgs/blob/master/CONTRIBUTING.md#changes-acceptable-for-releases\">acceptable for the release</a>.\n<ul dir=\"auto\">\n<li>Even as a non-commiter, if you find that it is not acceptable, leave a comment.</li>\n</ul>\n</li>\n</ul>",
-            "url": "https://github.com/NixOS/nixpkgs/pull/344851",
-            "title": "[Backport release-24.05] vmTools: allow qemu to be overridden via customQemu argument",
-            "date_modified": "2024-09-27T10:20:34.000Z",
-            "date_published": "2024-09-27T09:36:46.000Z",
-            "author": {
-                "name": "github-actions",
-                "url": "https://github.com/apps/github-actions"
-            }
-        },
-        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/52847440?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><p dir=\"auto\">I think this is a more sensible default for the qemu package.<br>\nIf you're cross-compiling a NixOS VM, you're more likely to want<br>\nto run the VM on the build machine than the host machine.</p>\n\n<h6 dir=\"auto\">Motivation for this change</h6>\n<h6 dir=\"auto\">Things done</h6>\n\n<ul class=\"contains-task-list\">\n<li>Built on platform(s)\n<ul class=\"contains-task-list\">\n<li class=\"task-list-item\"><input type=\"checkbox\" id=\"\" disabled=\"\" class=\"task-list-item-checkbox\"> x86_64-linux</li>\n<li class=\"task-list-item\"><input type=\"checkbox\" id=\"\" disabled=\"\" class=\"task-list-item-checkbox\"> aarch64-linux</li>\n<li class=\"task-list-item\"><input type=\"checkbox\" id=\"\" disabled=\"\" class=\"task-list-item-checkbox\"> x86_64-darwin</li>\n<li class=\"task-list-item\"><input type=\"checkbox\" id=\"\" disabled=\"\" class=\"task-list-item-checkbox\"> aarch64-darwin</li>\n</ul>\n</li>\n<li class=\"task-list-item\"><input type=\"checkbox\" id=\"\" disabled=\"\" class=\"task-list-item-checkbox\"> For non-Linux: Is <code class=\"notranslate\">sandbox = true</code> set in <code class=\"notranslate\">nix.conf</code>? (See <a href=\"https://nixos.org/manual/nix/stable/#sec-conf-file\" rel=\"nofollow\">Nix manual</a>)</li>\n<li class=\"task-list-item\"><input type=\"checkbox\" id=\"\" disabled=\"\" class=\"task-list-item-checkbox\"> Tested via one or more NixOS test(s) if existing and applicable for the change (look inside <a href=\"https://github.com/NixOS/nixpkgs/blob/master/nixos/tests\">nixos/tests</a>)</li>\n<li class=\"task-list-item\"><input type=\"checkbox\" id=\"\" disabled=\"\" class=\"task-list-item-checkbox\"> Tested compilation of all packages that depend on this change using <code class=\"notranslate\">nix-shell -p nixpkgs-review --run \"nixpkgs-review wip\"</code></li>\n<li class=\"task-list-item\"><input type=\"checkbox\" id=\"\" disabled=\"\" class=\"task-list-item-checkbox\"> Tested execution of all binary files (usually in <code class=\"notranslate\">./result/bin/</code>)</li>\n<li><a href=\"https://github.com/NixOS/nixpkgs/blob/master/CONTRIBUTING.md#generating-2111-release-notes\">21.11 Release Notes (or backporting 21.05 Release notes)</a>\n<ul class=\"contains-task-list\">\n<li class=\"task-list-item\"><input type=\"checkbox\" id=\"\" disabled=\"\" class=\"task-list-item-checkbox\"> (Package updates) Added a release notes entry if the change is major or breaking</li>\n<li class=\"task-list-item\"><input type=\"checkbox\" id=\"\" disabled=\"\" class=\"task-list-item-checkbox\"> (Module updates) Added a release notes entry if the change is significant</li>\n<li class=\"task-list-item\"><input type=\"checkbox\" id=\"\" disabled=\"\" class=\"task-list-item-checkbox\"> (Module addition) Added a release notes entry if adding a new NixOS module</li>\n</ul>\n</li>\n<li class=\"task-list-item\"><input type=\"checkbox\" id=\"\" disabled=\"\" class=\"task-list-item-checkbox\"> Fits <a href=\"https://github.com/NixOS/nixpkgs/blob/master/CONTRIBUTING.md\">CONTRIBUTING.md</a>.</li>\n</ul>",
             "url": "https://github.com/NixOS/nixpkgs/pull/138774",
             "title": "nixos/qemu-vm: use native qemu when cross-compiling",
@@ -58,6 +47,17 @@
             "author": {
                 "name": "r-burns",
                 "url": "https://github.com/r-burns"
+            }
+        },
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/in/15368?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><p dir=\"auto\">Bot-based backport to <code class=\"notranslate\">release-24.05</code>, triggered by a label in <a class=\"issue-link js-issue-link\" data-error-text=\"Failed to load title\" data-id=\"2396352526\" data-permission-text=\"Title is private\" data-url=\"https://github.com/NixOS/nixpkgs/issues/325619\" data-hovercard-type=\"pull_request\" data-hovercard-url=\"/NixOS/nixpkgs/pull/325619/hovercard\" href=\"https://github.com/NixOS/nixpkgs/pull/325619\">#325619</a>.</p>\n<ul class=\"contains-task-list\">\n<li class=\"task-list-item\"><input type=\"checkbox\" id=\"\" disabled=\"\" class=\"task-list-item-checkbox\"> Before merging, ensure that this backport is <a href=\"https://github.com/NixOS/nixpkgs/blob/master/CONTRIBUTING.md#changes-acceptable-for-releases\">acceptable for the release</a>.\n<ul dir=\"auto\">\n<li>Even as a non-commiter, if you find that it is not acceptable, leave a comment.</li>\n</ul>\n</li>\n</ul>",
+            "url": "https://github.com/NixOS/nixpkgs/pull/344851",
+            "title": "[Backport release-24.05] vmTools: allow qemu to be overridden via customQemu argument",
+            "date_modified": "2024-09-27T10:20:34.000Z",
+            "date_published": "2024-09-27T09:36:46.000Z",
+            "author": {
+                "name": "github-actions",
+                "url": "https://github.com/apps/github-actions"
             }
         },
         {
