@@ -20,7 +20,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/14886204?u=cfc13feb10c5d67c790d95dd42a7b8d42c1db7d9&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><p dir=\"auto\">Include link to the full list of values for:</p>\n<ul dir=\"auto\">\n<li>hardware.bluetooth.settings</li>\n<li>hardware.bluetooth.input</li>\n<li>hardware.bluetooth.network</li>\n</ul>",
             "url": "https://github.com/NixOS/nixpkgs/pull/352965",
             "title": "nixos/bluetooth: reference bluez main.conf in descriptions",
-            "date_modified": "2024-11-03T11:30:34.000Z",
+            "date_modified": "2024-11-04T15:14:07.000Z",
             "date_published": "2024-11-01T19:56:40.000Z",
             "author": {
                 "name": "AnnaGraphic",
