@@ -9,7 +9,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/3059397?u=109f2a051801981b8f3b21cd8aa847f62c1cd41d&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><p dir=\"auto\">This makes our docs consistent with <a href=\"https://github.com/Mic92/nix-review\">https://github.com/Mic92/nix-review</a> now pointing to <a href=\"https://github.com/Mic92/nixpkgs-review\">https://github.com/Mic92/nixpkgs-review</a>.</p>",
             "url": "https://github.com/NixOS/nixpkgs/pull/354747",
             "title": "chore: update references to `nix-review` to `nixpkgs-review`",
-            "date_modified": "2024-11-09T11:39:33.000Z",
+            "date_modified": "2024-11-09T13:12:43.000Z",
             "date_published": "2024-11-09T11:38:14.000Z",
             "author": {
                 "name": "KiaraGrouwstra",
