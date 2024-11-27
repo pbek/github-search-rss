@@ -218,7 +218,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/43472218?u=9e13f24c5fadf27a83013aa797a2ea51f8b0aeb4&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><p dir=\"auto\">A helper command to manipulate the redirects mapping to avoid having to do it manually.</p>\n<p dir=\"auto\">As of writing, this is still a WIP, and I have mentioned a few concerns as review comments to make the discussion async.</p>",
             "url": "https://github.com/NixOS/nixpkgs/pull/357383",
             "title": "nixos-render-docs-redirects: init",
-            "date_modified": "2024-11-26T08:39:00.000Z",
+            "date_modified": "2024-11-27T09:25:51.000Z",
             "date_published": "2024-11-19T20:46:49.000Z",
             "author": {
                 "name": "GetPsyched",
