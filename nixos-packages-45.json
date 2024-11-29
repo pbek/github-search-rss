@@ -196,7 +196,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/5861043?u=f5d22900b92677333f5f76bd9462c4162bf62b4f&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><p dir=\"auto\">nixos/deluge: fix package reference</p>\n<p dir=\"auto\">Current reference is invalid, errors if service is enabled.</p>\n<p dir=\"auto\">Tests OK:</p>\n<blockquote>\n<p dir=\"auto\">nix build .#nixosTests.deluge</p>\n</blockquote>\n<p dir=\"auto\">CC <a class=\"user-mention notranslate\" data-hovercard-type=\"user\" data-hovercard-url=\"/users/domenkozar/hovercard\" data-octo-click=\"hovercard-link-click\" data-octo-dimensions=\"link_type:self\" href=\"https://github.com/domenkozar\">@domenkozar</a> <a class=\"user-mention notranslate\" data-hovercard-type=\"user\" data-hovercard-url=\"/users/ebzzry/hovercard\" data-octo-click=\"hovercard-link-click\" data-octo-dimensions=\"link_type:self\" href=\"https://github.com/ebzzry\">@ebzzry</a> <a class=\"user-mention notranslate\" data-hovercard-type=\"user\" data-hovercard-url=\"/users/flokli/hovercard\" data-octo-click=\"hovercard-link-click\" data-octo-dimensions=\"link_type:self\" href=\"https://github.com/flokli\">@flokli</a></p>",
             "url": "https://github.com/NixOS/nixpkgs/pull/359841",
             "title": "nixos/deluge: fix package reference",
-            "date_modified": "2024-11-29T12:05:26.000Z",
+            "date_modified": "2024-11-29T16:28:45.000Z",
             "date_published": "2024-11-28T13:14:59.000Z",
             "author": {
                 "name": "superherointj",
