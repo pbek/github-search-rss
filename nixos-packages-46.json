@@ -20,7 +20,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/12560461?u=78d12bbc041323a3eb8ecd95e837681c9c94220f&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><p dir=\"auto\">ref. <a class=\"issue-link js-issue-link\" data-error-text=\"Failed to load title\" data-id=\"1278785410\" data-permission-text=\"Title is private\" data-url=\"https://github.com/NixOS/nixpkgs/issues/178468\" data-hovercard-type=\"issue\" data-hovercard-url=\"/NixOS/nixpkgs/issues/178468/hovercard\" href=\"https://github.com/NixOS/nixpkgs/issues/178468\">#178468</a></p>\n<h2 dir=\"auto\">Things done</h2>\n<ul class=\"contains-task-list\">\n<li>Built on platform(s)\n<ul class=\"contains-task-list\">\n<li class=\"task-list-item\"><input type=\"checkbox\" id=\"\" disabled=\"\" class=\"task-list-item-checkbox\" checked=\"\"> x86_64-linux</li>\n</ul>\n</li>\n<li class=\"task-list-item\"><input type=\"checkbox\" id=\"\" disabled=\"\" class=\"task-list-item-checkbox\" checked=\"\"> Fits <a href=\"https://github.com/NixOS/nixpkgs/blob/master/CONTRIBUTING.md\">CONTRIBUTING.md</a>.</li>\n</ul>",
             "url": "https://github.com/NixOS/nixpkgs/pull/361823",
             "title": "wget: fix and enable strictDeps",
-            "date_modified": "2024-12-04T17:56:50.000Z",
+            "date_modified": "2024-12-05T12:07:41.000Z",
             "date_published": "2024-12-04T17:49:42.000Z",
             "author": {
                 "name": "FliegendeWurst",
