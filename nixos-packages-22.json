@@ -9,7 +9,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/12560461?u=78d12bbc041323a3eb8ecd95e837681c9c94220f&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><p dir=\"auto\">Trivial fix done in other packages too</p>\n<h2 dir=\"auto\">Things done</h2>\n<ul class=\"contains-task-list\">\n<li>Built on platform(s)\n<ul class=\"contains-task-list\">\n<li class=\"task-list-item\"><input type=\"checkbox\" id=\"\" disabled=\"\" class=\"task-list-item-checkbox\" checked=\"\"> x86_64-linux: and cross to aarch64</li>\n<li class=\"task-list-item\"><input type=\"checkbox\" id=\"\" disabled=\"\" class=\"task-list-item-checkbox\"> aarch64-linux</li>\n</ul>\n</li>\n<li class=\"task-list-item\"><input type=\"checkbox\" id=\"\" disabled=\"\" class=\"task-list-item-checkbox\" checked=\"\"> Fits <a href=\"https://github.com/NixOS/nixpkgs/blob/master/CONTRIBUTING.md\">CONTRIBUTING.md</a>.</li>\n</ul>",
             "url": "https://github.com/NixOS/nixpkgs/pull/370623",
             "title": "python312Packages.libvirt: fix cross build",
-            "date_modified": "2025-01-03T14:36:41.000Z",
+            "date_modified": "2025-01-03T16:54:14.000Z",
             "date_published": "2025-01-03T14:29:16.000Z",
             "author": {
                 "name": "FliegendeWurst",
