@@ -64,7 +64,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/12560461?u=78d12bbc041323a3eb8ecd95e837681c9c94220f&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><p dir=\"auto\">Additionally fix strictDeps for dependent bup, mark the cross build as broken.<br>\nref. <a class=\"issue-link js-issue-link\" data-error-text=\"Failed to load title\" data-id=\"1278785410\" data-permission-text=\"Title is private\" data-url=\"https://github.com/NixOS/nixpkgs/issues/178468\" data-hovercard-type=\"issue\" data-hovercard-url=\"/NixOS/nixpkgs/issues/178468/hovercard\" href=\"https://github.com/NixOS/nixpkgs/issues/178468\">#178468</a></p>\n<h2 dir=\"auto\">Things done</h2>\n<ul class=\"contains-task-list\">\n<li>Built on platform(s)\n<ul class=\"contains-task-list\">\n<li class=\"task-list-item\"><input type=\"checkbox\" id=\"\" disabled=\"\" class=\"task-list-item-checkbox\" checked=\"\"> x86_64-linux: and cross to aarch64</li>\n<li class=\"task-list-item\"><input type=\"checkbox\" id=\"\" disabled=\"\" class=\"task-list-item-checkbox\"> aarch64-linux</li>\n</ul>\n</li>\n<li class=\"task-list-item\"><input type=\"checkbox\" id=\"\" disabled=\"\" class=\"task-list-item-checkbox\" checked=\"\"> Fits <a href=\"https://github.com/NixOS/nixpkgs/blob/master/CONTRIBUTING.md\">CONTRIBUTING.md</a>.</li>\n</ul>",
             "url": "https://github.com/NixOS/nixpkgs/pull/373202",
             "title": "python312Packages.fuse: fix cross build, cleanup, 1.0.7 -> 1.0.9",
-            "date_modified": "2025-01-12T20:15:26.000Z",
+            "date_modified": "2025-01-13T08:47:20.000Z",
             "date_published": "2025-01-12T14:32:25.000Z",
             "author": {
                 "name": "FliegendeWurst",
