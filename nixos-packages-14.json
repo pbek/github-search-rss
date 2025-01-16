@@ -4,5 +4,17 @@
     "home_page_url": "https://pbek.github.io/github-search-rss/nixos-packages-14.json",
     "feed_url": "https://pbek.github.io/github-search-rss/nixos-packages-14.json",
     "description": "NixOS Package PRs for libksysguard-5.27.5, kpeople-5.106.0, polkit, modemmanager, openresolv, gnused packages on GitHub",
-    "items": []
+    "items": [
+        {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/826010?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><p dir=\"auto\">As I have described on <a href=\"https://discourse.nixos.org/t/i-think-i-found-a-bug-in-gitwatch-package-but-i-dont-know-how-to-verify-and-possibly-fix-it/58167\" rel=\"nofollow\">discourse thread</a>:</p>\n<ol dir=\"auto\">\n<li>I have installed this packages system-wide on NixOS stable 24.11</li>\n<li>when using <code class=\"notranslate\">gitwatch</code> program from interactive shell it worked fine</li>\n<li>I have then tried to put in under control of user-spaced <em>systemd</em> service unit to make it start automatically; this however could not happen due to errors:</li>\n</ol>\n<div class=\"snippet-clipboard-content notranslate position-relative overflow-auto\" data-snippet-clipboard-copy-content=\"Dec 31 22:34:50 hosthost gitwatch[3688627]: /nix/store/vabiazsm1vk3mcjhfx7cq31p211icx7s-gitwatch/bin/.gitwatch-wrapped: line 225: sed: command not found\nDec 31 22:34:50 hosthost gitwatch[3688629]: /nix/store/vabiazsm1vk3mcjhfx7cq31p211icx7s-gitwatch/bin/.gitwatch-wrapped: line 273: grep: command not found\"><pre class=\"notranslate\"><code class=\"notranslate\">Dec 31 22:34:50 hosthost gitwatch[3688627]: /nix/store/vabiazsm1vk3mcjhfx7cq31p211icx7s-gitwatch/bin/.gitwatch-wrapped: line 225: sed: command not found\nDec 31 22:34:50 hosthost gitwatch[3688629]: /nix/store/vabiazsm1vk3mcjhfx7cq31p211icx7s-gitwatch/bin/.gitwatch-wrapped: line 273: grep: command not found\n</code></pre></div>\n<h2 dir=\"auto\">Things done</h2>\n<p dir=\"auto\">I have blindly added <code class=\"notranslate\">gnused</code> and <code class=\"notranslate\">gnugrep</code> to the <code class=\"notranslate\">package.nix</code> script, <strong>but I have not tested it</strong> because I don't know how to do it in the \"easy way\" (I have tried cloning the nixpkgs repo though, but I have failed upon system update).</p>",
+            "url": "https://github.com/NixOS/nixpkgs/pull/374287",
+            "title": "gitwatch package - possible lacking of gnugrep and gnused dependencies",
+            "date_modified": "2025-01-16T12:37:25.000Z",
+            "date_published": "2025-01-16T11:55:02.000Z",
+            "author": {
+                "name": "roomcays",
+                "url": "https://github.com/roomcays"
+            }
+        }
+    ]
 }
