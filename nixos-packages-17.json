@@ -20,7 +20,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/7953163?u=79fb80c7a1e85a0cf547cb33d2c93dab557b4f76&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><p dir=\"auto\">Manual backport of <a class=\"issue-link js-issue-link\" data-error-text=\"Failed to load title\" data-id=\"2720102430\" data-permission-text=\"Title is private\" data-url=\"https://github.com/NixOS/nixpkgs/issues/362044\" data-hovercard-type=\"pull_request\" data-hovercard-url=\"/NixOS/nixpkgs/pull/362044/hovercard\" href=\"https://github.com/NixOS/nixpkgs/pull/362044\">#362044</a>.</p>",
             "url": "https://github.com/NixOS/nixpkgs/pull/375631",
             "title": "[24.11] cpupower: add `which` to nativeBuildInputs",
-            "date_modified": "2025-01-21T20:41:09.000Z",
+            "date_modified": "2025-01-22T21:00:35.000Z",
             "date_published": "2025-01-21T20:29:59.000Z",
             "author": {
                 "name": "vikanezrimaya",
