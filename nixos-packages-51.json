@@ -4,17 +4,5 @@
     "home_page_url": "https://pbek.github.io/github-search-rss/nixos-packages-51.json",
     "feed_url": "https://pbek.github.io/github-search-rss/nixos-packages-51.json",
     "description": "NixOS Package PRs for fwupd-1.8.15, plasma-workspace-wallpapers, google-chrome, kactivitymanagerd, gawk-5.2.1, gcc-wrapper-12.2.0 packages on GitHub",
-    "items": [
-        {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/50095635?u=35face07a9d991bd34d540e0a4682f15c8747796&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><div class=\"snippet-clipboard-content notranslate position-relative overflow-auto\" data-snippet-clipboard-copy-content=\"--- SHOWING ERROR LOG FOR google-chrome-127.0.6533.99 ----------------------\n\n/var/cache/nixpkgs-update/worker/worktree/google-chrome/pkgs/by-name/go/google-chrome/update.sh: line 65: uuidgen: command not found\"><pre class=\"notranslate\"><code class=\"notranslate\">--- SHOWING ERROR LOG FOR google-chrome-127.0.6533.99 ----------------------\n\n/var/cache/nixpkgs-update/worker/worktree/google-chrome/pkgs/by-name/go/google-chrome/update.sh: line 65: uuidgen: command not found\n</code></pre></div>\n<p dir=\"auto\">Apparently <code class=\"notranslate\">ryantm</code> bot doesn't even have util-linux in its PATH.</p>",
-            "url": "https://github.com/NixOS/nixpkgs/pull/388724",
-            "title": "google-chrome.passthru.updateScript: fix",
-            "date_modified": "2025-03-10T17:21:29.000Z",
-            "date_published": "2025-03-10T15:45:43.000Z",
-            "author": {
-                "name": "JohnRTitor",
-                "url": "https://github.com/JohnRTitor"
-            }
-        }
-    ]
+    "items": []
 }
