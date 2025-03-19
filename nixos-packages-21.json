@@ -218,7 +218,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/365349?u=04501c379ab70434d30798f6587f65282a289f4e&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><p dir=\"auto\">Allows for running the nbfc-linux service using configName specified in nix, rather than the stuff that's required otherwise.</p>\n<p dir=\"auto\"><a href=\"https://github.com/nbfc-linux/nbfc-linux/blob/main/nixos-installation-new.md\">https://github.com/nbfc-linux/nbfc-linux/blob/main/nixos-installation-new.md</a></p>",
             "url": "https://github.com/NixOS/nixpkgs/pull/390869",
             "title": "nixos/nbfc-linux: init",
-            "date_modified": "2025-03-18T16:54:56.000Z",
+            "date_modified": "2025-03-19T11:50:03.000Z",
             "date_published": "2025-03-18T06:25:41.000Z",
             "author": {
                 "name": "YodaDaCoda",
