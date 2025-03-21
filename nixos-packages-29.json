@@ -28,6 +28,17 @@
             }
         },
         {
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/50095635?u=35face07a9d991bd34d540e0a4682f15c8747796&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><p dir=\"auto\">Since we distribute for <code class=\"notranslate\">aarch64-linux</code> platform too, it makes sense the CI to test both platforms for NixOS module (manual) related changes.</p>\n<p dir=\"auto\">Additionally upload the result dir, so if anyone wants to check it without building locally, they totally can.</p>\n<p dir=\"auto\">Tested in <a href=\"https://github.com/JohnRTitor/nixpkgs/actions/runs/13999244787\">https://github.com/JohnRTitor/nixpkgs/actions/runs/13999244787</a></p>",
+            "url": "https://github.com/NixOS/nixpkgs/pull/391928",
+            "title": "workflows/build-nixos-manual: run on aarch64-linux too and upload the result",
+            "date_modified": "2025-03-21T20:07:20.000Z",
+            "date_published": "2025-03-21T19:22:58.000Z",
+            "author": {
+                "name": "JohnRTitor",
+                "url": "https://github.com/JohnRTitor"
+            }
+        },
+        {
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/4804?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><p dir=\"auto\">This is the nixos manual counterpart to <a class=\"issue-link js-issue-link\" data-error-text=\"Failed to load title\" data-id=\"777094139\" data-permission-text=\"Title is private\" data-url=\"https://github.com/NixOS/nixpkgs/issues/108063\" data-hovercard-type=\"pull_request\" data-hovercard-url=\"/NixOS/nixpkgs/pull/108063/hovercard\" href=\"https://github.com/NixOS/nixpkgs/pull/108063\">#108063</a></p>\n<h2 dir=\"auto\">Try it yourself</h2>\n<ul dir=\"auto\">\n<li>Checkout this branch</li>\n<li>nix run .#nixos-manual-mmdoc-watch</li>\n<li>visit <code class=\"notranslate\">http://localhost:8000/</code> in your web browser</li>\n</ul>",
             "url": "https://github.com/NixOS/nixpkgs/pull/254434",
             "title": "nixos-manual with mmdoc",
