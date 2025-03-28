@@ -20,7 +20,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/1785925?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><p dir=\"auto\">We're getting 2x5 darwin VM jobs that aren't schedulable on our current Hydra.nixos.org, which makes them hang around and delay advancing of all <code class=\"notranslate\">nixpkgs-*</code> channels.<br>\nTo me that's quite an annoying effect, as it can be like an extra day of additional delay without any benefit that I can really perceive. (unless someone like me keeps manually cancelling the jobs all the time)</p>\n<h2 dir=\"auto\">Things done</h2>\n<p dir=\"auto\">The normal checklist doesn't apply here really.  I checked that the 2x5 problematic jobs do all disappear.</p>\n\n<hr>\n<p dir=\"auto\">Add a 👍 <a href=\"https://github.blog/2016-03-10-add-reactions-to-pull-requests-issues-and-comments/\" rel=\"nofollow\">reaction</a> to <a href=\"https://github.com/NixOS/nixpkgs/pulls?q=is%3Aopen+sort%3Areactions-%2B1-desc\">pull requests you find important</a>.</p>",
             "url": "https://github.com/NixOS/nixpkgs/pull/393977",
             "title": "nixos/lib/testing: avoid generating darwin VM tests",
-            "date_modified": "2025-03-28T11:17:04.000Z",
+            "date_modified": "2025-03-28T11:24:26.000Z",
             "date_published": "2025-03-28T11:16:30.000Z",
             "author": {
                 "name": "vcunat",
