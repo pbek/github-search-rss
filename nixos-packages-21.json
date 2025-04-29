@@ -83,10 +83,10 @@
             }
         },
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/20525370?u=d7c703d1d8974c5837ca617d54e4a1ff85eb7721&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><p dir=\"auto\">Copied from <a class=\"commit-link\" data-hovercard-type=\"commit\" data-hovercard-url=\"https://github.com/NixOS/nixpkgs/commit/9fe10288f01984963faf47e21bf1bae4d7d37962/hovercard\" href=\"https://github.com/NixOS/nixpkgs/commit/9fe10288f01984963faf47e21bf1bae4d7d37962\"><tt>9fe1028</tt></a></p>\n<p dir=\"auto\">Ping <a class=\"user-mention notranslate\" data-hovercard-type=\"user\" data-hovercard-url=\"/users/edef1c/hovercard\" data-octo-click=\"hovercard-link-click\" data-octo-dimensions=\"link_type:self\" href=\"https://github.com/edef1c\">@edef1c</a> <a class=\"user-mention notranslate\" data-hovercard-type=\"user\" data-hovercard-url=\"/users/dasJ/hovercard\" data-octo-click=\"hovercard-link-click\" data-octo-dimensions=\"link_type:self\" href=\"https://github.com/dasJ\">@dasJ</a></p>\n<hr>\n<p dir=\"auto\">Add a 👍 <a href=\"https://github.blog/2016-03-10-add-reactions-to-pull-requests-issues-and-comments/\" rel=\"nofollow\">reaction</a> to <a href=\"https://github.com/NixOS/nixpkgs/pulls?q=is%3Aopen+sort%3Areactions-%2B1-desc\">pull requests you find important</a>.</p>",
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/20525370?u=d7c703d1d8974c5837ca617d54e4a1ff85eb7721&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><p dir=\"auto\">Copied from previous commits messages</p>\n<p dir=\"auto\">Ping <a class=\"user-mention notranslate\" data-hovercard-type=\"user\" data-hovercard-url=\"/users/edef1c/hovercard\" data-octo-click=\"hovercard-link-click\" data-octo-dimensions=\"link_type:self\" href=\"https://github.com/edef1c\">@edef1c</a> <a class=\"user-mention notranslate\" data-hovercard-type=\"user\" data-hovercard-url=\"/users/dasJ/hovercard\" data-octo-click=\"hovercard-link-click\" data-octo-dimensions=\"link_type:self\" href=\"https://github.com/dasJ\">@dasJ</a></p>\n<hr>\n<p dir=\"auto\">Add a 👍 <a href=\"https://github.blog/2016-03-10-add-reactions-to-pull-requests-issues-and-comments/\" rel=\"nofollow\">reaction</a> to <a href=\"https://github.com/NixOS/nixpkgs/pulls?q=is%3Aopen+sort%3Areactions-%2B1-desc\">pull requests you find important</a>.</p>",
             "url": "https://github.com/NixOS/nixpkgs/pull/402820",
-            "title": "openssh: Add patch note",
-            "date_modified": "2025-04-29T13:35:33.000Z",
+            "title": "openssh: Add patch notes",
+            "date_modified": "2025-04-29T13:51:00.000Z",
             "date_published": "2025-04-29T13:27:10.000Z",
             "author": {
                 "name": "infinisil",
