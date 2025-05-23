@@ -64,7 +64,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/6599296?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><p dir=\"auto\">thanks <a class=\"user-mention notranslate\" data-hovercard-type=\"user\" data-hovercard-url=\"/users/roberth/hovercard\" data-octo-click=\"hovercard-link-click\" data-octo-dimensions=\"link_type:self\" href=\"https://github.com/roberth\">@roberth</a> for fostering complaint-driven development</p>\n<p dir=\"auto\">Add a 👍 <a href=\"https://github.blog/2016-03-10-add-reactions-to-pull-requests-issues-and-comments/\" rel=\"nofollow\">reaction</a> to <a href=\"https://github.com/NixOS/nixpkgs/pulls?q=is%3Aopen+sort%3Areactions-%2B1-desc\">pull requests you find important</a>.</p>",
             "url": "https://github.com/NixOS/nixpkgs/pull/410219",
             "title": "nixos-render-docs: make error message on broken redirects less verbose",
-            "date_modified": "2025-05-23T16:22:44.000Z",
+            "date_modified": "2025-05-23T18:08:28.000Z",
             "date_published": "2025-05-23T16:15:48.000Z",
             "author": {
                 "name": "fricklerhandwerk",
