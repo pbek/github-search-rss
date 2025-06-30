@@ -53,7 +53,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/44864956?u=61707779a5c318798f6ddcb7e025c6ed8b4c3f19&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><h1 dir=\"auto\">ncurses: fix build with gcc-15</h1>\n<p dir=\"auto\">This is zero-rebuild change for gcc-14, but fixes build with gcc-15, which can be<br>\nobserved either by trying to build yourself:</p>\n<div class=\"snippet-clipboard-content notranslate position-relative overflow-auto\" data-snippet-clipboard-copy-content=\":b ncurses.override { stdenv = gcc15Stdenv; }\"><pre class=\"notranslate\"><code class=\"notranslate\">:b ncurses.override { stdenv = gcc15Stdenv; }\n</code></pre></div>\n<p dir=\"auto\">or can be seen in <a href=\"https://builds.sr.ht/~kaction/job/1520835\" rel=\"nofollow\">CI logs</a>.</p>",
             "url": "https://github.com/NixOS/nixpkgs/pull/421115",
             "title": "ncurses: fix build with gcc-15",
-            "date_modified": "2025-06-29T21:06:46.000Z",
+            "date_modified": "2025-06-30T00:57:31.000Z",
             "date_published": "2025-06-29T20:58:12.000Z",
             "author": {
                 "name": "KAction",
