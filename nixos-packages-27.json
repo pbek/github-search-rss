@@ -9,7 +9,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/4218822?u=7e34b5bbfff8177cb145c2542ba316d860e5296d&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><p dir=\"auto\">Replace use of rec with finalAttrs; add djds@ to maintainers.</p>",
             "url": "https://github.com/NixOS/nixpkgs/pull/445402",
             "title": "restic: Replace rec with finalAttrs; add djds@ to maintainers",
-            "date_modified": "2025-09-23T04:28:22.000Z",
+            "date_modified": "2025-09-23T04:35:38.000Z",
             "date_published": "2025-09-23T04:05:24.000Z",
             "author": {
                 "name": "djds",
