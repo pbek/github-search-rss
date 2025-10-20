@@ -9,7 +9,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/330177?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><p dir=\"auto\"><span class=\"issue-keyword tooltipped tooltipped-se\" aria-label=\"This pull request closes issue #453297.\">fixes</span> <a class=\"issue-link js-issue-link\" data-error-text=\"Failed to load title\" data-id=\"3529100019\" data-permission-text=\"Title is private\" data-url=\"https://github.com/NixOS/nixpkgs/issues/453297\" data-hovercard-type=\"issue\" data-hovercard-url=\"/NixOS/nixpkgs/issues/453297/hovercard\" href=\"https://github.com/NixOS/nixpkgs/issues/453297\">#453297</a></p>",
             "url": "https://github.com/NixOS/nixpkgs/pull/453306",
             "title": "python3Package.pymatting: disable tests which depend on OpenCL when cudaSupport = true",
-            "date_modified": "2025-10-18T20:01:00.000Z",
+            "date_modified": "2025-10-20T13:35:05.000Z",
             "date_published": "2025-10-18T19:48:29.000Z",
             "author": {
                 "name": "adrian-gierakowski",
