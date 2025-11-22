@@ -42,7 +42,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/178444?u=b900003497743537a7d2bb1303938126ba6ed288&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><p dir=\"auto\">Allows user configuration of the type of 9p cache.</p>\n<p dir=\"auto\">Under high contention store paths seem to be improperly cached inside of the VM when cache=loose is set. Generally this will manifest with null bytes or garbage appearing in the affected files. This change allows for users to set cache=none if they want slower but more correct tests or to use cache=fscache. Haven't tested fscache, but it is a valid 9p cache.</p>\n<h2 dir=\"auto\">Things done</h2>\n<p dir=\"auto\">default is kept as-is, so this should not be a breaking change</p>",
             "url": "https://github.com/NixOS/nixpkgs/pull/463542",
             "title": "nixos/qemu-vm: Allow 9p cache to be configured",
-            "date_modified": "2025-11-20T19:43:26.000Z",
+            "date_modified": "2025-11-22T14:30:45.000Z",
             "date_published": "2025-11-20T19:37:42.000Z",
             "author": {
                 "name": "tomberek",
