@@ -9,7 +9,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/44864956?u=abccbb500ddf3a9d4f1252bb1668a539d09d9ae6&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><h2 dir=\"auto\">Things done</h2>\n<ul dir=\"auto\">\n<li>Built on platform:\n<ul class=\"contains-task-list\">\n<li class=\"task-list-item\"><input type=\"checkbox\" id=\"\" disabled=\"\" class=\"task-list-item-checkbox\" aria-label=\"Completed task\" checked=\"\"> x86_64-linux</li>\n<li class=\"task-list-item\"><input type=\"checkbox\" id=\"\" disabled=\"\" class=\"task-list-item-checkbox\" aria-label=\"Incomplete task\"> aarch64-linux</li>\n<li class=\"task-list-item\"><input type=\"checkbox\" id=\"\" disabled=\"\" class=\"task-list-item-checkbox\" aria-label=\"Incomplete task\"> x86_64-darwin</li>\n<li class=\"task-list-item\"><input type=\"checkbox\" id=\"\" disabled=\"\" class=\"task-list-item-checkbox\" aria-label=\"Incomplete task\"> aarch64-darwin</li>\n</ul>\n</li>\n</ul>",
             "url": "https://github.com/NixOS/nixpkgs/pull/471258",
             "title": "gnumake: build offline html documentation",
-            "date_modified": "2025-12-16T07:44:10.000Z",
+            "date_modified": "2025-12-16T15:58:28.000Z",
             "date_published": "2025-12-16T05:43:08.000Z",
             "author": {
                 "name": "KAction",
