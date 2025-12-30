@@ -20,7 +20,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/75371?u=07f2c9eaa4df07b236648c9ccd97a951735fb8d2&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><p dir=\"auto\">Adds some patches for gpg.fail:</p>\n<ul dir=\"auto\">\n<li>gpg.fail/memcpy (backported to 2.4 branch)</li>\n<li>gpg.fail/sha1</li>\n<li>gpg.fail/detached</li>\n<li>gpg.fail/filename (backported to 2.4.8)</li>\n</ul>\n<p dir=\"auto\">Still work in progress, more or different patches might be included based on discussions with FreePG and the researchers</p>",
             "url": "https://github.com/NixOS/nixpkgs/pull/475065",
             "title": "[staging] gnupg: add patches for gpg.fail (WIP)",
-            "date_modified": "2025-12-30T00:20:28.000Z",
+            "date_modified": "2025-12-30T11:08:32.000Z",
             "date_published": "2025-12-29T15:04:53.000Z",
             "author": {
                 "name": "stigtsp",
