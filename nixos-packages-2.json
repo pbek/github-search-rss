@@ -42,7 +42,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/450507?u=54630db69c6e826b2cf03db064a1f4e5119bf085&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><p dir=\"auto\">The script imports dbus (dbus-python) and gi (pygobject3) modules in its KDE support section: <a href=\"https://github.com/rvaiya/keyd/blob/7c0aecb8bfd34dc8642bf4eefd2e59c89e61cec3/scripts/keyd-application-mapper#L177\">https://github.com/rvaiya/keyd/blob/7c0aecb8bfd34dc8642bf4eefd2e59c89e61cec3/scripts/keyd-application-mapper#L177</a></p>\n<p dir=\"auto\">Add these modules to dependencies to fix KDE support failing silently</p>",
             "url": "https://github.com/NixOS/nixpkgs/pull/478140",
             "title": "keyd: add pygobject3 and dbus-python to keyd-application-mapper script dependencies",
-            "date_modified": "2026-01-12T17:04:36.000Z",
+            "date_modified": "2026-01-12T17:19:52.000Z",
             "date_published": "2026-01-08T17:08:21.000Z",
             "author": {
                 "name": "neko-kai",
