@@ -64,7 +64,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/254145391?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><p dir=\"auto\">initially done as a separate package on <a class=\"issue-link js-issue-link\" data-error-text=\"Failed to load title\" data-id=\"3800124719\" data-permission-text=\"Title is private\" data-url=\"https://github.com/NixOS/nixpkgs/issues/478773\" data-hovercard-type=\"pull_request\" data-hovercard-url=\"/NixOS/nixpkgs/pull/478773/hovercard\" href=\"https://github.com/NixOS/nixpkgs/pull/478773\">#478773</a></p>\n<p dir=\"auto\">main reasoning for the change is:</p>\n<ol dir=\"auto\">\n<li>it uses the official openssh (contrib) sources;</li>\n<li>the package uses the contrib <code class=\"notranslate\">ssh-copy-id</code> too;</li>\n<li>doesn't rely on 3rd-party github projects;</li>\n<li>looks more modern than the likes of x11_ssh_askpass;</li>\n<li>other distros such as alpine provide it as well</li>\n</ol>\n<p dir=\"auto\">still in the process of learning so not sure if this is the right approach of tackling this, but works in my box</p>",
             "url": "https://github.com/NixOS/nixpkgs/pull/479786",
             "title": "openssh: compile and install contrib GTK3 askpass",
-            "date_modified": "2026-01-13T19:29:07.000Z",
+            "date_modified": "2026-01-13T20:53:30.000Z",
             "date_published": "2026-01-13T19:17:06.000Z",
             "author": {
                 "name": "n3tshift",
