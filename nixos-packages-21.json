@@ -75,7 +75,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/254145391?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><p dir=\"auto\">first time contrib, followed the official docs but reckon there's bound to be some mistakes even though it does build locally with <code class=\"notranslate\">nix-build</code>. not sure if it will work but i have also enabled <code class=\"notranslate\">nix-update-script</code> for automatic package updates as per the guide</p>\n<p dir=\"auto\">main reasoning for trying to get this in nixpkgs is:</p>\n<ol dir=\"auto\">\n<li>it uses the official openssh (contrib) sources;</li>\n<li>doesn't rely on 3rd-party github projects;</li>\n<li>looks more modern than the likes of x11_ssh_askpass;</li>\n<li>other distros such as alpine provide it as well</li>\n</ol>\n<p dir=\"auto\">set myself as the maintainer in the process. let me know if any of this needs adjustments</p>",
             "url": "https://github.com/NixOS/nixpkgs/pull/478773",
             "title": "openssh-askpass: init at 10.2.p1",
-            "date_modified": "2026-01-14T20:39:32.000Z",
+            "date_modified": "2026-01-15T08:10:24.000Z",
             "date_published": "2026-01-10T17:44:11.000Z",
             "author": {
                 "name": "n3tshift",
