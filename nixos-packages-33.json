@@ -9,7 +9,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/126339?u=7229d6348ca93e59129e118db025fb1ab111df84&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><p dir=\"auto\">When WiFi-based geolocation is enabled, geoclue needs to communicate with wpa_supplicant via D-Bus to scan WiFi networks. However, wpa_supplicant's default D-Bus policy only allows root access.</p>\n<p dir=\"auto\">This adds a D-Bus policy that allows the geoclue user to send requests to and receive responses from wpa_supplicant when enableWifi is true.</p>\n<p dir=\"auto\">Without this fix, geoclue reports \"No WiFi networks found\" and falls back to less accurate IP-based geolocation.</p>\n<p dir=\"auto\">Ported from <a class=\"commit-link\" data-hovercard-type=\"commit\" data-hovercard-url=\"https://github.com/domenkozar/homelab/commit/4b608ef5c80f862945615d25afd8738b9370e0ba/hovercard\" href=\"https://github.com/domenkozar/homelab/commit/4b608ef5c80f862945615d25afd8738b9370e0ba\">domenkozar/homelab@<tt>4b608ef</tt></a></p>",
             "url": "https://github.com/NixOS/nixpkgs/pull/482749",
             "title": "nixos/geoclue2: add D-Bus policy to access wpa_supplicant",
-            "date_modified": "2026-01-22T17:12:01.000Z",
+            "date_modified": "2026-01-22T19:46:22.000Z",
             "date_published": "2026-01-22T16:57:57.000Z",
             "author": {
                 "name": "domenkozar",
