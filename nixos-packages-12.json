@@ -6,10 +6,10 @@
     "description": "NixOS Package PRs for knotifyconfig, kdepim-runtime, ffmpegthumbs, libressl-3.7.2, cryptsetup-2.6.1, gnupg packages on GitHub",
     "items": [
         {
-            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/75371?u=07f2c9eaa4df07b236648c9ccd97a951735fb8d2&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><p dir=\"auto\">This also addresses some gpg.fail issues</p>",
+            "content_html": "<img src=\"https://avatars.githubusercontent.com/u/75371?u=07f2c9eaa4df07b236648c9ccd97a951735fb8d2&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><ul dir=\"auto\">\n<li>\n<p dir=\"auto\">Updates gnupg 2.4.8 to 2.4.9</p>\n</li>\n<li>\n<p dir=\"auto\">Update freepg patches to source-2.4.9-freepg</p>\n</li>\n<li>\n<p dir=\"auto\">Use <code class=\"notranslate\">substituteInPlace</code> with <code class=\"notranslate\">--replace-fail</code> to make keyserver change more robust.</p>\n</li>\n<li>\n<p dir=\"auto\">Update <code class=\"notranslate\">static.patch</code> to generated <code class=\"notranslate\">configure</code> (Thanks <a class=\"user-mention notranslate\" data-hovercard-type=\"user\" data-hovercard-url=\"/users/alyssais/hovercard\" data-octo-click=\"hovercard-link-click\" data-octo-dimensions=\"link_type:self\" href=\"https://github.com/alyssais\">@alyssais</a>)</p>\n</li>\n</ul>",
             "url": "https://github.com/NixOS/nixpkgs/pull/475065",
             "title": "[staging] gnupg: 2.4.8 -> 2.4.9, update freepg patches",
-            "date_modified": "2026-01-11T12:23:21.000Z",
+            "date_modified": "2026-01-28T04:55:48.000Z",
             "date_published": "2025-12-29T15:04:53.000Z",
             "author": {
                 "name": "stigtsp",
