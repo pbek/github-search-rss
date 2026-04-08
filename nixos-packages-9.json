@@ -9,7 +9,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/434254?u=5154d2358f7aeb10f7696744483b549d01c0c49b&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><p dir=\"auto\">I'm no longer using calibre-web and don't have capacity to maintain it.</p>",
             "url": "https://github.com/NixOS/nixpkgs/pull/507835",
             "title": "calibre-web: orphan",
-            "date_modified": "2026-04-08T09:27:30.000Z",
+            "date_modified": "2026-04-08T10:03:51.000Z",
             "date_published": "2026-04-08T09:23:26.000Z",
             "author": {
                 "name": "pborzenkov",
