@@ -9,7 +9,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/8762511?u=0afe063d603ff0e28668a123a852b7d84d696b32&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><p dir=\"auto\">It's useless to link to the main page, and there's no good way to link the appropriate post automatically based on the version number. So I unset this.</p>\n\n<h2 dir=\"auto\">Things done</h2>\n\n<ul class=\"contains-task-list\">\n<li class=\"task-list-item\"><input type=\"checkbox\" id=\"\" disabled=\"\" class=\"task-list-item-checkbox\" aria-label=\"Completed task\" checked=\"\"> 0 rebuilds</li>\n<li class=\"task-list-item\"><input type=\"checkbox\" id=\"\" disabled=\"\" class=\"task-list-item-checkbox\" aria-label=\"Completed task\" checked=\"\"> Fits <a href=\"https://github.com/NixOS/nixpkgs/blob/master/CONTRIBUTING.md\">CONTRIBUTING.md</a>, <a href=\"https://github.com/NixOS/nixpkgs/blob/master/pkgs/README.md\">pkgs/README.md</a>, <a href=\"https://github.com/NixOS/nixpkgs/blob/master/maintainers/README.md\">maintainers/README.md</a> and other READMEs.</li>\n</ul>",
             "url": "https://github.com/NixOS/nixpkgs/pull/512552",
             "title": "google-chrome: remove meta.changelog",
-            "date_modified": "2026-04-23T07:34:38.000Z",
+            "date_modified": "2026-04-23T08:18:54.000Z",
             "date_published": "2026-04-22T21:50:40.000Z",
             "author": {
                 "name": "mdaniels5757",
