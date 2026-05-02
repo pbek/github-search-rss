@@ -163,7 +163,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/8762511?u=0afe063d603ff0e28668a123a852b7d84d696b32&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><p dir=\"auto\">Generated using deadnix (with some manual work); split from <a class=\"issue-link js-issue-link\" data-error-text=\"Failed to load title\" data-id=\"4347387691\" data-permission-text=\"Title is private\" data-url=\"https://github.com/NixOS/nixpkgs/issues/514611\" data-hovercard-type=\"pull_request\" data-hovercard-url=\"/NixOS/nixpkgs/pull/514611/hovercard\" href=\"https://github.com/NixOS/nixpkgs/pull/514611\">#514611</a>.</p>\n\n<h2 dir=\"auto\">Things done</h2>\n\n<ul class=\"contains-task-list\">\n<li class=\"task-list-item\"><input type=\"checkbox\" id=\"\" disabled=\"\" class=\"task-list-item-checkbox\" aria-label=\"Completed task\" checked=\"\"> Fits <a href=\"https://github.com/NixOS/nixpkgs/blob/master/CONTRIBUTING.md\">CONTRIBUTING.md</a>, <a href=\"https://github.com/NixOS/nixpkgs/blob/master/pkgs/README.md\">pkgs/README.md</a>, <a href=\"https://github.com/NixOS/nixpkgs/blob/master/maintainers/README.md\">maintainers/README.md</a> and other READMEs.</li>\n</ul>",
             "url": "https://github.com/NixOS/nixpkgs/pull/515686",
             "title": "nixos/*: remove unused let bindings",
-            "date_modified": "2026-05-02T01:10:09.000Z",
+            "date_modified": "2026-05-02T07:21:22.000Z",
             "date_published": "2026-05-02T00:39:53.000Z",
             "author": {
                 "name": "mdaniels5757",
