@@ -20,7 +20,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/1212129?u=0f7f6cf962aea714d8fdd681512e5370fe580989&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><p dir=\"auto\">Adds an <code class=\"notranslate\">extraCliPlugins</code> option to the package definition to include<br>\nadditional arbitrary docker plugins. This allows injecting plugins that<br>\naren't included by default in the package definition to be usable by the<br>\nCLI without changing the full package definition which allows overrides<br>\nto include extra packages that aren't included in nixpkgs.</p>",
             "url": "https://github.com/NixOS/nixpkgs/pull/547843",
             "title": "docker: add extraCliPlugins to package definition",
-            "date_modified": "2026-08-02T17:28:54.000Z",
+            "date_modified": "2026-08-11T04:36:17.000Z",
             "date_published": "2026-07-31T17:32:52.000Z",
             "author": {
                 "name": "jsternberg",
