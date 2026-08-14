@@ -196,7 +196,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/39400800?u=61d76ac2849fbe0ee73809a8336df03117275988&v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><p dir=\"auto\">I've been working on a re-implementation of NixOS vars as part of the <a href=\"https://discourse.nixos.org/t/gsoc-contributors-2026-announced/77328\" rel=\"nofollow\">Google Summer of Code</a> project, together with my mentor <a class=\"user-mention notranslate\" data-hovercard-type=\"user\" data-hovercard-url=\"/users/Lassulus/hovercard\" data-octo-click=\"hovercard-link-click\" data-octo-dimensions=\"link_type:self\" href=\"https://github.com/Lassulus\">@Lassulus</a>. For info about the API, check the README included with this PR.</p>\n<h2 dir=\"auto\">Things done</h2>\n<p dir=\"auto\">This PR implements a basic CLI for working with vars, a NixOS module that can be used together with the CLI, and some simple examples. There's also a simple NixOS test.</p>\n<p dir=\"auto\">A bunch of concepts in the API have temporary names. Feel free to suggest better ones!</p>",
             "url": "https://github.com/NixOS/nixpkgs/pull/547171",
             "title": "(Draft) NixOS vars",
-            "date_modified": "2026-08-14T17:33:57.000Z",
+            "date_modified": "2026-08-14T18:25:21.000Z",
             "date_published": "2026-07-29T18:51:07.000Z",
             "author": {
                 "name": "prescientmoon",
