@@ -42,7 +42,7 @@
             "content_html": "<img src=\"https://avatars.githubusercontent.com/u/665072?v=4\" width=\"64\" height=\"64\" alt=\"\"/><br/><p dir=\"auto\">The FCC unlock scripts use a few helpers not automatically included with systemd, which we need to set up the service path for. Two of the scripts that come from upstream use awk and xxd, which were missing in the list. That made the script mistakenly yield an empty response, which ultimately makes the unlock fail.</p>\n<p dir=\"auto\">As of today, this fix covers the MediaTek T700, sold e.g. with the ThinkPad X1 Yoga Gen 8 as Fibocom FM350-GL.</p>\n<h2 dir=\"auto\">Related</h2>\n<p dir=\"auto\">Affected unlock scripts upstream: (<a href=\"https://github.com/linux-mobile-broadband/ModemManager\">linux-mobile-broadband/ModemManager</a>)</p>\n<ul dir=\"auto\">\n<li><a href=\"https://github.com/linux-mobile-broadband/ModemManager/blob/main/data/dispatcher-fcc-unlock/14c3\">data/dispatcher-fcc-unlock/14c3</a> (currently included in nixpkgs)</li>\n<li><a href=\"https://github.com/linux-mobile-broadband/ModemManager/blob/main/data/dispatcher-fcc-unlock/8086:7360\">data/dispatcher-fcc-unlock/8086:7360</a> (upcoming, not yet included here)</li>\n</ul>",
             "url": "https://github.com/NixOS/nixpkgs/pull/555338",
             "title": "nixos/modemmanager: fix missing awk and xxd in FCC unlock script PATH",
-            "date_modified": "2026-08-22T09:39:36.000Z",
+            "date_modified": "2026-08-22T11:14:28.000Z",
             "date_published": "2026-08-22T09:34:23.000Z",
             "author": {
                 "name": "bittner",
